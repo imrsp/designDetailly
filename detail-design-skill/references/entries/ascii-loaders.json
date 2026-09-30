@@ -1,0 +1,24 @@
+{
+  "slug": "ascii-loaders",
+  "locale": "en",
+  "title": "ASCII Loaders",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/ascii-loaders.mp4",
+      "alt": "ASCII Loaders",
+      "width": 1768,
+      "height": 1080,
+      "credit": "https://x.com/willking/status/2016562002676617632",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAB1AMADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBQQDBv/EABkBAQADAQEAAAAAAAAAAAAAAAABAgMEBf/aAAwDAQACEAMQAAAA9+byz3n6Fcmtd9ZjwnZYxOyxhszjIbLGGyxhssYbLGGzbEk+h7vmtatODN78zWfOsI6QAAAAAAAEwOvYxdilObO0M/TLwEdAAAAAAAAAHTr5GtnHLwd3Drh4iOgACU2KPQeb0gpF6kAAA6dbJ1cZ4+Ls49+fyEbgAWv5yXUksiCaTUAAA6NTK08L8XN7eHRzUEbAAAL09C1b1POJgAAA99DO7sduXw6vHfi8HpEa0XFF5PN6SedrWiax6SeEdCJ53QOd0E87olNO3y7Mt+TyOnyqQNEkEkJkhaxVaxS0yVuEXCNFhp6dBTf/xAAhEAEAAQQDAQADAQAAAAAAAAAAAQIDERITFDBhBBBAIP/aAAgBAQABPwCu5hVeTfdh2HY+uw7DsOw7H12PrsOw7H12HYdh2HY+ux9R+R9UX1u7lduK7qbybrlcrlcrllyy5XK5XK5XK5XK5XK5kXlq6sXF6pcqTLLP7z7RK1L8eV5c/ltLC8ufy2lhdV/y2lhdV+GGGGGGPC0sLqv/AHDDDDDHjaWFxX/uPa2sLkq/DLPpbWZVyq8oYTCfChalUnyj9SnwoWlSfKP1KYYYYYYYYUQtwqhMMMMMMMNWrVq1aNGjRo0aNHGooW6EwmGGGGGGGGGEUwimGsNYaw1hrDWGsNYRRCmmFMQ//8QAHBEAAgIDAQEAAAAAAAAAAAAAABEBMAIDEiAQ/9oACAECAQE/AJ+oQhCEIRJNeRNeZNewmvYTXs9MZ0dHR0Zz7nzkf//EAB0RAAEEAwEBAAAAAAAAAAAAAAABAgMTERIwECD/2gAIAQMBAT8AijyVFRUVFZWVlZWVjoyHm5CLpF0i5tI+bEGKbGxsbGxkz7gjaN+kEEEEGH//2Q=="
+    }
+  ],
+  "publishedAt": "2026-01-31T00:00:00.000Z",
+  "seo": {
+    "keywords": "ASCII loader, CLI spinner, terminal animation, loading indicator, text-based animation"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    a: \"a\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_components.p, {\n    children: [\"You can use \", _jsx(_components.a, {\n      href: \"https://github.com/sindresorhus/cli-spinners\",\n      children: \"cli-spinners\"\n    }), \" to bring this to your app.\"]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

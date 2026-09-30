@@ -1,0 +1,25 @@
+{
+  "slug": "natural-image-border",
+  "locale": "en",
+  "title": "Natural Image Border",
+  "summary": "An inset ring gives images a softer, more natural edge than a hard border.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/natural-image-border.jpeg",
+      "alt": "Natrual Image Border",
+      "width": 1532,
+      "height": 796,
+      "credit": "https://x.com/iamncdai/status/2025198433435615341",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAAyAGADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA+EJVFpvrz11MDpxpvrz11MJwG3R5vdJ0GScJmvRjaRzzhkEAAJRF/KRKIAAAAAAf/8QAHBAAAgMAAwEAAAAAAAAAAAAAAAECAxEQIDAT/9oACAEBAAE/AOcfbH0SIV6fFYWRzlIhXp8VhZHOYlckh2LC2W8xK3g5rC170UhzY3zERJsl4pimOQ/LTff/xAAZEQEAAwEBAAAAAAAAAAAAAAABAAIQETD/2gAIAQIBAT8AhVdKrpbkcLcj6//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQMBAT8AR//Z"
+    }
+  ],
+  "publishedAt": "2026-03-02T00:00:00.000Z",
+  "seo": {
+    "keywords": "inset image border, semi-transparent ring, natural image boundary, image edge styling, subtle border design"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Use an inset ring with a semi-transparent color instead of a border to create a more natural look for images.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "colorful-cursor-blink",
+  "locale": "en",
+  "title": "Colorful Cursor Blink",
+  "summary": "Make a soulful input field.",
+  "type": [
+    "design",
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/colorful-cursor-blinking.webm",
+      "alt": "Google AI search input cursor blinking through different colors",
+      "width": 544,
+      "height": 239,
+      "seenAt": "https://www.google.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABVAMADASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAUBBAYCA//EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA7g+Z9GnrlRJFZJFZJFZJFZJFZJFZJFZJFZL2DcfP6DT3JpOl+4VlVDFxDwXELBeQBfQBfQBfQBfQB0tTj7x1O5NpSpdSWc1BvQbNdgZwwYxnBgAABnJ5elbHQQL8dNUl1JUynPOYg9PHsj4o4J/ml5J2KOCeoCeoCeoDRzv5NDFFqa9+fZLlOfQxpr7HkkaPQ/M57HQjnsdEOddEOddEOddEOddEOdz0I550KyFv7/0POx59SgAAAAAAAAAAAf/EAB8QAAEEAwEBAQEAAAAAAAAAABQAAgMTAQQSERBAMP/aAAgBAQABAgD5133333333333333333319c58udgkkkkkkkkkkkkkkknGwyVrllSunnk2iyyyyzDDDDDDDDDDI9qCeJ2E5bGdp8sltttttttttttttttsMuo/Xy1PWyttS/hhWmtZMT1srbU39/FCtNayYnrZW3ibHnnmceeeeeeeeYx555DjUxrJicp27MUsA4444444444444448UGtFA1qypGywP1RBBAwwwwwwwwwxBBGasUEbcfM4zHmGiiiiiiiiiiiiiiijEOI8Y/T/8QAHRABAQADAQEBAQEAAAAAAAAAAAERUWEhMRBAIP/aAAgBAQADPwD9iIiIiIiIiIiJ/nDCbTabTabTabTabTabTabTabTabTbLP54ww666666666666666666yy8/Pr6uVVVVVVVVVVVXL48jx48r69/h9fHkePHlfXv8AD6+PI8ePK+rlVVVVVVVVV/KuXx5HjxlnKrpdLpdLpdLpdLpdLpdLpdLpdLljDEjz8yy444444444444444444wx/jKIiImk0mkREREREY/r/AP/EABgRAAMBAQAAAAAAAAAAAAAAAAABETBQ/9oACAECAQE/AOah50u3/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAR/9k="
+    }
+  ],
+  "publishedAt": "2025-12-16",
+  "seo": {
+    "keywords": "cursor design, cursor animation, cursor blinking, cursor color, cursor style"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"In Google's AI search mode, the text input cursor doesn't just blink - it cycles through Google's four iconic theme colors (blue, red, yellow, green) with each blink.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"This playful micro-interaction subtly reinforces Google's brand identity while adding a delightful touch to the AI search experience. The color cycling creates visual interest in an otherwise static element, signaling that this is a special AI-powered search mode distinct from regular search.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"It's a perfect example of how small details can add personality and reinforce brand recognition without overwhelming the user interface.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

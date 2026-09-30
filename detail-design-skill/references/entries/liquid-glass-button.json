@@ -1,0 +1,23 @@
+{
+  "slug": "liquid-glass-button",
+  "locale": "en",
+  "title": "Glassy Button",
+  "summary": "A pretty cool glassy button",
+  "type": [
+    "design"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/media/liquid-glass-button-7f1ebb5f.mov",
+    "alt": "Glassy Button - Media 1",
+    "width": 712,
+    "height": 376,
+    "seenAt": "wabi.ai",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABlAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAEDAgUE/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAA9fz/AHcTzPq+rU8v5/YzPj+nbU+T5fVzPDy9yHmbeh2eNPXhh6Of0GlUiiTqHDumd7Gc1Gd7hzOxm1GbQZzUZ9dAABLC1SKJOocgkZnbEasYfR1hqaAAASw6vNKgvIJRxntDBsMJuM9XRQAAJYS80qCkKgpQAAAAABLCWUASw5odWUAAAAAAS8igABAUAAAAAACB/8QAIBAAAQUAAgMBAQAAAAAAAAAAAAECAxESEyEgQGAwUP/aAAgBAQABPwCaOx0PYyESPofGcXYyMa0cwfGPhEg7GQnEOhEh7IWURieT2WLCJEcY6I4RIhGGBYhYTgEhOIWE4RsdDUE8qMmTJkwZMmTJgwZMmTBkr+RZo0aNGhF9FRVLLFUsRRPRUVCijJkRBP0vyoyZMmTPwSfAf//EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8AKf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8AKf/Z"
+  },
+  "publishedAt": "2025-10-14",
+  "seo": {
+    "keywords": "glassmorphism, frosted glass, backdrop-filter, glass button"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    h2: \"h2\",\n    li: \"li\",\n    ol: \"ol\",\n    p: \"p\",\n    strong: \"strong\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.h2, {\n      children: \"How to Create This\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"It's all about layers and blur.\"\n    }), \"\\n\", _jsxs(_components.ol, {\n      children: [\"\\n\", _jsxs(_components.li, {\n        children: [_jsx(_components.strong, {\n          children: \"Background Blur\"\n        }), \": \", _jsx(_components.code, {\n          children: \"backdrop-filter: blur(20px)\"\n        })]\n      }), \"\\n\", _jsxs(_components.li, {\n        children: [_jsx(_components.strong, {\n          children: \"Transparency\"\n        }), \": \", _jsx(_components.code, {\n          children: \"background: rgba(255, 255, 255, 0.1)\"\n        })]\n      }), \"\\n\", _jsxs(_components.li, {\n        children: [_jsx(_components.strong, {\n          children: \"Border\"\n        }), \": A thin, semi-transparent border to define the edge.\"]\n      }), \"\\n\", _jsxs(_components.li, {\n        children: [_jsx(_components.strong, {\n          children: \"Shadow\"\n        }), \": A soft drop shadow to lift it up.\"]\n      }), \"\\n\"]\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Combine these to create a surface that feels like frosted glass.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

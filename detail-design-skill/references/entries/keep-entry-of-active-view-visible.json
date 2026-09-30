@@ -1,0 +1,26 @@
+{
+  "slug": "keep-entry-of-active-view-visible",
+  "locale": "en",
+  "title": "Keep Active View's Entry Visible",
+  "summary": "",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/keep-entry-of-active-view-visiable.mov",
+      "alt": "Keep Active View's Entry Visible",
+      "width": 1030,
+      "height": 450,
+      "seenAt": "linear.app",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABUAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAADxu50MTtDjnrkw0MtDNAAAAAADXTls6SZGGTTA3MjSCgAAAAAb56N5uTObAAC2UoAAAAAM6lLLkksAALZSgAAAAAm8aLnWTMsAALZSgAAAAAzQAkAAC0KAAAAAD//EABsQAQEBAQEAAwAAAAAAAAAAAAEAEUAQMFBg/9oACAEBAAE/AAsssssssss+cgskk5CPFlt4yG2WW3jI8Z5CPHofsH8L/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAR/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAR/9k="
+    }
+  ],
+  "publishedAt": "2026-01-06T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "active view, navigation visibility, sidebar highlight, UI navigation, design detail"
+  },
+  "mdxSource": ""
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "blurred-image-appearing",
+  "locale": "en",
+  "title": "Blurred Image Appearing",
+  "summary": "Make the image loading better",
+  "type": [
+    "motion"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/soft-image-reveal.mp4",
+    "alt": "Tap Tab Again to Reset State - Media 1",
+    "width": 1920,
+    "height": 964,
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABhAMADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAO2IVmloAJRFgMmmdCgBJcluaM6yTWabuaUACBJYTWabZ0ATO4ZtDOoYWGtY0aABAM6hkGrnRQJYAAYmoNSmgAQCWGZRdZ0UCWAAGJYXWdGrAlgAlhmWGtZ0WwJYAAZm4SqAAAJRmbhNSiwAAAAAAAAAAAAAAf/EABoQAQACAwEAAAAAAAAAAAAAAAEQMCBAUGD/2gAIAQEAAT8A5jiwWGLiwazxGSprZNgqa2SpuPIf/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAp/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAp/9k="
+  },
+  "publishedAt": "2026-04-26",
+  "seo": {
+    "keywords": "blurred image reveal, progressive image loading, blur-up placeholder, image loading UX, soft image appearance"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const {Detail} = props.components || ({});\n  if (!Detail) _missingMdxReference(\"Detail\", true);\n  return _jsx(Detail, {\n    slug: \"blurred-icon-transition\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n"
+}

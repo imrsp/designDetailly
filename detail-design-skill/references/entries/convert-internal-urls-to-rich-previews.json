@@ -1,0 +1,26 @@
+{
+  "slug": "convert-internal-urls-to-rich-previews",
+  "locale": "en",
+  "title": "Convert Internal URLs to Rich Previews",
+  "summary": "A glance is better than a text",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/preview-for-internal-links.png",
+      "alt": "Convert Internal URLs to Rich Previews",
+      "width": 1644,
+      "height": 738,
+      "seenAt": "https://detail.design",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAArAGADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA9/GTUxDo5jpeQ63n0AEkSmV0mgBYKlIok0IoiiUAP//EABoQAAMBAQEBAAAAAAAAAAAAAAAREgEgMED/2gAIAQEAAT8AYyiiiiiiut6wzlCwRJJIuN4zwQhCF8n/xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAECAQE/ABf/xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAEDAQE/ABf/2Q=="
+    }
+  ],
+  "publishedAt": "2025-12-24T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "internal link preview, rich preview, link preview, link preview design"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Handle your internal links specifically.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Seems useless, but it's how you craft the experience.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "pre-filled-with-example-content-not-empty",
+  "locale": "en",
+  "title": "Pre-filled Example Content",
+  "summary": "People love to copy.",
+  "type": [
+    "copywriting"
+  ],
+  "media": {
+    "type": "image",
+    "src": "https://file.detail.design/media/pre-filled-with-example-content-not-empty-41b4eab7.png",
+    "alt": "Pre-filled with example content, not empty - Media 1",
+    "width": 3132,
+    "height": 1774,
+    "seenAt": "notion.so",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA2AGADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA98CwAAEuCa5bs6SZl6MDbI0gsUxrSuedSFoCxm5N759JQMQLCoEYC9gUl//EABsQAAIDAQEBAAAAAAAAAAAAAAABEBEwAiAS/9oACAEBAAE/AMWyxPLqOZsv00fIkNlll49YIUvBCl+2csU//8QAFhEAAwAAAAAAAAAAAAAAAAAAARBA/9oACAECAQE/AJiv/8QAFhEAAwAAAAAAAAAAAAAAAAAAARBA/9oACAEDAQE/AJgv/9k="
+  },
+  "publishedAt": "2025-10-12",
+  "seo": {
+    "keywords": "empty state, example content, onboarding template"
+  },
+  "mdxSource": ""
+}

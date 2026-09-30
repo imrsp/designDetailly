@@ -1,0 +1,25 @@
+{
+  "slug": "smooth-highlight-block-transition",
+  "locale": "en",
+  "title": "Smooth Highlight Block Transition",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/smooth-highlight-block-transition.mp4",
+      "alt": "Smooth Highlight Block Transition",
+      "width": 1280,
+      "height": 720,
+      "seenAt": "www.vercel.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABsAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAIBAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAPuAAZmYVsDojSkikikik6bO4ANwUBmyc+dcTpXHoXsUUwawawbU0UaY3AaYBOycuPbmk9Js2ppdaMaMaNrKNBgAAMysOUd5OK8FxZeqJUJUM0AMAAaMBM3BE1JvTn0OmzprBrBrBrAABoGbhEXzJnYKrmO9cLOqBaB0c9LSK2dKBoGbhPPrBw5dPKdd81Hq6+f0m7YhYja0lQxo0H//xAAcEAEBAQEBAQEBAQAAAAAAAAAAAREwAkAQEiD/2gAIAQEAAT8A+y1rWta1rWta3nVq1rWt4TlXpalTlOVelRE4ROVVYicZzqxYz8iJGMYxnaxfyInx1fyInx1fyVKlb8NWrWtT0npK1rWta1vCqq/4lS/DVir6f0lRGMYxjGM5V7erW1LXmvPX/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAp/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAp/9k="
+    }
+  ],
+  "publishedAt": "2026-01-19T00:00:00.000Z",
+  "seo": {
+    "keywords": "highlight transition, smooth animation, block highlight, motion design, CSS transition"
+  },
+  "mdxSource": ""
+}

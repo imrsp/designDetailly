@@ -1,0 +1,24 @@
+{
+  "slug": "vibility-baesd-active-items-in-toc",
+  "locale": "en",
+  "title": "Visibility Based Active Items in ToC",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/vibility-baesd-active-items-in-toc.mp4",
+      "alt": "Visibility Based Active Items in ToC",
+      "width": 1280,
+      "height": 664,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABkAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAADx2s7K2ObcMNDLQiiZ3DKiTQyoiiSwu8bN3NLmwiwIKyNMipCpCpoSjMsNazo1ZRAQJLACAAShZQsMyw1rOjRSTUMtQzLAAAABZSywzLDW8bNWCpQoxNwzNjDYw1DLUM0KDM1ku8aNpRYKgsgqCoLILAiDQJnWSaCgAAQAAAAICgQP/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERQCAwUP/aAAgBAQABPwARCEJ1PZCITKhZ1nQs6FoWdC5hMKF1CEIQhCeSFoWhcUpSlKUpfh//xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/ACn/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAEDAQE/ACn/2Q=="
+    }
+  ],
+  "publishedAt": "2026-03-11T00:00:00.000Z",
+  "seo": {
+    "keywords": "table of contents, visibility based highlight, active ToC items, scroll spy, navigation indicator"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    figure: \"figure\",\n    h2: \"h2\",\n    p: \"p\",\n    pre: \"pre\",\n    span: \"span\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Highlight the section based on visibility, instead of anchor.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"You can have multiple items highlighted with this pattern, making the ToC more like a mini map.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Prompt\"\n    }), \"\\n\", _jsx(_components.figure, {\n      \"data-rehype-pretty-code-figure\": \"\",\n      children: _jsx(_components.pre, {\n        tabIndex: \"0\",\n        \"data-language\": \"md\",\n        \"data-theme\": \"github-light github-dark\",\n        children: _jsx(_components.code, {\n          \"data-language\": \"md\",\n          \"data-theme\": \"github-light github-dark\",\n          style: {\n            display: \"grid\"\n          },\n          children: _jsx(_components.span, {\n            \"data-line\": \"\",\n            children: _jsx(_components.span, {\n              style: {\n                \"--shiki-light\": \"#24292E\",\n                \"--shiki-dark\": \"#E1E4E8\"\n              },\n              children: \"For ToC: let's use visibility based highlight, which means all section currently viewable should be hihglighted. Also, the highli9ght bar transition should be smooth instead of starggering\"\n            })\n          })\n        })\n      })\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

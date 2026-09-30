@@ -1,0 +1,25 @@
+{
+  "slug": "special-text-selection-style",
+  "locale": "en",
+  "title": "Special Text Selection Style",
+  "summary": "Novelty from text.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/special-selection-style.mp4",
+      "alt": "Special Text Selection Style",
+      "width": 1612,
+      "height": 1122,
+      "seenAt": "https://aresluna.org/frame-of-preference/",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACGAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAIDAQQG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAA+4MzvMMj2V49T0osAAAAAAAAY7Znkx9WZn6J1NNM6KSKT065wpIpIpIpzoAz0yIlBfcxsxGrEbdxG3MuGzEbMBux6b359jUDPSDDPWCFDnasybDFsMeb8MWwxbdMWwz25ZYE1JnFyS6KrPpqz6WgWzGjMaMxogXWdlARcGUVmdcDgdqbHLELELELEdrpzTllATUmUaQcOnHQuaKTwtAtAtAtA0rLQoCLgxi8jvZ6dcHeyK5wCSkiuxR3gXrjsagSGcAB0HAOgkHA70Og7oFg/8QAHBAAAwEBAQEBAQAAAAAAAAAAARESAAIQQDAg/9oACAEBAAECAMTV038J3R67sd89A/Cd1u8dyOdz8R3W65gc8gZttttum2/Djj66qqqqqqqqodAjw44lttttttttg84eHdY/ykkkkkkgOcPTiCEgJmZmZmZmZHIA9OOSQ+M4+t1VVVVVVVUCD6cSS22wfyGGHpxxCSQAEzMzMzMgAD04+pIAD9zjm223VVVVVVQ6B8OOJbbbqm6qqbYPOHhx3WSSS8SS8SQHOHpxCSSSSSSSSAGHn//EABQQAQAAAAAAAAAAAAAAAAAAAID/2gAIAQEAAz8ATH//xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/AFn/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAEDAQE/AFn/2Q=="
+    }
+  ],
+  "publishedAt": "2026-04-06T00:00:00.000Z",
+  "seo": {
+    "keywords": "custom text selection, ::selection CSS, text highlight color, selection styling, web typography detail"
+  },
+  "mdxSource": ""
+}

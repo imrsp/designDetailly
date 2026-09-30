@@ -1,0 +1,25 @@
+{
+  "slug": "tinted-background-based-on-active-media",
+  "locale": "en",
+  "title": "Tinted Background Based on Active Media",
+  "summary": "The background is adaptive based on current visible media",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/tinted-background-based-on-active-media.mp4",
+      "alt": "Tinted Background Based on Active Media",
+      "width": 2962,
+      "height": 1724,
+      "seenAt": "https://rene.wang",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABwAMADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBAMFBv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAPrwyABFZqQqLILa3O63msyygSgSALKhlMCQVrahCBM1lZmpejnMvSaWWQAiSyoZAEFOU57OjPKd5zyd3GWuzijT1yd2u0xMoCYWQGQFbVrNl1Y7ik1XN7UtNXmrHe0CX0ZtOuei1bZ2FAkBAFbVrLk1Y7jnNJub25l6TyY6dnNWjTj1s6rUtNyACpCSiaml6mTF6GW4xz2XPGepeDsy5W6zU6+Glrvats6TAlAhIhIRKuXHVRMrTBnaBnaBnnuKdJtLMgAIP//EAB0QAQADAQEBAQEBAAAAAAAAAAABAhESMCADQBD/2gAIAQEAAT8A+9a1rWt/hlP1CP4Z+9b7ymWta1rWtRPtMps6dOnTp06dIsifSVpWs6dOnTWtdK2VlHnZdaWtaiWt/wBqojzsuv8AEfNVEedl1/jWta1WVEedn6Ly1rWta1qsqI87P0XZ9woojzleFqOHDhw4cOEUVqpCPOVoTRw4cOHDhw4RVEeuJhjGOXLGMRHh/8QAGBEBAQADAAAAAAAAAAAAAAAAAQAwQFD/2gAIAQIBAT8A5TGNIN3/xAAaEQADAQEBAQAAAAAAAAAAAAAAAREgAhBA/9oACAEDAQE/APrpS+UT2/Eco6QtvxC7H1RbeVuEIQmf/9k="
+    }
+  ],
+  "publishedAt": "2026-05-27T00:00:00.000Z",
+  "seo": {
+    "keywords": "adaptive background, media-based tint, ambient color, dynamic background color, scroll-aware theming"
+  },
+  "mdxSource": ""
+}

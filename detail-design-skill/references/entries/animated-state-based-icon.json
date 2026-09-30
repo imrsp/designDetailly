@@ -1,0 +1,36 @@
+{
+  "slug": "animated-state-based-icon",
+  "locale": "en",
+  "title": "Animated State-Based Icons",
+  "summary": "Icons that animate to mirror the action they trigger or the state they represent.",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/pin-and-unpin-icon.mp4",
+      "alt": "Paperclip pin icon that opens on hover in Obsidian's Velocity theme",
+      "width": 1920,
+      "height": 874,
+      "seenAt": "https://obsidian.md",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABYAMADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAECAwQFBv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAPlKrVjF7u3A6Wch0pMDpRzPejA6SOQ6Az6FS9XR59Z36L86o9Xq8r0F+Q0563z6HztrpOZm5izYwDd42amSSzJG5g1tTJpWDPT9XxPYzfknNbwwGhgU5YCDS8maTJI5SWnDq1IAg7/X8b1s35eprWGwaAYhqBNAIGIGIGIGIG5Z2+r5Ppr87UVedktq6iwm1LmqCS2ZmrMTYMTdnOdLOWuih+ly9y/LsNcmwV0EWBmlgt2FtWErACgq7CUoDToA/8QAHRAAAgMAAwEBAAAAAAAAAAAAARECAxIAEyAQMP/aAAgBAQABAgBZxjGMYxjAhjGMRhAQkLOzsjOBAASASSSAyQkBzfZ2iyudRBB1rWtPTYLbeta1qM6pUl61rWtPWgW23pvjiaTQfQ8D8jyPKeUH2/gLbbbb4OU8pP5Ntv63yPKuUnyl+0eVcq9JHykkkkoioVDwCDw/FnOcYxjHX19YrrhXHwwX8AEcCGMYwKxX1dQqjCI//8QAFxABAAMAAAAAAAAAAAAAAAAAEQBAcP/aAAgBAQADPwCiQ3b/xAAYEQEBAQEBAAAAAAAAAAAAAAARAAEwUP/aAAgBAgEBPwBmZmZme+9N8X//xAAZEQADAQEBAAAAAAAAAAAAAAAAAREwEED/2gAIAQMBAT8AhCEIQhO3izQs0LRej//Z"
+    },
+    {
+      "type": "video",
+      "src": "https://file.detail.design/animated-sidebar-icon.mp4",
+      "alt": "Animated State-Based Icons",
+      "width": 2008,
+      "height": 1046,
+      "seenAt": "https://linear.app",
+      "credit": "https://x.com/pacovitiello/status/2001722770233925828",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACGAMADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAECAwQFBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAP2wAAAAAAAEsIgpBrOigAAAAAAASwzLkM03rGioKgqCoKgqCoKgsCZ0MNwmNec9jUIoiiKIoiiKIsIQTnk7ufQz4/Z4z6QAAAAAAEsMzWTjneTXXn0J4/Z4z6IAAAAAAEsMyw453g315dSeL2eM9zMOmsbAAAAAEsJnWTlm4OvTl0Hj9fkPdOgzqiKIoiiKIok1DOdQ451k3059TPj9vmPcAAAAAABAzA5YDfUGA//EAB0QAAICAwEBAQAAAAAAAAAAAAABAhEDEEAwIFD/2gAIAQEAAT8A/PXG9Xpcj+EX0OXLWmTfHZZepGXiY2WJ6kZeJjKIiJGXiY9IRIy8THpCJGXV8DHpCJGUssT92PSESMo9L3ZLUREjKUUJe7HpCJGUorgY9IQzJHiY0UJC1KJ//8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwBZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwBZ/9k="
+    }
+  ],
+  "publishedAt": "2025-12-19T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "animated icon, state-based icon, sidebar toggle animation, paperclip pin, hover feedback, icon metaphor, Lucide animated icons, UI motion design"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    a: \"a\",\n    h2: \"h2\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"The best icons don't just label an action—they preview it. By animating in lockstep with the state they represent, they collapse the gap between intent and feedback into a single gesture.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Sidebar Toggle in Linear\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The sidebar toggle icon in Linear is itself animated, opening and closing exactly like the sidebar it controls. Icon motion and panel motion share the same timing, so the control feels physically connected to the surface it manipulates.\"\n    }), \"\\n\", _jsxs(_components.p, {\n      children: [\"If you want to do the same in your app, try \", _jsx(_components.a, {\n        href: \"https://animated.lucide.dev/\",\n        children: \"Lucide Animated\"\n      }), \".\"]\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Paperclip Pin in Obsidian\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"In the Velocity theme for Obsidian, the tab pin action breaks from convention by using a paperclip icon instead of the traditional pushpin. The closed paperclip represents a pinned tab; on hover, it visually opens to signal that clicking will unpin it.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The metaphor is unusually apt—paperclips temporarily hold documents together, just as pinned tabs hold their position in your workspace. The opening motion creates a clear cause-and-effect: hover makes it open, click releases it.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Why It Works\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Both details treat the icon as a tiny preview of what's about to happen rather than a static label. The animation isn't decoration—it's a promise. When the icon's motion matches the outcome, users stop having to translate symbols into actions; they just see the action itself, ahead of time.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

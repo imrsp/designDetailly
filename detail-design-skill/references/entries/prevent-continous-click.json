@@ -1,0 +1,23 @@
+{
+  "slug": "prevent-continous-click",
+  "locale": "en",
+  "title": "Prevent Continuous Click",
+  "summary": "",
+  "type": [
+    "design"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/prevent-continous-click.mp4",
+    "alt": "",
+    "width": 3036,
+    "height": 2160,
+    "credit": "https://x.com/AliGrids/status/2034126359786885539",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACJAMADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAO4AAAAAAAAAAAAAAAAAAAAAAAAQVBWRpBUFSghWRpkaQVBUEAlhlQoJYXWNFlhmWCylBQAaAlEURRJoZaCURRFEUSgAAIALmlAAAAQAVKAAJRFEUAAAAJRFEoAAAAAAAAAAAAAAAAAAAAAAAAAf/8QAHBABAQACAgMAAAAAAAAAAAAAEQAQIDBAAWBw/9oACAEBAAE/APe2ZnDOrMzM870iNvGSI4yIjBEaERHRI+m//8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwBZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwBZ/9k="
+  },
+  "publishedAt": "2026-03-21T00:00:00.000Z",
+  "seo": {
+    "keywords": "prevent continuous click, debounce button, accidental click protection, button click guard, interaction safeguard"
+  },
+  "mdxSource": ""
+}

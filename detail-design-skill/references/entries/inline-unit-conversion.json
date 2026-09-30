@@ -1,0 +1,25 @@
+{
+  "slug": "inline-unit-conversion",
+  "locale": "en",
+  "title": "Inline Unit Conversion",
+  "summary": "",
+  "type": [
+    "interactivity"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/inline-unit-conversion.mp4",
+      "alt": "Inline Unit Conversion",
+      "width": 1334,
+      "height": 460,
+      "credit": "https://x.com/raunofreiberg/status/1854125496465752091",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABCAMADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAOSAAAAAAAAAAAAbRC5MAAAAAAAAABtRpUsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/EABQQAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQEAAT8AWP/EABQRAQAAAAAAAAAAAAAAAAAAAFD/2gAIAQIBAT8Ac//EABQRAQAAAAAAAAAAAAAAAAAAAFD/2gAIAQMBAT8Ac//Z"
+    }
+  ],
+  "publishedAt": "2026-01-15T00:00:00.000Z",
+  "seo": {
+    "keywords": "inline unit conversion, interactive input, measurement conversion UX, contextual conversion, UI interactivity"
+  },
+  "mdxSource": ""
+}

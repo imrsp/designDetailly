@@ -1,0 +1,25 @@
+{
+  "slug": "screen-shaking-feedback",
+  "locale": "en",
+  "title": "Screen Shaking Feedback",
+  "summary": "Feedback for the dead end.",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/screen-shaking-feedback.mp4",
+      "alt": "Screen Shaking Feedback",
+      "width": 1356,
+      "height": 1106,
+      "seenAt": "https://x.com/",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACdAMADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAIDAQQFBv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAPowOmAAM1DEWUtFlCOnPOkes3kVPUbgsdlOS1l9VqAAAAAADJ0kQVmxUh6JL4UfdmvjU9MOS93IVDUvWNtZAAAAAADJVkSdKc71Wl0S5lmt5U7cONe5TzJ9vLYUnTedAAAAAAMlWROiWxq15vFqSccXTcMXk5Ovksyk6bzoAAAAABkqyF6OfpxrodXgZdG3NNzcOXk6uSikq7zoAAAAABkqyM6Oe+L1tNpX1WXdAM1Tl5Ovlsys6bzoAAAAABkqzFvHo52zDLrqysACspy8nXyWFJ03nQAAAAADJ0mb08/VjVjVzdEnFjlE6yLWy5rQ1NpOm86AAAAAAZOkxurl6sasjpmpKsudibulXR9yMaxsak6bzoAAAAABk6TG6uXpxroR8zZpXFkWCZRbOaN+exqTpvOgAAf/xAAhEAADAAEEAwEBAQAAAAAAAAAAAQIDEBESMBMgMWEEIf/aAAgBAQABPwD2bHQ7HkHmPOjzHmFkFYqE+xspjY2XTKyM8rFlZOQmhMVEsT66KYkcS4LxseNnjZMMiWJaSyeuhkomB4tx4Pwf8/4P+f8ADwfgsRwHIkT1MrSUQhSjgjxoeJDxI8RWMqDYXUx6SQSI2OJxOJUlyNC6mVpJJLExelGQoXUytIRKEITNzfSjIULqYxEIlGwvWvhkKF1MYiCfnvRkKF1MYiCfejIMXUxiIJ0XrRkGLqYxEEiEL0oyFC6mMRCEtFpubm5RkKF1MZJCEtNzkczkcimWxi6mMkgXwY2Oh2KxUN/4WMXUxkkaMZQ2JkjLGLqYySNGMpDkUkoZQxdTGSQL4MaGjiKRIaLGLqYySBfB67G2lFjF7f/EABoRAQEAAwEBAAAAAAAAAAAAAAEgABARAjD/2gAIAQIBAT8Ajudzud+DJbhBbJbJbJbJbpcHRbpzzot1zZH/xAAZEQACAwEAAAAAAAAAAAAAAAABIAAQEWD/2gAIAQMBAT8AbJnIBS4vKLhSn//Z"
+    }
+  ],
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "seo": {
+    "keywords": "screen shake feedback, error animation, shake motion, invalid input feedback, motion design detail"
+  },
+  "mdxSource": ""
+}

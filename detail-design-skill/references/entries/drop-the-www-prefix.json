@@ -1,0 +1,24 @@
+{
+  "slug": "drop-the-www-prefix",
+  "locale": "en",
+  "title": "Drop the WWW Prefix",
+  "summary": "",
+  "type": [
+    "copywriting"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/drop-the-www-prefix.png",
+      "alt": "Drop the WWW Prefix",
+      "width": 783,
+      "height": 436,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA1AGADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAECAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAPYkosTGICoCtMbOh57HChgJK0klIB1nZt047HGJAxkqgiiiVoh9PL0GaAoAAAYDQBoB/8QAGxAAAwEBAQEBAAAAAAAAAAAAAAERAhIQIDD/2gAIAQEAAT8ApS/VMiRz+F8ThnQhsTKdD0dFKLRaYRn1/eWYaEyIiIREREQSOUQyzL9hCEIJEHkSMHKOUcnKOUco5RCEIJH/xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAECAQE/AEf/xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAEDAQE/AEf/2Q=="
+    }
+  ],
+  "publishedAt": "2026-02-07T00:00:00.000Z",
+  "seo": {
+    "keywords": "www prefix, URL design, domain naming, web conventions, clean URLs"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsxs(_components.p, {\n      children: [\"In 2026, you should already drop the \", _jsx(_components.code, {\n        children: \"www\"\n      }), \" prefix.\"]\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The www subdomain is a legacy convention from early web days. Modern DNS and CDN infrastructure handles apex domains efficiently. HTTP/2 and HTTP/3 make the technical distinctions less relevant.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

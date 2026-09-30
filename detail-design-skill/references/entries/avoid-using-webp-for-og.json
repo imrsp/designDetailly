@@ -1,0 +1,24 @@
+{
+  "slug": "avoid-using-webp-for-og",
+  "locale": "en",
+  "title": "Avoid Using WebP for OG Image",
+  "summary": "Social platforms have inconsistent or no support for WebP in OG images.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/avoid-using-webp-for-og.png",
+      "alt": "Avoid Using WebP for OG Image",
+      "width": 783,
+      "height": 436,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA1AGADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEFBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAD79yJNHpGm2k6j0n2MztkZGfPdmNWijQQhbBaYWCNspyclztZcnoUrXsz6DufTBM9/ZgDoAAAAAAf/xAAfEAADAQACAQUAAAAAAAAAAAAAAQIRAxAgEhMhMEH/2gAIAQEAAT8A8KH3hgkIdYe4KuqGaaKhMXVs9XyQ+mhyNdJCQhHIfpx9MdIbTEhSZ3yD3SKZLKK0SZK8anR8YuMlDQ4FBnliMX1f/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAgEBPwBH/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAwEBPwBH/9k="
+    }
+  ],
+  "publishedAt": "2026-02-07T00:00:00.000Z",
+  "seo": {
+    "keywords": "OG image format, WebP social media, Open Graph optimization, social sharing image, meta tag best practice"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Facebook, Twitter/X, LinkedIn, and other platforms have inconsistent or no support for WebP in OG images\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Keep important content (text, logos) in the center safe zone (~1000×500px) to avoid cropping issues across platforms.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

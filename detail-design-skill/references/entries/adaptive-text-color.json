@@ -1,0 +1,24 @@
+{
+  "slug": "adaptive-text-color",
+  "locale": "en",
+  "title": "Adaptive Text Color",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/adaptive-text-color.mp4",
+      "alt": "Anchored Scrolling - Media 1",
+      "width": 1198,
+      "height": 596,
+      "seenAt": "koto.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABfAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAMBAgQG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAA+4AAAAAAAAAAAAAAAAAAAAAAAAMNYNYNZoAAAAAAABzLvzHe+bT0oYXecevvy3LM0AAAAAAn5vXE8u0HCgllcMtLstshVIVRF0Oi+z7NABnFMI5YRWwjlxDbCSwjlhBYR6qM7zoAA//EAB0QAQEBAQEBAQADAAAAAAAAAAARARICIDAQQGD/2gAIAQEAAT8A/wBxVVVVVX+hut9O3bt27ds9M1n7enrVZqqqvOvOsVf09PWIzERP4x51munTp06dKv1r1jlERERiqqqqs1ms+dbiIiIiIiIiIjMYz6iIiOXLlyiI5cuXKIz5/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAR/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAR/9k="
+    }
+  ],
+  "publishedAt": "2026-07-28T00:00:00.000Z",
+  "seo": {
+    "keywords": "anchored scrolling, scroll threshold, list navigation"
+  },
+  "mdxSource": ""
+}

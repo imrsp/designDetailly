@@ -1,0 +1,27 @@
+{
+  "slug": "inspect-tool-golden-thumb",
+  "locale": "en",
+  "title": "Inspect Tool Golden Thumb",
+  "summary": "",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/inspect-tool-golden-thumb.mp4",
+      "alt": "Inspect Tool Golden Thumb",
+      "width": 3200,
+      "height": 1986,
+      "seenAt": "www.vercel.com",
+      "credit": "https://x.com/raunofreiberg/status/2017149627632349253",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAB3AMADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECAwQFBv/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/aAAwDAQACEAMQAAAA+1iRWUgAACQAAARMCJESkAAAK1NGQ1ZDWMxozGrOxYAAAACJGeeuZSJoWnKTREgktpTQmQAAAEEoiWaKS58unBN7aebtXq6cO++PTbDRjW2dpboloFAARNZYqpy2znPnvHh7ebj2476T1mmuVvX8fo35N3m6b43np1tne9rTEuoKApeubnTSvDedNY5a5suynLfJfp078+OO2nq+bza3s8i8Wvom9bO1rVtfQDQCJRSLsXNdLnGqM72ala6N88mhzovK0my6SNgoAAAAAAAAAAAH/8QAHxABAQADAAMAAwEAAAAAAAAAAAECERIDEDATIEBg/9oACAEBAAE/AP8AHVt06dOm23Tpv7VW22222220T61Yq10lT1pIkT7VnWeb8jHNjU9RPrttlXkyeTJ2wzYZpmmSVK387Vq1lXkryLGLGpkxyY5JUqX41VVWbKOUxTH1ixRET4VVVYyi4OE8b8bhMUiIiJ+9VppYuLhMEwcLg5TFI16nx00005cpikaXFy5aaa+emmmmmv00001/f//EAB4RAAICAgIDAAAAAAAAAAAAAAABAhEDEhMwIEBQ/9oACAECAQE/APjWWbCfQxsch5DHOxMvyZIaY4MxRroY4mhxijXp/wD/xAAeEQADAQEAAgMBAAAAAAAAAAAAAQIRAxIgEBMwUP/aAAgBAwEBPwD+PgoHBTw80eRvqkJEpHTMO/Rpk9WTZNC+UITFRdad40XNpkpkk+mmmjZU6fWeApF+3//Z"
+    }
+  ],
+  "publishedAt": "2026-01-30",
+  "draft": false,
+  "seo": {
+    "keywords": "inspect tool easter egg, Vercel golden thumb, hidden feature, developer tools, UI easter egg"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"It's been live on vercel since day 1.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

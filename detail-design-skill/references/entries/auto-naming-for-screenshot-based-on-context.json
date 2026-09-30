@@ -1,0 +1,25 @@
+{
+  "slug": "auto-naming-for-screenshot-based-on-context",
+  "locale": "en",
+  "title": "Auto Naming for Screenshot Based on Context",
+  "summary": "iOS will name your screenshot file based on your context",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/auto-naming-screenshot-based-context.png",
+      "alt": "Auto Naming for Screenshot Based on Context",
+      "width": 1170,
+      "height": 515,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAAqAGADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAEDBAIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAADw65+LnXOCLkQsSC/ebo1SQYsmrGvWrHrLpcJRwC5ALvNQULzOK8srzyhJgABSdT//xAAdEAADAQEBAQADAAAAAAAAAAAAAQIREhATAyAw/9oACAEBAAE/AELB4NmmmmiYsMRSHWH2w+2nemmmmmioVjotlUTRHum+adCo/IUiUR42dHR0dHRLLHIpJNGx/rJXq/hJ/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAgEBPwAX/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAwEBPwAX/9k="
+    }
+  ],
+  "publishedAt": "2025-10-19T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "iOS screenshot naming, contextual file naming, smart screenshot, UX design detail, ambient intelligence"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Most systems treat screenshots like accidents—IMG_0001, IMG_0002, a graveyard of forgotten moments. iOS does something quietly brilliant: it reads your context and names the file accordingly.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Screenshot in Safari? It's the page title. In Settings > Display? \\\"Display Settings.png\\\". In Notes? The notes content.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"This is ambient intelligence done right. No prompts, no settings to toggle. The system just knows what you were looking at and names it appropriately. It's the kind of detail that makes you trust the platform more—like it's paying attention, not just recording.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The genius isn't in the technology (OCR and app context APIs have existed forever). It's in the restraint. iOS doesn't try to be clever. It doesn't add timestamps or metadata prefixes. It just names the thing what the thing is. When you search \\\"stripe dashboard\\\" in Files three months later, there it is.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"This is what happens when you design for the moment after the moment—when someone needs to find what they captured, not just capture it.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"What If I’m Not Making a Screenshot App?\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"When I was making Mono Card, the card image a user downloads isn't simply named “card-01.png”. It uses the body content or the title as the file name.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

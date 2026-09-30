@@ -1,0 +1,25 @@
+{
+  "slug": "intelligent-cut-and-paste",
+  "locale": "en",
+  "title": "Intelligent Cut and Paste",
+  "summary": "A technique comes from 1984",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/intelligent-cut-and-paste.png",
+      "alt": "Intelligent Cut and Paste",
+      "width": 1018,
+      "height": 774,
+      "seenAt": "https://www.apple.com/os/mac",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABJAGADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAgMAAQQG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAA+6mpjQZzd4dxmepQqLc6GVYnXJlZ9AYW4G06FGUGNpBXGY1kHRodSRqFBjaJnNFYskKdRRhm2xwU4Dqxi+AzxxbG2x//xAAbEAEBAAMBAQEAAAAAAAAAAAABAAIQEhEgMP/aAAgBAQABPwDLK7jK6nK6urqH4yLmCCcbybqxyuodMww6WyZsWGNM6G9nSGsY0zoLyd+RETOjWc5WMFzBpmIb2zubAg+GdGk0R8Jc3MY3klzcwR+//8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAgEBPwB3/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAwEBPwB3/9k="
+    }
+  ],
+  "publishedAt": "2026-02-19T00:00:00.000Z",
+  "seo": {
+    "keywords": "intelligent cut and paste, smart text editing, macOS clipboard, word spacing automation, text editing UX"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    a: \"a\",\n    em: \"em\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Intelligent cut and paste is a set of editing features that takes into account the need for spaces between words. (Note that the features described in this section don’t apply to all languages; for example, the Thai, Chinese, and Japanese languages don’t contain spaces.)\"\n    }), \"\\n\", _jsxs(_components.p, {\n      children: [\"It was first described in \", _jsx(_components.a, {\n        href: \"https://vintageapple.org/inside_o/pdf/Inside_Macintosh_Volume_I_1985.pdf\",\n        children: _jsx(_components.em, {\n          children: \"Inside Macintosh\"\n        })\n      }), \" in 1984, in Volume I, page 63.\"]\n    }), \"\\n\", _jsx(_components.p, {\n      children: _jsxs(_components.em, {\n        children: [\"Thanks to \", _jsx(_components.a, {\n          href: \"https://www.reddit.com/user/F54280/\",\n          children: \"@F54280\"\n        }), \" for suggesting a fact correction.\"]\n      })\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

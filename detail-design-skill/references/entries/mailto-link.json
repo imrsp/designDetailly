@@ -1,0 +1,25 @@
+{
+  "slug": "mailto-link",
+  "locale": "en",
+  "title": "Mailto Link",
+  "summary": "",
+  "type": [
+    "copywriting"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/mailto-link.mp4",
+      "alt": "Mailto Link",
+      "width": 3840,
+      "height": 2148,
+      "credit": "https://x.com/sorenblank/status/2024745061423214826",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABrAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwb/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAPaDUAAAAAAAAAAAAAAAAAAAAAAAAMwpAtAtzk7OI7OI7OI7OI7OOnVy06JoAmbmpaMaOcdYOasI1oUJUJppl5R0uLgBmjGjGjMoRnQct6CFiFiFiNoZoAAAAAAAAAAAAAAAAAAAAAAAAf/EABsQAQEBAQADAQAAAAAAAAAAAAASEQEQIGAw/9oACAEBAAE/APu9a1rWqUta1KUtSlNb+XXeta1rWta1rXOueuMYxjvEpSlKUpSlKXOOe2ecYlKUpSlKUpSz7v8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAp/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAp/9k="
+    }
+  ],
+  "publishedAt": "2026-03-02T00:00:00.000Z",
+  "seo": {
+    "keywords": "mailto link, copy email to clipboard, email contact link, clickable email address, email UX detail"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_components.p, {\n    children: [\"– click the email address for the \", _jsx(_components.code, {\n      children: \"mailto\"\n    }), \" link\\n– or click the icon to copy to clipboard\"]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

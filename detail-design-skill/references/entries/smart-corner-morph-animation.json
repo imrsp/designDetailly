@@ -1,0 +1,20 @@
+{
+  "slug": "smart-corner-morph-animation",
+  "locale": "en",
+  "title": "Smart Corner Morph Animation",
+  "type": [
+    "motion"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/media/k-grajeda-2085149632615592445.mp4",
+    "alt": "Smart Corner Morph Animation",
+    "width": 1644,
+    "height": 1080,
+    "credit": "https://x.com/k_grajeda/status/2085149632615592445",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAB+AMADASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAIDBQEGBAf/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADzlX0UlafStaKloqWipbwrTicAAAB2dfT6kPsI3/d9edZEti4wnoGs+fehkecj6aB5P5PSZSZfPrjM/KtjdQTLWnwi7wu1c3VNj66/v59aPonala9051TnIjG/hhYfqMeZw69Ouc8iGrHXXMaZcuGtEyeao+LWx9c9JrZewqUukEyQS4RBT8WpExYbfExObhcNuDD5ujCbo/KtnG2T0+zjbJYABGXCPeh0AAAAAPyLZxtk9Ps42yWAAAAAAAAAA/ItnG2T0+zjbJYAAAAAAAAAD8i2cfYPT7ONslgAAAAAAAAOcVH/xAAkEAACAAUEAgMBAAAAAAAAAAAAAQIDBBQxERITYUBRICEwEP/aAAgBAQABPwCJD8ZMiQ0bTjZxs42cbONnGzjZxs42bTT82KHUgk6ipy36Lbotei16LXotei16IqXojkaEUBtNDT8E9WSYdSVKIZIpIpBbluW/RbdFt0R03RPkaE2WOAcA4TQ0NDT4QZKdYJMH0KAhgIYDYKAUAoEKBEctaFTLJ0sigIoCKBmxmxmxjgY4WbWbWQL7KYkQkMsUsUBtNptEhEWCfBqTZJFJHJHTv0W79Fu/Rbv0W79Fs/RbP0Wz9EGSmyimWCCD6NhtNptNDT+xwakcjUdN0W3Ra9Fr0WvRa9Fr0WnRadFp0QP7KXKKXCJePk/7oOA4kcSOJHEjiRxI4kcSOJHEiW/spcopcIl4+en7S8lLlFLhEvHiy8lLlFLhEvHiy8lLlFLhEvHiy8lLlFLhEvHiy8lLlFLhEvHiy8lLlFLhEvHiNkGSlyilwiXjw2RM/8QAGBEBAAMBAAAAAAAAAAAAAAAAAQACMGD/2gAIAQIBAT8A1WDnYlThv//EABsRAAIDAAMAAAAAAAAAAAAAAAABAhEgEjBQ/9oACAEDAQE/AO1Iaw2ctRZJ4kULN6r1f//Z"
+  },
+  "publishedAt": "2026-08-28T00:00:00.000Z",
+  "draft": false,
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Tech breakdown: https://x.com/k_grajeda/status/2085426327755038987?s=20\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

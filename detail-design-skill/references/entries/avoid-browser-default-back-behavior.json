@@ -1,0 +1,25 @@
+{
+  "slug": "avoid-browser-default-back-behavior",
+  "locale": "en",
+  "title": "Avoid Browser Default Back Behavior",
+  "summary": "",
+  "type": [
+    "interactivity"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/overscroll-behavior-x.mp4",
+      "alt": "Avoid Browser Default Back Behavior",
+      "width": 2252,
+      "height": 1080,
+      "credit": "https://x.com/wking__/status/2001346109453791442",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABcAMADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAUBBv/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAADsRlLeKVzUqlbKWlb4VpqgmIeWeFUL/GaPbiV+2Tir2+eLk82eJmuz3Tre8bjyMLPa/K+/OxU1LVQt8rE4wo3L/McOuN9nMsjr3cm3h06TnsarszaOcv8AJS62ry4lHmhpnaCZ2gZ2gZKehDc5kOp50xzPekrny3JcTajD0eX1/JrZOy7j3ytRcrUMrUMrUMrUMrUMrUMrUMrUMrUPi+zw+36ePXtqt8vcIAAAAAAAAA+K7fK6/o5dO2uzz9QAAAAAAAAAP//EAB4QAAIDAQEAAwEAAAAAAAAAAAERAhITAwAEEEAw/9oACAEBAAECAPpICta1rWtamJhQQpSlKU8qUEV9Pz/gPAUpQeiBGqPj4lttsky000j0jMTtYGMhMzMzMyJbbbJlIzvePSPUdttrRkJEv6SSSRjKBhnmICK+gYCMKUpSlKUpSmZ5Y4YYYYYYQPKMOeeeeeeeeeeeeeWWWWWWWWXI8Pc/JJJJJJJJJJLifj+5/m4++P7n+biPjjn+bkOHuf5v/8QAGRABAQEAAwAAAAAAAAAAAAAAAQBAEWBw/9oACAEBAAM/AOikRhZ1MzM6ufD/AP/EAB0RAAICAgMBAAAAAAAAAAAAAAABAhIDERATITD/2gAIAQIBAT8AT50zTNM0zTNMafK2aYosjEqVKkYbFhQ8KJYTpZGJ4eFixYsKehZkdyOxHZEl4WZZlmWZZlmWZdl2XZdmQfzyS39P/8QAHBEBAAIDAQEBAAAAAAAAAAAAAAERAhIhEDAg/9oACAEDAQE/AK/HHPJVCmrXziZTK1rTk3RmjNu2t11SlKTi0aNJaywhSlKUpSlKUw+mP0//2Q=="
+    }
+  ],
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "seo": {
+    "keywords": "overscroll-behavior-x, browser back navigation, horizontal scroll UX, CSS optimization, web app gesture"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_components.p, {\n    children: [\"Use \", _jsx(_components.code, {\n      children: \"overscroll-behavior-x: none\"\n    }), \" when building UI with side scroll behavior to avoid browser's built-in back page behavior.\"]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

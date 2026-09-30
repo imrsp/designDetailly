@@ -1,0 +1,25 @@
+{
+  "slug": "cast-ending",
+  "locale": "en",
+  "title": "Cast Ending",
+  "summary": "Make your landing 99 → 100.",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/cast-ending.mp4",
+      "alt": "Cast Ending",
+      "width": 2246,
+      "height": 1728,
+      "seenAt": "linear.app",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACUAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAPjd+fZ2mBWaaZGmRpmmrgaYh0nOHS8h7O3i6HXzuJz1nRvWdCqFGVErRGoc87wQEmsi5hqQNZ0dOmOxHSHNoZmoSwbKc8dcHNQWnOdMnObyTWadevDR3cadJiHTORWR0vIdMZyVkdHMdJgIgsGrkbuBtmGmRUFZFiFgAAAFEoAAAAAJRFEURRFG2iZbGGxhuGVEURRFEaq4dKc3ennnbmXpjsh1pxnTJjHTBiWAAAF3nYou9YGeXTml6caelwHTPOG5kAAAAa3z0bZLqQTFiQAAAAAAAFoAASB//8QAHRABAQACAwEBAQAAAAAAAAAAEQEAAhASMCBAUP/aAAgBAQABAgDtNlVVVV7du0212drtsyvqrLrt323tyZPIy/T27cTJ53L8nzMmSAHM5ss4AOZmuTxnFy/Vy8zJkqqqrbaqtt+JVVVVVxV+nlcV91X++AAAAAAHXqGB169Q8QJr1suTJOvTqFnjOZxtlyZrky5eLl8Zk5lbbkyWbXa7dl8Jk+G8qvpKq39X/8QAFBABAAAAAAAAAAAAAAAAAAAAgP/aAAgBAQADPwBkf//EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8Acf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8Acf/Z"
+    }
+  ],
+  "publishedAt": "2026-02-17T00:00:00.000Z",
+  "seo": {
+    "keywords": "credits page, cast ending easter egg, landing page detail, product polish, Linear app design"
+  },
+  "mdxSource": ""
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "collapse-instead-of-close",
+  "locale": "en",
+  "title": "Collapse Instead of Close",
+  "summary": "Hiding is gentler than destroying.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/collapse-instead-close.png",
+      "alt": "Collapse Instead of Close",
+      "width": 2716,
+      "height": 1152,
+      "seenAt": "linear.app",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAAzAGADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYBAgcDBQT/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAABO+yHHplVl/tGfGghnxoMGfmgSZx8T+mV1f0B+l9yec4twsc461KEyeLn+g59vNXjPPZrQBKM146Icj4IYPQigxoX3+LqcLBZIAAAAABFQP//EACYQAAIBBAEEAQUBAAAAAAAAAAACAQQSFVEUAwURMhAgITFBYiL/2gAIAQEAAT8ARbhKRm/RwG0Y9tGPbRj20Y9tGPbRj20Y9tD0bL+h0tKRLmgoqKGiPsR29dGPXRj10Y9dHAXRwE0cBNHAXRW0aqs/Yq0taSg9oO3esfTP0dw9ZK/2koPaDt8/5guIYifjwSp4Ig7j6yV/tJRN4aCh6ywsHIU5CkVKHKQ5SHJQ5KHJQ7h11lZK5vLSdF7ZOhX2R+TJ/wBGT/oyc7MpOzKTsyk7MpOzKTs69fLx+TrdS+fiJnZc2y5tlzbLm2XNsubZc2y5tkzO/j//xAAZEQADAQEBAAAAAAAAAAAAAAAAARICIBH/2gAIAQIBAT8Ab8KKKKEzXORokkkkS7//xAAZEQEBAAMBAAAAAAAAAAAAAAARAAEQIDD/2gAIAQMBAT8AIiI1jnOmZnw//9k="
+    }
+  ],
+  "publishedAt": "2025-12-05",
+  "draft": false,
+  "seo": {
+    "keywords": "collapse vs close, progressive disclosure, persistent UI"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"For the What's New pop up, Linear uses a Collapse instead of Close button.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"A similar detail from Vercel. People are not \\\"destroying\\\" the pop up, they are \\\"hiding\\\" it. And they can find it back at any time.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

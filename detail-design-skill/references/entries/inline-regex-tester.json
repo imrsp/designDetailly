@@ -1,0 +1,26 @@
+{
+  "slug": "inline-regex-tester",
+  "locale": "en",
+  "title": "Inline Regex Tester",
+  "summary": "",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/inline-regex-tester.mp4",
+      "alt": "Inline Regex Tester",
+      "width": 984,
+      "height": 390,
+      "seenAt": "https://linear.app",
+      "credit": "https://x.com/TimZolleis/status/2083074169244164559",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABMAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAD7NjcysBCiVQBFSmtZppBUFQVB5+nLrnAmtLAIW5JpkumbGmS6uCbZppBUHn68OszuJqxJWkFiRWbLqzSxoZaEqpQAebrz7TMms6uZpWbRJpGGkt1mmrm1UsUAAHDry6zNlt1lpWZqEUkVLLVkWCktAAB//8QAGxAAAgMBAQEAAAAAAAAAAAAAABEBAjAQIED/2gAIAQEAAT8Afh8Y+Me0fRUjdj91I3Y/dSMGPapGcdQhC9VIzjSpHUIQuIQtakcQhCELiEIWdSPn/8QAFREBAQAAAAAAAAAAAAAAAAAAMAH/2gAIAQIBAT8ASJEiRP/EABYRAQEBAAAAAAAAAAAAAAAAADABEf/aAAgBAwEBPwDUiRIkT//Z"
+    }
+  ],
+  "publishedAt": "2026-08-01T00:00:00.000Z",
+  "seo": {
+    "keywords": "animated signature, handwriting animation, SVG stroke animation, signature reveal, motion design detail"
+  },
+  "mdxSource": ""
+}

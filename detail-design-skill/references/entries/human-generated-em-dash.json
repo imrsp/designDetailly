@@ -1,0 +1,20 @@
+{
+  "slug": "human-generated-em-dash",
+  "locale": "en",
+  "title": "Human-generated em dash",
+  "type": [
+    "easter-egg"
+  ],
+  "media": {
+    "type": "image",
+    "src": "https://file.detail.design/media/hqgkaalbkaeoxso.png",
+    "alt": "Human-generated em dash",
+    "width": 841,
+    "height": 486,
+    "credit": "https://x.com/actualTimWilson/status/2091933031594651765?s=20",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA3AGADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEEAgMGBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAOEAAAAAA2a7ZYsX/SOfdFBzzoRz1Xq/LOZwsaRv0bS7u8+S/FAegoC/orCIyg1WAzkMYCcggAH/xAAiEAACAQQCAgMBAAAAAAAAAAAAAgEREhRRAwQhQRAVMED/2gAIAQEAAT8A/pRbjj6ssYDaPr20YDaMBtGA2jAbRy9WUHWk/PBHmDrW0giUKoXIXIVQmUO1bSTmjyWkCTQTnlfZltsy22ZbbMttmW2zLbY/PLexvJQgj8pFgVSwsLC0hSwsLCwsP//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQIBAT8AR//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQMBAT8AR//Z"
+  },
+  "publishedAt": "2026-08-28T00:00:00.000Z",
+  "draft": false,
+  "mdxSource": ""
+}

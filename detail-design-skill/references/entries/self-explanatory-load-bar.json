@@ -1,0 +1,26 @@
+{
+  "slug": "self-explanatory-load-bar",
+  "locale": "en",
+  "title": "Self-Explanatory Load Bar",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/self-explanatory-load-bar.mp4",
+      "alt": "Self-Explanatory Load Bar",
+      "width": 2160,
+      "height": 2482,
+      "credit": "https://x.com/bartek_marzec/status/2003543807095079105",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCADdAMADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAIBAwQFBv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAP1vn9PHN8nPvzSV9Tz167XxZ7h4HvHhe0eF7h4uvoojtlAAEeT1+KTx8L885ej2/O9y/Q7cO+ugWgbmowAAAAGcPRh8/n9PJn5/o9FE226xoxoZuAAAAABoK0lQlQlQlQlQlQlQlQlQlQips3WWajDpvOitbWNGNGNGNGNGNGNHnuLzdmpsjBNvnVdq5UtoFoFuY6OY6OY6OelueEXF5uxXLUzIHRz06bzHRy06OYtzw6uY6OY6bzFzMnouLzXLry1OeUMaMBjQBgAANZozaOlxea59Z1OLoOedcOboObqOWdRzdNOTrhzdNOTqOd7ZFxebbd1JUIWIWIWIWIWIWIWIWI2h57i83pstSkikikikikimaAAAAee5uWhZjRjRjRjRmtGgAAABy3RrBrBrBrBrBrBrBrBrBrBrAAAAAAAAAAAAB//EACAQAAICAgMBAQEBAAAAAAAAABESAQIAEwMQQCAwUGD/2gAIAQEAAQIAnL1tTXr16tWvXq1a9evXHHWlYj5nLTazRauRVERERERFiPm2clr8m2vLx3pPhtnLHJWaUrxRTxTF6W4dEcNOOseIKiL/ADAAAAAAAAAAAMj8AAAAAAABkdTJJiY8MdT8RkeGOp+IyJJJLFmZiWbI6mZklmZmZmZmZmZptkZOWyfs9ns9z1GTlsAAHyPwHU5PnnJ8AHURkYJhVVVVVVVVVVVVYjI6AAVVAVVCqoCgZGR549EeiPRH+3//xAAaEAEBAAIDAAAAAAAAAAAAAAABABFAIFCQ/9oACAEBAAM/ANoiIetZnVzwx4d//8QAFBEBAAAAAAAAAAAAAAAAAAAAcP/aAAgBAgEBPwAo/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERMBJw/9oACAEDAQE/AClyYxZ8k8O//9k="
+    }
+  ],
+  "publishedAt": "2025-12-24",
+  "draft": false,
+  "seo": {
+    "keywords": "loading animation, progress bar, self-explanatory UI, micro-interaction, motion design"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Instead of decorating, the restrained animation is used for spatial context and creating a tactile feel.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"To clarify intent, we’re using a load bar that triggers the switch, making the interaction self-explanatory.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

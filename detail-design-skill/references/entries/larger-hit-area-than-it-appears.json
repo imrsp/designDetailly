@@ -1,0 +1,25 @@
+{
+  "slug": "larger-hit-area-than-it-appears",
+  "locale": "en",
+  "title": "Larger Hit Area than It Appears",
+  "type": [
+    "accessibility"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/larger-hot-area-than-it-appears.mp4",
+      "alt": "Larger Hit Area than It Appears",
+      "width": 3840,
+      "height": 2156,
+      "credit": "https://x.com/sorenblank/status/2022313846346842590",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABsAMADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA7QahRFEURRAAFEURRFEBSxFyVKUpFGVlCkWQSlKRRJrJQszrMS5pu42aBmWWLKM6zLmyG9Y0aspJZYSqxvMYUa3jZUElliylzUuJoTc0VAlzYRVykpBrWLZtkVBUFRCQmri26uRUAEmhi2mbRKCIVBqKZaJm0soAAAAAASahFCgAAAB//8QAGhAAAgMBAQAAAAAAAAAAAAAAATAAEBFgQP/aAAgBAQABPwDojeqN6gw2IEFhsQINiBY9Or2bN7z/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/ACn/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAEDAQE/ACn/2Q=="
+    }
+  ],
+  "publishedAt": "2025-10-12",
+  "updatedAt": "2026-02-13",
+  "seo": {
+    "keywords": "Fitts's Law, hit area, touch target, hot area"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.h2, {\n      children: \"Fitts's Law\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The time to acquire a target is a function of distance and size. A larger hit area means faster, more confident interactions. But here's the craft: the button looks small and refined, while feeling generous and forgiving.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"The Rule of Thumb\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"For mobile, use larger hot area for item with less than 44px visual size.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"For desktop, it’s 24 px.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

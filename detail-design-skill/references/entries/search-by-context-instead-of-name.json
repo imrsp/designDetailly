@@ -1,0 +1,26 @@
+{
+  "slug": "search-by-context-instead-of-name",
+  "locale": "en",
+  "title": "Search by Context Instead of Just Keywords",
+  "summary": "People search with intention, not keywords",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/media/search-by-context-instead-of-name-de8ff449.png",
+      "alt": "Search by Context Instead of Just Keywords - Media 1",
+      "width": 1484,
+      "height": 636,
+      "seenAt": "linear.app",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAApAGADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAgABAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA8hltEvASgygyg50J0Z6APQBtjLYy2MLBq5R0Ih4cHCHCHhj/xAAbEAEBAQEAAwEAAAAAAAAAAAAAERIBAhAwMf/aAAgBAQABPwD9RERERERHPn1ziMoiIiIjrx9d+Pk51pppppppppp3v1//xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAECAQE/ABf/xAAUEQEAAAAAAAAAAAAAAAAAAABA/9oACAEDAQE/ABf/2Q=="
+    }
+  ],
+  "publishedAt": "2025-10-21",
+  "updatedAt": "2026-01-28",
+  "seo": {
+    "keywords": "contextual search, semantic search, intent-based search"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Your intent matters more than your exact words.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"When search knows context, it can surface the right \\\"settings\\\" even if you type \\\"change my password\\\" or \\\"dark mode.\\\" It understands that searching for \\\"John\\\" in your email means something different than searching for \\\"John\\\" in your contacts or calendar. This reduces cognitive load—users don't need to learn exact terminology or navigate to the right section first.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

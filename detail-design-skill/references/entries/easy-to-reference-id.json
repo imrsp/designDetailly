@@ -1,0 +1,25 @@
+{
+  "slug": "easy-to-reference-id",
+  "locale": "en",
+  "title": "Easy-to-Reference ID",
+  "summary": "Use meaningful schema for user-visible IDs.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/easy-to-reference-ids.png",
+      "alt": "Easy-to-Reference ID",
+      "width": 1920,
+      "height": 1080,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA2AGADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAEDAgQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAPujM0mcNWI2ZQ2vn7NUo47hw0GTUZzUZXQShMtspJQkq2glDSygAAAAAH//xAAbEAEBAQEAAwEAAAAAAAAAAAAAARIRAhAwIP/aAAgBAQABPwD3112Oux2fm11a006taSp7scZZZZZYTxT7ValaaaddaSp7viyyyyyyynin2//EABURAQEAAAAAAAAAAAAAAAAAADAB/9oACAECAQE/AEqf/8QAFhEBAQEAAAAAAAAAAAAAAAAAATAA/9oACAEDAQE/AKOJ/wD/2Q=="
+    }
+  ],
+  "publishedAt": "2025-10-12",
+  "updatedAt": "2026-06-28",
+  "seo": {
+    "keywords": "issue ID, memorable identifier, ID schema"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"If possible, generate the id with easier-to-remember words, instead of pure random letters.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"For example, In Linear every issue has an ID like “DTD-123”.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"For those never visible to users, like a database index, random strings are fine.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

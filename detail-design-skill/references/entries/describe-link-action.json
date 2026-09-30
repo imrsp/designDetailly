@@ -1,0 +1,38 @@
+{
+  "slug": "describe-link-action",
+  "locale": "en",
+  "title": "Describe Link Action",
+  "summary": "One thing that Safari does better than Chrome",
+  "type": [
+    "copywriting",
+    "accessibility"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/announce-link-exit.mp4",
+      "alt": "Anchored Scrolling",
+      "width": 1114,
+      "height": 1194,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCADOAMADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAECBQMEBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAD9kIAAAAAAAAAAAAVSXQy0MtDLQy0MtDLQzNwzKIAC6zo1cq0wNsDbI0yNMjSUSwxLIgALrOhnWKiStXGi1YiiVTVlEsMSyIAC6zos0rzeivO7EtQAAAlhiWRAAXWabuKaZVpkaZGmRpkaZGsxEiAACygAAAAAAACAABSlURRFEaGWhloZaGZuGJqEAlwZ8vL4Dp3iSu44Y7jh07nrwvtOtv5Pc9L502lEsMSyIBjcPg+Ds+Jw89rNcV2M1ytdTcc77fp9yfQ2YuqKCWGJZEAA1NEnpa8Z7K8NeqJoAAAEsMSyIAC2DdwNsDbA2wNsDbA2wNzIRAAACoKgqCoKgqCoLAAA/8QAIRABAAECBwEBAQAAAAAAAAAAEQECAwAQEhMUIDAEUED/2gAIAQEAAQIA/aAOh5AAAAB4R/BOJ7xkqqquc4nxmVV6xnOJ8Z6gAZzifEAAAM5xPeMgA8ZxPePBVV8lVVVVf2QAAAADuqq+8zNc3t/kcjkcjkRfpuxUq5TietWLlVdyb29vb29vU3bVyipXOcT1qxdpuUTb29vRoi3RbtUURGcZziesxVRNmfnn5+Px+PHz02KbUUgZziewadGjRoimKTvOJ7xmAeM4nxVVVVXxVVVVV/V//8QAGhABAQEBAQEBAAAAAAAAAAAAAAERMEBwgP/aAAgBAQADPwD82RERE8OMRERERvfFVVVVVfBVVVVVXvreGM7xERERPg3/xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAECAQE/ABz/xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAEDAQE/ABz/2Q=="
+    },
+    {
+      "type": "video",
+      "src": "https://file.detail.design/describe-link-action.mp4",
+      "alt": "Anchored Scrolling - Media 1",
+      "width": 1920,
+      "height": 968,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABhAMADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIBAwQFBv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAPIwsI4gPKSMEpBKrIsDzXI81zTwokwpKwgOJJAAAA6OWOjEI6CKykkBJAMQWETEACgAAAADKw8wwqvAi2BWOCDgktApMAAAAAAATdVtJu2bjjt3LDgHonPNHpw8wemg8zn9TzTz1HQwCgAAAAAD7+frO30eHuzeq/NbG+ldx9Op13xTcX04sCdDlZ8VteC+ilAAAmHBBwi+q406MlkuyzE/PezRz7Y6lfPzbxo51eeyxUaoS1KrHBJYHgAAGsCrZCJcM6dwhMwWZ0CyXAlAqAAkD//EACIQAAIDAAIBBQEBAAAAAAAAAAABAgMRElEUBBAgMEBhE//aAAgBAQABPwDTTTTTTTTTTTTTTTTTTTTTTTfkjDDPlppv2oSMGhj/ABoTNGxj/GhM038qQkcTicGcGcGcGcGcGcGcGcWZ9SIx0jVoqH0eO+jxn0eK+jxX0eI+jxH0eI+jxX0P0r6J0YThg/piVRKq9IUoVCFQhUIXp0eKujxV0eMujxkToRfUkXRJfTApKWiEkJo5IU0RkiODSG0iU0i21F9ielzJfTErkVWELRXH+wrSu0haSuLPUYWeq/pZ6r+ll2k5aP6UQISIzFM5kZEJitwsvLbyy5jsbOTGP44YYYJEUIUhTFMUxWDuLLidjZJiEjBowwwz4oQvZCF7SJj9kL2fx//EABsRAAICAwEAAAAAAAAAAAAAAAABERICMEBQ/9oACAECAQE/APTZYsTpaHiRx//EABkRAQEBAAMAAAAAAAAAAAAAAAEAETBAUP/aAAgBAwEBPwD0yyTiLZZ6X//Z"
+    }
+  ],
+  "publishedAt": "2026-01-11T00:00:00.000Z",
+  "updatedAt": "2026-05-29T00:00:00.000Z",
+  "seo": {
+    "keywords": [
+      "describe link action",
+      "link action",
+      "list navigation"
+    ]
+  },
+  "mdxSource": ""
+}

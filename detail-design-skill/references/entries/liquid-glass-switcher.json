@@ -1,0 +1,25 @@
+{
+  "slug": "liquid-glass-switcher",
+  "locale": "en",
+  "title": "Liquid Glass Switcher ",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/media/Built-in%20Retina%20Display%202025-10-23%2015%3A56%3A27.mp4",
+      "alt": "Liquid Glass Switcher  - Media 1",
+      "width": 720,
+      "height": 720,
+      "originalSrc": "https://file.detail.design/media/Built-in%20Retina%20Display%202025-10-23%2015%3A56%3A27.mp4",
+      "seenAt": "https://kube.io/blog/liquid-glass-css-svg/",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCADAAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAD7QTIgAAFAIAAAAAFEAAAEUAAAAAJFRWhAhUUAAAAAAQAAUAAAhUFQVBUAAAAFAIWICkUZayZk5HZ5h6deXZ6bx6GhIFVC2IE2XVsuWhnPQebze3y15ZrnZrXOnp7+T0R3ualQUKlhN4p21y3Lpkakhny9vLXHnvCKq79HLunWywBRSBJrJdYG3MvTOYZ49sp53oHn310Z6tFEAAAASaGWhloZaGWhm0SoVAFUQAAIVBUFQABQAhUFEABQAABBUJYAAAFQVBUAAAAQAAAAB//EAB0QAAMBAQADAQEAAAAAAAAAAAABEQISECAwQHD/2gAIAQEAAT8A/mNKUpfF/LTo6Ojo6L9YQhBoY2dHR0LQtCfzSIQhBo0jSGUotGdGX8kL20jaNeUZZkXu/CF7aNmvKMmRfFMTKUpRs1o2x+UjKMoXypSnRR6NM0cnJyLJnIl+Fo5OTk5FkS+sITxCEIQhP5f/AP/EABQRAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQIBAT8AEP/EABQRAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQMBAT8AEP/Z"
+    }
+  ],
+  "publishedAt": "2025-10-23T00:00:00.000Z",
+  "seo": {
+    "keywords": "liquid glass, CSS button, glassmorphism, toggle switcher, UI animation"
+  },
+  "mdxSource": ""
+}

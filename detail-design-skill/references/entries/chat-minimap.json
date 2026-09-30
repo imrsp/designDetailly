@@ -1,0 +1,45 @@
+{
+  "slug": "chat-minimap",
+  "locale": "en",
+  "title": "Chat Minimap",
+  "summary": "Keeps long conversations grounded",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/chat-minimap-3.mp4",
+      "alt": "Chat Minimap - Media 3",
+      "width": 3168,
+      "height": 1918,
+      "credit": "https://x.com/raunofreiberg/status/2031794945896378820",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAB0AMADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAO2AAzqGM6yCi2kqFuBtjRpKAAAAJYYlgBpKCEUTU0WygAAACWGJYLKLAIVka1jRqygAAACWGc7hm0QEmhhoTU0asoAAAAlhCFAURYRRKosoAAAAlhmIW50UpJqGVE1KWygAAACUZmhm2igBFEWAAAEoAAAUAAACAAAB/8QAHBAAAgMBAAMAAAAAAAAAAAAAABEBMEAgEFBg/9oACAEBAAE/AOp4QheXfNLHdNcWzonRNcaIyIQhEZUIXwqEIV6ELhCEK9ep/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwBB/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwBB/9k="
+    },
+    {
+      "type": "image",
+      "src": "https://file.detail.design/media/chat-minimap-3526bf2d.png",
+      "alt": "Chat Minimap - Media 1",
+      "width": 888,
+      "height": 1020,
+      "seenAt": "https://www.lobechat.com",
+      "credit": "@lobehub",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABuAGADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAPjAAAAJRxmrHQUAAAByskvYWAAAAcsbhsAAAAGdYHcAAACWHLG8HoAAAAByxvB6EFQVBUFQZ575n//EABkQAAMBAQEAAAAAAAAAAAAAAAABETACEP/aAAgBAQABPwDFnQlkzo5yYznJjE8+tGQpSlKUpSlGIhCEIQhCEGJ5M6zZ1mzrTrRjzb8//8QAFhEBAQEAAAAAAAAAAAAAAAAAASBA/9oACAECAQE/AJad/wD/xAAUEQEAAAAAAAAAAAAAAAAAAABQ/9oACAEDAQE/ACv/2Q=="
+    },
+    {
+      "type": "video",
+      "src": "https://file.detail.design/media/chat-minimap-8d1849c2-1.mov",
+      "alt": "Chat Minimap - Media 2",
+      "width": 830,
+      "height": 962,
+      "seenAt": "https://www.grok.ai",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCADfAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAD2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACiKIoiiKIogAAABQQqCqIoiiKIoksEsKAABLgXmO1406zkOrkO14bOrOiY1grFNgAFJneTjnrkw1TLY5ugxtTe8aHPpkxaNAAAsUy0MXQzaJNDLQlBLBKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/EABsQAQADAQEBAQAAAAAAAAAAAAABERIwEIAg/9oACAEBAAE/APieVola1rWtf4nnK2mmmmmmmkSifJTylPGEeSnlKYZZZZZZZZUjyUq5UpSlKUpSvg//xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAECAQE/ACj/xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAEDAQE/ACj/2Q=="
+    }
+  ],
+  "publishedAt": "2025-10-12",
+  "updatedAt": "2026-03-17",
+  "seo": {
+    "keywords": "conversation minimap, scroll indicator, chat navigation"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    a: \"a\",\n    h2: \"h2\",\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Long chat transcripts often make it hard to remember where a reply belongs. This detail pins a subtle minimap to the viewport so you always know which region of the conversation you are reading.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Micro moments\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"The indicator glides to the new anchor as you scroll, easing in over 240ms so the movement feels calm.\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Hovering the minimap brightens the section labels, signalling that the map is interactive, not ornamental.\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Clicking a section plays a brief focus ring in the transcript, assuring you that the context really shifted.\"\n      }), \"\\n\"]\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"How it works\"\n    }), \"\\n\", _jsxs(_components.p, {\n      children: [\"See \", _jsx(_components.a, {\n        href: \"https://github.com/lobehub/lobe-chat\",\n        children: \"source code\"\n      }), \".\"]\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

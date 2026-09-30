@@ -1,0 +1,24 @@
+{
+  "slug": "check-potential-problem-in-user-content",
+  "locale": "en",
+  "title": "Check Potential Problems in User Content",
+  "summary": "Warn the user if it's missing.",
+  "type": [
+    "copywriting"
+  ],
+  "media": {
+    "type": "image",
+    "src": "https://file.detail.design/media/check-potential-problem-in-user-content-9fb79201.png",
+    "alt": "Check Potential Problem in User Content - Media 1",
+    "width": 644,
+    "height": 400,
+    "seenAt": "resend.com",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA8AGADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAIBAwQGBf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAwL/2gAMAwEAAhADEAAAAO7V6BzPKXzncuBhRwSWAqtQzrYlACNZnc1FbkzBBm0eHbe3IbTqjHY50Tmk1NlE2vl0yz52+vPTn7/YEzNeWUTcRTNokXVuv//EAB8QAAIDAQADAAMAAAAAAAAAAAABAhESAwQgMQUQMP/aAAgBAQABPwCi0aRaLRf6oooooZJmjRoixNezJRHEoo+GiMi/RjH6UIT9GdOqiS8yKf0h5KkKaZo0aFI2KQiXw82clZ17dNni9ZujlJ0aZpmmaZpkGRJHfhsn+PTfw5eEoEeVIwYMGDJFERjKRS/gj//EABcRAQEBAQAAAAAAAAAAAAAAAAATEkD/2gAIAQIBAT8A4qKKKKNv/8QAGREBAAMBAQAAAAAAAAAAAAAAAAEREgJA/9oACAEDAQE/APDClMsso5f/2Q=="
+  },
+  "publishedAt": "2025-10-15",
+  "draft": false,
+  "seo": {
+    "keywords": "poka-yoke, pre-flight check, mistake proofing, email validation"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Before you can send a broadcast in Resend, the interface runs a simple, brilliant check: it scans your email's HTML for an unsubscribe link. If it can't find one, a subtle but unmissable warning appears, preventing you from sending until you've added it.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"It’s a safety net that catches you before you fall.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Why This Detail Resonates\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"This isn't just a friendly reminder; it's an example of mistake-proofing, a design principle often called Poka-yoke. The system is designed to prevent inevitable human error before it happens.\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"It externalizes the checklist. A user sending a campaign is thinking about copy, subject lines, and send lists. Forgetting a legally required footer is an easy mistake. Resend takes that cognitive load off the user and puts it onto the system, where it belongs.\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"It builds trust through partnership. The feature says, \\\"I've got your back.\\\" By preventing a serious mistake—one that could harm deliverability, annoy users, and even have legal consequences—Resend positions itself as a trusted partner, not just a passive tool.\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"It provides the right friction at the right time. Instead of letting you send and then showing an error, it blocks the primary action. This momentary friction is valuable because it prevents a much larger, irreversible problem.\"\n      }), \"\\n\"]\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Where You've Seen It\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Gmail: Famously scans your email for phrases like \\\"I have attached\\\" and warns you if you hit send without an attachment.\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"GitHub: Prevents you from merging a pull request if there are merge conflicts or if required status checks (like automated tests) haven't passed.\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Vercel: Halts a deployment if the build process fails, preventing broken code from ever reaching production. It’s a server-side pre-flight check for your entire application.\"\n      }), \"\\n\"]\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

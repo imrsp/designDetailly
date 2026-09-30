@@ -1,0 +1,26 @@
+{
+  "slug": "stagger-for-the-event-order",
+  "locale": "en",
+  "title": "Staggered Animation for Event Order",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/stagger-for-the-order.mp4",
+      "alt": "Staggered Animation for Event Order",
+      "width": 2160,
+      "height": 2482,
+      "credit": "https://x.com/bartek_marzec/status/2003543807095079105",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCADdAMADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAECAwQFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA/ZgAAAAAAAAAAAiIqCoKgqCoKgqBh4z0X5eq+tvyeo0DCM2oKgqCoKgqCoMeL3cT5W/Zo17OPeyiubLN0yNM0oAAAAAJVGpqwK8lzc3RRrOjQAAAAAFlLrOrKK812zc2iUAAAAAAFlLrOrKK5NM3LQy0MtDLQyogAAFlLrOrKKrSMtDLQy0MtDnnphcyogAFlLrOrKKTiOziOziO7hTtePQ1m5lySAAFlLrOrKK8ltMtDLQzbodc9CZ3iXMsgABZS6zqyisuo5Oo5Oo5XoJaM8+nOXMsgABZS6zqyiuiCoKgqCgzz6YlxNSIoiiVRqasCtIKgqCoKgSjKiKIoiiWgAAAAAAAAAAAAD//xAAeEAADAAIDAQEBAAAAAAAAAAAAARECEgMwQBBgIP/aAAgBAQABPwD8A2POD5ULlQsr5MmcmZlymHIceVMfHkcqMsXTjxZxIx8bRlhR8JjxQxxgvJCIn80pSl8lKX6vLCE8kIQhPwkIQhCEIQnfCEIQhCEIT0MfbsbGxsbGxsbFL8fbsbFKUpsUTF8fSuxC+PthCEIQgkJCQx9upqampqampBL4x9sIQhCE/hj87H52P0whCEIQn43/xAAXEQEAAwAAAAAAAAAAAAAAAAABMFBg/9oACAECAQE/ANsSFN//xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAEDAQE/ACj/2Q=="
+    }
+  ],
+  "publishedAt": "2025-12-24",
+  "draft": false,
+  "seo": {
+    "keywords": "staggered animation, animation order, motion sequence, UI animation timing, event stagger"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"When multiple elements move at once, attention splits. A stagger creates a clear order of events, so the eye knows where to look next.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

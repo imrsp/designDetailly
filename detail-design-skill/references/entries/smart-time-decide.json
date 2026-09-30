@@ -1,0 +1,25 @@
+{
+  "slug": "smart-time-decide",
+  "locale": "en",
+  "title": "Smart Time Decision",
+  "summary": "Know the time people actually want.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/smart-time-decision.png",
+      "alt": "Smart Time Decide - Media 1",
+      "width": 1920,
+      "height": 1080,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA2AGADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAECAwQG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAD3SUrZkpdiGOSCqwLOh8+yVNhmWTSKElWqhaCZaMBOSVUzdghKBLTVytsdigAABAQwKAGAf//EABsQAQEAAwEBAQAAAAAAAAAAAAABAhESECAw/9oACAEBAAE/APNtt+WunSZOvK2tbT2+y1irTTlppppy5TBJ+21rpK2uTp0uSZMarSxykVUjlcUxSfVjSRpr3//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQIBAT8AR//EABoRAAMAAwEAAAAAAAAAAAAAAAABERIgITD/2gAIAQMBAT8AhDEx0pWV6KHB+P8A/9k="
+    }
+  ],
+  "publishedAt": "2025-10-12T00:00:00.000Z",
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "seo": {
+    "keywords": "natural language time, smart time parsing, context-aware scheduling"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"If you ask Siri to wake you up at 9 am tomorrow at 1 am, Siri knows you actually want 8 hours later today, not real tomorrow.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Sometimes it will also ask you which day do you mean.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Why it resonates\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"This design choice reflects a deep understanding of human cognition and natural language. When we're awake late at night, our mental model of \\\"days\\\" doesn't flip at midnight—it flips when we sleep. Saying \\\"wake me up tomorrow morning\\\" at 1 AM feels natural because we haven't gone to bed yet; psychologically, we're still in \\\"today.\\\"\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"By aligning with users' sleep-based mental models rather than strict chronological time, Siri reduces cognitive friction and prevents frustrating mistakes. Imagine setting an alarm for \\\"tomorrow at 9 AM\\\" at 1 AM, only to have it go off in 32 hours instead of 8. This human-centered interpretation makes the technology feel intuitive and intelligent.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Similar considerations\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Google Calendar: If you schedule a meeting at 8:00 AM but it's currently 2:00 PM, it asks if you meant 8:00 PM\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Slack's \\\"tomorrow\\\" messaging: When scheduling a message late at night, \\\"tomorrow morning\\\" intelligently interprets based on typical wake times\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Streaming services: Netflix's \\\"Continue Watching\\\" treats your viewing session as continuous until you sleep, not resetting at midnight\"\n      }), \"\\n\"]\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

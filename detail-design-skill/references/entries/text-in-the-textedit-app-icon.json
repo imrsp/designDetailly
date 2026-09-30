@@ -1,0 +1,27 @@
+{
+  "slug": "text-in-the-textedit-app-icon",
+  "locale": "en",
+  "title": "Text in the TextEdit App Icon",
+  "summary": "",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/text-on-the-textedit-app-icon.jpeg",
+      "alt": "Text in the TextEdit App Icon",
+      "width": 512,
+      "height": 512,
+      "seenAt": "https://apple.com/macos",
+      "credit": "https://x.com/aykev/status/2004121862088134916",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABgAGADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAgQAAQMFBv/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAD38qgoMCqoXBgVgRckBzPCCteqZHADeL2N6qGbijB3HXHy7ACD1YuVdSGZmBqRm0l1hldxfnV6MekhzSpcAx5jKEOdvn9MvPQRUNgqjCg1i54rpj0oecWZCq4LLPLwrGNeWkl+wPXKL+h0JSH/xAAfEAADAAIDAQADAAAAAAAAAAAAAQIDEQQQEiATISL/2gAIAQEAAT8A639r42bN9bNmzYu2Nno9Hsdjs9k0JjtIV7KZTGz0ehs2bJY7MmUx3tlMbH91RVbZx0Whj7SFJ5LMlE/0zjxpFopDRoUikSGZGZa2zjxtmOdIpFIfSF1VGfKJ+qONGieqRSPIl02Zb0jNk2zBO2Yv0ieqKNo9IdlZDNbYodUYMTREkrqiymz0xJsqHoeFtmLjEYkhT2yp2ViFhJxDxo/EiZS+P//EABsRAQACAgMAAAAAAAAAAAAAAAECIAAREjAx/9oACAECAQE/ALbLDInZhtw7HzDktP/EABgRAAIDAAAAAAAAAAAAAAAAABEgMEBB/9oACAEDAQE/AJMY0v/Z"
+    }
+  ],
+  "publishedAt": "2025-12-27T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "TextEdit icon, macOS easter egg, app icon detail, Apple hidden text, macOS icon design"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    hr: \"hr\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"There is some text in the TextEdit app icon on macOS, which was removed in 2014 with the flat redesign.\"\n    }), \"\\n\", _jsx(_components.hr, {}), \"\\n\", _jsx(_components.p, {\n      children: \"Dear Kate,\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can praise them, disagree with them, quote them, disbelieve them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Take Care, John Appleseed\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

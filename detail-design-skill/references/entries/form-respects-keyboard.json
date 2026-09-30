@@ -1,0 +1,25 @@
+{
+  "slug": "form-respects-keyboard",
+  "locale": "en",
+  "title": "Form Respects Keyboard",
+  "type": [
+    "accessibility"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/form-respect-keyboard.mp4",
+      "alt": "Form Respects Keyboard",
+      "width": 2880,
+      "height": 2048,
+      "credit": "https://x.com/alvishbaldha/status/2000454436272177351",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACJAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAD7ssIZNM6LWjLQy0MtDLQy0MrCAqCywznWR0x3Nb6dTzvRTzvVTyPWPI9cPLj2cjyY7cSIEuTpLDOdQvp8/pPV15dhWhQAijHH0cDycPR5zAGdZOkoxLk16fL6D29vN3OmuVOjmOjnDrnnhOvDnzkcN87rKwZ1DaCY3gdeOz1dfHs9Tyj1PKPVPMPRz55S5iSi2BUoLDObkazTes6AAAAAAJENXOhKMY6ZM1S6zoqCpQAAACQGpQCSwgDI1c0tg0AAADILZQCSwgMqFBZTQAAAMgtmj//EAB4QAAIDAAMBAQEAAAAAAAAAAAABAhESECAwQFBg/9oACAEBAAE/APuooooooooooorxfCIoUTJgwYMGDBgwYHEaH3fCIIjEyZMmDBgwYMDiSiSQ+74iQIIoooooooooaJomPu+IkCAvFkyY+j5fESBAXeyxyJSJMfd8IgyDFI0aNGjRochzHMcxsfdjERZGQpmzZs2bNjmOY5F+L5QmaNGjRo0aLG/N9F8bHyhfI+i/Rv8Amf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8AWf/EABYRAQEBAAAAAAAAAAAAAAAAABFQMP/aAAgBAwEBPwCY6FT/2Q=="
+    }
+  ],
+  "publishedAt": "2025-12-17T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "keyboard navigation, form accessibility, keyboard-first design"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"You can always get your job done by just using the keyboard. This form respects the keyboard.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

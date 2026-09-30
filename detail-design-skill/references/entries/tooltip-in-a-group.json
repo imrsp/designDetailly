@@ -1,0 +1,36 @@
+{
+  "slug": "tooltip-in-a-group",
+  "locale": "en",
+  "title": "Animate the transition between two open tooltips",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/tooltip-in-a-group-2.mp4",
+      "alt": "Tooltip in A Group",
+      "width": 1452,
+      "height": 652,
+      "credit": "https://rauno.me",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABWAMADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEDBAUCBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPtgAAAAAAAAAAAAAACCVVZpjINfnJ5Nk4rjR6r9kgAAAAAV2UmPn6eQWxgg3MEnV6PE651LabwAAAAABXZBgw9rwcHz3hwZ7o5W7T7FkSAAAAAAAAQkQkAAAAAAAAAAAAAAAAAf/8QAIBAAAgICAgMBAQAAAAAAAAAAAAECAxETBBQwQFFQYP/aAAgBAQABPwD9zJkyZ9Bsc8DtRvRvQ70b0K4jPIn55stswWX4HyX9Oy/p2X9Oy/pXc2VTyQ89hfktTGpGJGJCiyqLKEV+eSLK8k+PkfFOqdUXFIcfBXXgivQcR1o1I0o0o1IVaFH+R//EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8AEf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8AEf/Z"
+    },
+    {
+      "type": "video",
+      "src": "https://file.detail.design/media/tooltip-in-a-group-9d36264d.mp4",
+      "alt": "Tooltip in A Group - Media 1",
+      "width": 1018,
+      "height": 1080,
+      "seenAt": "https://www.notion.so",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCACqAKADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAQIAAwUEBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA98sQIrUtlILpTC+UQvNBLpVC00kuNTFhUiVvSKhBJCLCEBkUkMGEEkg71WFjoxXVbUJCSR4VrYsLGKhi0AWCysOtCxHLGViuq2oVlYaSSoCM6JUwzIasAlgUiyOj2WMrFdVtIGqhfKYOKlS+UROic5rplBluFRWx6rC1lYq5ujiEro5DQGUqaq5Ys1ZlRNWZINg4xXbtxeya1r+HsOhkcoztDNM3O6sqCvIh3Dih2ziB2rxqds4IbGlg6xvaOVqV1OjlGbp8BhZW9mxjpoqcE0IZ80IZo0gZh0SU61Oid2nxd9dDKxXydtBl8exQZA1ZGWdWVlDWhkjXBkHVJwdl1xOpLR2ViVXIUJ0KUy6FRthVLYUy4FMuhUzkDQhYMFWggcCxoLGgsaCxoLGgsaAhJCCf/8QAHhAAAQUBAQEBAQAAAAAAAAAAAQIDERITABAgMED/2gAIAQEAAQIA6Zta1rWtaZmZmfDxJNrWta1rWmZkEHw8STPzM/Egjh4eVx8iIiPAIjwcOHh4+RER0RAERHDhw8PHwdHH2IHh4+jh4ePg9P4H0cPDx8Hp+h8jh4ePg9PzI+Rw8PKNr3uV3ve9w5e9gRw8VyypZd22L22uu222wdS4lSeHi+cLi1Ol/fbbbbffcPoebcbUjh45zxeW44Xddddddddg826ytlTfDxzn+fLqlKta1rWKrJU0pgsc3w8c54PpdQpFKUpSlM0ttIYQwG+Hi+dDyHGy1ljjjjjjiGW2WW2koA8VziXG1tFnDDDDDDDAMIZbbQlPDw8oKQW8sssssssssg2lCQOHh4gppSlKUpSlKVCQBw9IIiIiIiIiIiPmIiIiIiIiIiP5v//EABoQAQEBAAMBAAAAAAAAAAAAAAABYUBQYID/2gAIAQEAAz8A+CKqqqqqqvQ5wsYxjGMZ6z//xAAYEQEBAQEBAAAAAAAAAAAAAAARAEAgUP/aAAgBAgEBPwDOzM4SIjtmfX//xAAYEQEBAQEBAAAAAAAAAAAAAAARAEAgUP/aAAgBAwEBPwDORGFmZnsiI9b/2Q=="
+    }
+  ],
+  "publishedAt": "2025-10-12",
+  "updatedAt": "2026-01-16",
+  "draft": false,
+  "seo": {
+    "keywords": "tooltip group, sequential tooltips, hover delay"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"A smooth transition for multiple tooltips.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

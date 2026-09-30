@@ -1,0 +1,32 @@
+{
+  "slug": "color-string-preview",
+  "locale": "en",
+  "title": "Color String Preview",
+  "summary": "Making it instantly clear what color the code represents without needing to decode it mentally.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/color-string-chip.png",
+      "alt": "Color String Preview - Visual chip displaying color next to hex code",
+      "width": 1644,
+      "height": 298,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAARAGADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwb/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAADxV8+gAZJSBaBfPZMoNBkgwAAP/8QAGRABAQEBAQEAAAAAAAAAAAAAABIBEQIw/9oACAEBAAE/APOJSlLjjjjjjcedUpSlKUpSm6z6f//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQIBAT8AT//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8AT//Z"
+    },
+    {
+      "type": "image",
+      "src": "https://file.detail.design/color-string-chip-2.png",
+      "alt": "Color String Preview - Visual chip displaying color next to hex code",
+      "width": 550,
+      "height": 348,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA9AGADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAMEAQIFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA+Qqhq3mhfQTrvyXzy5ZLlGCOK1ibYrBiHTDWxuGKYk5MDvDkXbHUNmdOY+bStKg6OQZxnAyiRg/Eg4UDRWDhIPRqz//EABwQAAMBAQEBAQEAAAAAAAAAAAABAhIRAxATIf/aAAgBAQABPwCKJr5U9H5jgwYMGTI0SyBM6hJMcIwhyjhwyi5IPNFDrjJ9D9B+hVmjQqKoghlMpCTJhsfmVJkyKSkQeaKKYqJ9EP0RVo0aFSKohEPhTKRk4zjMsyzLMspMgX3iOI4jiP4cRxFks0zTNM0zTNM0zTNM0ymz/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERQP/aAAgBAgEBPwCsuf8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQBA/9oACAEDAQE/ACM//9k="
+    }
+  ],
+  "publishedAt": "2025-12-13",
+  "seo": {
+    "keywords": "color preview, hex code visualization, inline color chip"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    h2: \"h2\",\n    li: \"li\",\n    p: \"p\",\n    strong: \"strong\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsxs(_components.p, {\n      children: [\"When text contains a hex color string like \", _jsx(_components.code, {\n        children: \"#FF5733\"\n      }), \", showing a small colored preview chip next to the code transforms an abstract string into immediately recognizable information.\"]\n    }), \"\\n\", _jsxs(_components.p, {\n      children: [\"This detail bridges the gap between code and visual design. Instead of forcing users to mentally decode \", _jsx(_components.code, {\n        children: \"#3B82F6\"\n      }), \" or paste it into a color picker, the interface does the translation work for them—instantly showing the actual blue shade.\"]\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Why It Works\"\n    }), \"\\n\", _jsxs(_components.p, {\n      children: [\"Color codes are machine-readable but not human-readable. A hex string like \", _jsx(_components.code, {\n        children: \"#1A1A1A\"\n      }), \" tells you nothing at a glance. But add a dark gray chip next to it, and understanding becomes instantaneous.\"]\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"This is especially valuable in:\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Design systems documentation where color tokens are frequently referenced\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Code editors when working with CSS or styling code\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Chat or collaboration tools where designers share color values\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Developer tools and inspector panels showing computed styles\"\n      }), \"\\n\"]\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Implementation Considerations\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The preview should be:\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsxs(_components.li, {\n        children: [_jsx(_components.strong, {\n          children: \"Inline\"\n        }), \": Placed directly adjacent to the color string, not requiring hover or interaction\"]\n      }), \"\\n\", _jsxs(_components.li, {\n        children: [_jsx(_components.strong, {\n          children: \"Sized appropriately\"\n        }), \": Large enough to see the color clearly, small enough not to disrupt reading flow\"]\n      }), \"\\n\", _jsxs(_components.li, {\n        children: [_jsx(_components.strong, {\n          children: \"Bordered\"\n        }), \": A subtle border helps distinguish white/light colors from the background\"]\n      }), \"\\n\", _jsxs(_components.li, {\n        children: [_jsx(_components.strong, {\n          children: \"Non-intrusive\"\n        }), \": The chip should enhance, not replace or obscure the actual color value\"]\n      }), \"\\n\"]\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The feature can be enhanced by making the chip interactive—clicking it could copy the color value or open a color picker for editing.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

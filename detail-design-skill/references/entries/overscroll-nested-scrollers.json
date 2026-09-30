@@ -1,0 +1,22 @@
+{
+  "slug": "overscroll-nested-scrollers",
+  "locale": "en",
+  "title": "Overscroll Effect in Nested Scrollers",
+  "type": [
+    "interactivity"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/overscroll-nested-scrollers.mp4",
+    "alt": "CSS text-box-trim: trim-both cap alphabetic demonstration",
+    "width": 1920,
+    "height": 1122,
+    "credit": "https://nerdy.dev/overscroll-effects-on-nested-scrollers-in-all-browsers",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABwAMADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAG9rd1jUckxRRQwEz4TPqTPhM+ELGE1CSFlI83clC8bxTYyrK0SarOy5gSwkCgip0HmJ0bmJ215emVw+JyvAS8LWVIMolZDkn1TSJciCmIC+Ia5OduhhOhaK22FheAl42soQZcCCUqxFy4bLhspC82KvOgzAh2wsLwFtG1lCDLgQSlaRMOBSSAthSxNRXCwJtsLC8BbRtZQgy4ECStMlnwmZQ4MZswXDGIJtsLC8Cd/P77LEGXbYCvhBTEkuCLuRS2AdjbY22BC3Mf/EABwQAQADAAMBAQAAAAAAAAAAAAABAhEQEiADMP/aAAgBAQABPwD4fDHw+eKVYzxjGMYxjGMYxjEwv89fP44+dMRVjP3x1YxNVawrCOJSmXZ2dnZ2d3d3d3dF1bIYxMLIVRxKy0ta1qZTLWtaiVJV5ldCqOJWhaGMYxMOrq6urqiqlVeZXQqjmYWhMM8YxiKuqKIhHMroVRzKyWta1rWolHMcyuhVHMrJ/CEI8yuhVHMrJ5xjGMRCEeZXQqjmUp/CEI8yuhVHMpT+EI9SuhVHiUwxiY5iGIhHqV1ZVR5xjqmrq6oqxjPUrPlfVJR+GMYz8ZXs/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAp/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAp/9k="
+  },
+  "publishedAt": "2026-01-21",
+  "seo": {
+    "keywords": "CSS overscroll, nested scrollers, scroll effects"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Chrome 145 joins WebKit and Firefox in supporting overscroll effects on nested scrollers.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Now you can add a smooth edge effect for every scrollable area.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

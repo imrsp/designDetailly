@@ -1,0 +1,26 @@
+{
+  "slug": "morphing-button-to-input",
+  "locale": "en",
+  "title": "Morphing Button to Input",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/morphing-button-to-input.mp4",
+      "alt": "Morphing Button to Input",
+      "width": 960,
+      "height": 960,
+      "credit": "https://x.com/nitishkmrk/status/2012775964887986629",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCADAAMADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECBAMG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAA9wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgSgSgSgSAAAAAACKXzFmSDaywa2UarZOhqty6EgAAAAAjNpoYI2VMsd6nO3XqZuvSxPSLAAAAAAAERYcK94KdYsQkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/8QAHRAAAwEAAgMBAAAAAAAAAAAAAAECEhEwEEBwE//aAAgBAQABPwD7u6HZ+hs2bNmxUJ9zLZVCo0aNGjRLJfcy0VJk48JGTJKJF3ORwOByZFBgwKRL0Who4EvWaMiX0z//xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAECAQE/ABD/xAAUEQEAAAAAAAAAAAAAAAAAAABw/9oACAEDAQE/ABD/2Q=="
+    }
+  ],
+  "publishedAt": "2026-01-21T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "morphing animation, button to input, shape transition, motion design, UI micro-interaction"
+  },
+  "mdxSource": ""
+}

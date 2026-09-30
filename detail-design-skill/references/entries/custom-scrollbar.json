@@ -1,0 +1,24 @@
+{
+  "slug": "custom-scrollbar",
+  "locale": "en",
+  "title": "Custom Scrollbar",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/custom-scrollbar.mp4",
+      "alt": "Custom Scrollbar",
+      "width": 1300,
+      "height": 652,
+      "credit": "https://x.com/raunofreiberg/status/2048057305439039535",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABgAMADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAECAwQG/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAA9E6euUO6M6tpDpkUwdSFkBRIUSFEhZIOKRBZNy2CGCGCGCVQjILnQRTAAAYgYgoZjshghghghhOemSQ8zXPes7sYmAANAxBoUY7SUEjQAAALHbJOZVlvntpz6XO1Y2WS1bQMQdZZz7QtEZTcCAAAMtck58dsd8ipes3WTNrwqXZ50UJneBz7iaIz0zEAAAZa5Wc2O2G+Tc1cgAVKNbwZ0VhpL//EABsQAAMBAQEBAQAAAAAAAAAAAAABEQIgMBBA/9oACAEBAAE/ACEIQhCEIIpSl5pS/GiEIQhCdX0hCE8aXznmyl/KzRRMX5GaGxMT/IzRoomJl8IQhPDRr4mJiYmXqEIQfejQxfKJiZS8QhBjH1o2PiiYmJl6Yx9aNjFxSiYmJl4Yx9aNjF1SiYmf/8QAFxEBAQEBAAAAAAAAAAAAAAAAATAgUP/aAAgBAgEBPwDlFChr/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAERMCD/2gAIAQMBAT8A0hCEITRjzY82PNj6/9k="
+    }
+  ],
+  "publishedAt": "2026-05-04T00:00:00.000Z",
+  "seo": {
+    "keywords": "custom scrollbar, scrollbar-width, scrollbar-color, thin scrollbar, CSS scrollbar styling"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    figure: \"figure\",\n    pre: \"pre\",\n    span: \"span\",\n    ...props.components\n  };\n  return _jsx(_components.figure, {\n    \"data-rehype-pretty-code-figure\": \"\",\n    children: _jsx(_components.pre, {\n      tabIndex: \"0\",\n      \"data-language\": \"css\",\n      \"data-theme\": \"github-light github-dark\",\n      children: _jsxs(_components.code, {\n        \"data-language\": \"css\",\n        \"data-theme\": \"github-light github-dark\",\n        style: {\n          display: \"grid\"\n        },\n        children: [_jsxs(_components.span, {\n          \"data-line\": \"\",\n          children: [_jsx(_components.span, {\n            style: {\n              \"--shiki-light\": \"#22863A\",\n              \"--shiki-dark\": \"#85E89D\"\n            },\n            children: \"scrollbar-width\"\n          }), _jsx(_components.span, {\n            style: {\n              \"--shiki-light\": \"#24292E\",\n              \"--shiki-dark\": \"#E1E4E8\"\n            },\n            children: \": thin;\"\n          })]\n        }), \"\\n\", _jsxs(_components.span, {\n          \"data-line\": \"\",\n          children: [_jsx(_components.span, {\n            style: {\n              \"--shiki-light\": \"#22863A\",\n              \"--shiki-dark\": \"#85E89D\"\n            },\n            children: \"scrollbar-color\"\n          }), _jsx(_components.span, {\n            style: {\n              \"--shiki-light\": \"#24292E\",\n              \"--shiki-dark\": \"#E1E4E8\"\n            },\n            children: \": gray transparent;\"\n          })]\n        })]\n      })\n    })\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

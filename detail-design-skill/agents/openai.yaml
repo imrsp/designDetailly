@@ -1,0 +1,4 @@
+interface:
+  display_name: "Detail.design Reference"
+  short_description: "Search Detail.design's complete content archive"
+  default_prompt: "Use the Detail.design archive to find the most relevant interface craft references and explain how they apply."

@@ -1,0 +1,26 @@
+{
+  "slug": "pick-date-with-natural-language",
+  "locale": "en",
+  "title": "Pick Date with Natural Language",
+  "summary": "",
+  "type": [
+    "accessibility"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/input-date-with-natural-language.mp4",
+      "alt": "Pick Date with Natural Language",
+      "width": 764,
+      "height": 720,
+      "seenAt": "linear.app",
+      "credit": "https://x.com/kenneth_skovhus/status/1806589108245909808",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAC1AMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA8fqaBBYKQIBCpQCSwALADVaMtjm6Qw1DLQyoiiKIoi0k0MNQ1rFN3mOkxTVmqk2ObcMtDDQyohCyIsgiCoLrGjpvHShCyCoEsAM51kyIAgAGs6Om+eyxAgqCoLAmdZMgAgAGs6N6zoAkoiiKIomdZMgAgAGs6NazSoKgqAABmwyACAAazo1ZoAAAAijOdQyACAAazo1rOhZQAACLDMsMgAgAGs6NazoWUAAASjOdZMgAgAGs03rFNMjTI0yNMjTIZsIACAAUKAAAAABAQAP/xAAaEAADAQEBAQAAAAAAAAAAAAAAAREwQFBg/9oACAEBAAE/ACE7L5kIQhCEITlhCEIQhMqUpSlFzoQs3mhC0eSFq8kLV5IWryQtXktn9A+h9D6H5lL4H//EABQRAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQIBAT8AEP/EABQRAQAAAAAAAAAAAAAAAAAAAHD/2gAIAQMBAT8AEP/Z"
+    }
+  ],
+  "publishedAt": "2026-03-05",
+  "seo": {
+    "keywords": "natural language date input, smart date picker, Linear date parsing, contextual date input, accessible date entry"
+  },
+  "mdxSource": ""
+}

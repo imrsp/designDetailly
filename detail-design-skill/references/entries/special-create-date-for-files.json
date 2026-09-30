@@ -1,0 +1,25 @@
+{
+  "slug": "special-create-date-for-files",
+  "locale": "en",
+  "title": "Special Create Date",
+  "summary": "",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/special-create-date-for-files.jpeg",
+      "alt": "Special Create Date",
+      "width": 1642,
+      "height": 746,
+      "credit": "https://x.com/avstorm/status/2036036254391755199",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAAsAGADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQCAwUGAf/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAA4srHMpV2VOUJU26m3LjWQZ1vsc1p5ePuWnvNs1vSvF72dun7Ktd4FG3k7U8OAgBQ8i7XQ1zpGgX8hjc53fH/xAAhEAACAgICAgMBAAAAAAAAAAAAAQIRAwQSMRMiIDJBEP/aAAgBAQABPwCxssT/AJExkCE6IZURzIhNMsplMSZRExCdDyUecjsOzXytkEcUcUUhkTGhkhkOzUXRGdHkPIeUeQxO2YsdonCjiOBGPsai6+Flmt2jD9TMzkOZCXsan58tbtGH6mcbdlmN+xp/h//EABgRAAMBAQAAAAAAAAAAAAAAAAABESAQ/9oACAECAQE/AKUvITNHpn//xAAYEQADAQEAAAAAAAAAAAAAAAAAAREgMP/aAAgBAwEBPwCEILgtI//Z"
+    }
+  ],
+  "publishedAt": "2026-03-24T00:00:00.000Z",
+  "seo": {
+    "keywords": "macOS easter egg, file creation date, Safari download, Steve Jobs Macintosh, Apple hidden detail"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"When you stop a download in Safari, the file’s creation date is set to January 24, 1984, the day Steve Jobs introduced the original Macintosh.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

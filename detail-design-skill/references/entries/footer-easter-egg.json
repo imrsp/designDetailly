@@ -1,0 +1,25 @@
+{
+  "slug": "footer-easter-egg",
+  "locale": "en",
+  "title": "Footer Easter Egg",
+  "summary": "Make your footer 99 → 100",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/footer-easter-egg.mp4",
+      "alt": "Footer Easter Egg",
+      "width": 1642,
+      "height": 910,
+      "seenAt": "durable.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABqAMADASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAECBAUGA//EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAANic4HRnOB0ZzgdGc4HRnOB0ZzgdGc4HRnOB0ZzgdGc4HRnOB0Zzga0QNyxgxJoYMQIYmNNAIGMEIGDIABqimURNyFTYptENgJolplDCBodzZ4AA0z0cMcCKuLBORCRSQDmi2mTNSVfnZ4gAAMbxI1p350VJIIAABoLJCkgbkEZQYtZHrm+Hrm5HDtp/DdYdxr3k1154pnmTgGcZ2wFnwzCMoqMUy2YZmIxDKDoDdBpfTbVjA982+PXVYm+8LnSXtb6RrDbmTpzbk9tPG7jc0huio0z3DNMt0jSm6D//xAAgEAACAgEFAQEBAAAAAAAAAAABFBAREwACAwQgEkAw/9oACAEBAAECAG222222222222222222222222GGGGGGGGGGGGGGGGGGGGGGGPr6+ru7u7u7u7u7u7u/z1I0IImqkwJMDQ8DQgyIPgwJMDQ8DQgwNCD4MDQgwNDyDZOhJm4GhBge7gSfd3N+K+ai7/ABt2Y92wiKqqqv4YcOHbwcfBg38G/hwjgHBgwYDwHgw4cODBhw4VFFNvU2dZff19/VUHUHVVVVVPUUUUUUUUUqqAA1u1uFAAVVURVVVVVf/8QAGhABAQEBAQEBAAAAAAAAAAAAAAFhUSAQcP/aAAgBAQADPwDWta1rWta1rWta1rWta1q9Xq9Xq9Xq9Xq9Xq9Xq9Xq9Xq9Xq9Xq9Xq9Xqqqqqqqqqqqqqqqqv6DVVfFVV4vF4vF4qqqqqqxjGM+YxjGMYxjGMYxjGMRETxEREREREREREf/8QAGxEBAAIDAQEAAAAAAAAAAAAAAQACEBEgMFD/2gAIAQIBAT8A+lvzZayMo7ysHplqkqZSHP8A/8QAGhEAAwEBAQEAAAAAAAAAAAAAAAECERAgUP/aAAgBAwEBPwD7qJkpZzSZ0pZ7VFPssp+f/9k="
+    }
+  ],
+  "publishedAt": "2026-03-05T00:00:00.000Z",
+  "seo": {
+    "keywords": "footer easter egg, hidden interaction, website footer design, UI delight, web easter egg"
+  },
+  "mdxSource": ""
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "name-derived-placeholder",
+  "locale": "en",
+  "title": "Name-Derived Placeholder",
+  "summary": "Tell people what is expected by what they already wrote.",
+  "type": [
+    "interactivity"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/name-derived-placeholder.mp4",
+      "alt": "Name-Derived Placeholder",
+      "width": 2124,
+      "height": 1080,
+      "seenAt": "https://vercel.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABiAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAADxu5sjQy0MtDOemTlNZAAAAAAOllLLAQrMNzISiKIoiiKIoije+ejbIuUJEKgqCoKgqCoKgqBcjUgrIqCoKgqCoKgqCoKg0UjUMzUIoiiAAAAAAA1cjSCwCCoEsAAAAAAAAAAAAAAAAAAP/8QAGhABAQEBAQEBAAAAAAAAAAAAABEBQDAgcP/aAAgBAQABPwDMRERERG432xnhreCqqqqrwREROPGfG8eKqqvJVVV/I//EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8AKf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8AKf/Z"
+    }
+  ],
+  "publishedAt": "2026-08-22T00:00:00.000Z",
+  "seo": {
+    "keywords": "dashboard form, placeholder"
+  },
+  "mdxSource": ""
+}

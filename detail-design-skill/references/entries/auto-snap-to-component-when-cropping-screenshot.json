@@ -1,0 +1,25 @@
+{
+  "slug": "auto-snap-to-component-when-cropping-screenshot",
+  "locale": "en",
+  "title": "Auto Snap to Component When Cropping Screenshot",
+  "summary": "iOS helps you crop your screenshot without any extra effort.",
+  "type": [
+    "interactivity"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/media/auto-snap-element.webm",
+      "alt": "Auto Snap to Component When Cropping Screenshot",
+      "width": 424,
+      "height": 756,
+      "seenAt": "apple.com/os/ios",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAFWAMADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAECBAUGA//EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/aAAwDAQACEAMQAAAA3AAA0cnLmSSGEwhoTSEE0hBNISkwhhMI3Q7DHgACCDYi05IiVcabuW0vFb5M5zvPTGYQ1Blw1K5d5pnZt5pZmRmmwl524JqtUOb+JW526ziwk5rjq7i/kvHnIbvjHO6JxOzzj07OObnAnbkF9ocroi96cOwnDtwKXO6HOxXtVM1iOBHIoiObR05us7HNKVGIPOapb6LNaNb3vH7hH7xylz1/QYtedHebXE7JLxOrdOberd55o9vSNRU1EQLBWqWulzOltvZEaQEaRGKShvqLFiPa/wAm0RyYrEclMa9nSMa9nbLWuTeWoqWIqKWmlzWktvZEfvRGkxSlorujwjuY/wA2xFTlpGqg1rm9DGub2wxFTplqKliKilnpczpLb6RGk0RZUYoqK9o8WM/mvn05rGZvROTK7t4mp0YxvXL2tNxRHI0VCw0ma0lt/KiyqIsqKUdFeUGLHa1ONYwb2g1UpBy0xOjUaoUrmqioET9JnNJbfSosoIsqMUOe0WdiH152HHUdbnv5t54vmFGlxH7Sr52HDtzhNkc9TmONGo5FsdJnNIXkmPICPIjlFndHnCLc093xtzK5zPk9onGbw4dIESyh+nNbEnw/fwh8ZHDvhiKlIit1bLSZvSVeyI8gI8iOUeb0ecI15RXfO6KZAmfM6t4v4+PrxiSYneRIMyF7+Ebh24ejm1qpoiCatnpM3pKvZEeQEeRHKLOaPOES5pbLldLKpO3ze1hyg8+WpUXlH9GViOj+vizh05dcoimjUcmrY6TN6QvZEeQEeRHKLN6TNkCTEWWzdWHO2La8JzYZZI58jcc1EHKwpzUCz0mb0heyI8gI8iOUWb0mbK0AAAAAAAARQQUGqBZ6TN6QvZEeQEeRHKLOaPOFYKAAAAAAAAAIqCAFnpM3pC9kR5AR5Ecos3pM2VoAoAAACCiAqACAAilnpM3pC9kR5AR5HAos3pM6Vg4GjgarnLzOiHIeIweDDo5eB2aT9HntEl5I4SAjyOJQ53TZwqwAVFFVHKiOQYrhGjkFcxWlaIWGjz+jZuJHHsLz6tKjP6ypMhwv4RWk8IT5biGTggk4IDLFhXpPCD2mTBdDFtiR0a8Vr0OUWa0p416woEvmlGXiFKXQUpdBSF2pRrdqU8qxecJSuBwoIAiAIgCIAIAAAACgCgKoCqAqgf/EACAQAAIDAAIDAQEBAAAAAAAAAAABAgMEEBESExQgMED/2gAIAQEAAQIA/wBbk7Hd7/f7/f7/AH+/3+/3+/3q5WKX5lKy2zTLU9T1/Z9v2/b9v2/b9n2LXHXXprtjLlu6ei+3Q7ndK53vR9H0fR9C0LQr1fG+nRnvqmnxN6Z6bJzTbkSGuuuulFJI7rnmszTg+LHqelyO3Jvrx8fHxUFDx64iZnldb4tNRoJcPhfmIhjffcXmeV1c2mo0EuOuvyn5OTffcXmeUq5tNRoGuuuuuuue++YmYyFXNpqLxrrrrrppr9xMxkKuGWmou/bGMf6iZjIVCGXGou/bGMf6iZjIVCGXGku/bGMf6iZjIVCGXGou/gxjH+YmYyOoQy41F3Lbffffbbf5RnMhSIZcai7jtycnJz8/Jycu++UZzIUiGXGouG23Jycm++/2jOZCkQy41FzbY14+Pj4ePj49fhGcyFIhlxqL+IwVPz+j0el1OtwceuuEZjIqhDLTUaCKprro+Z5nnlTKqUJRkmuGIzGQqEMtNRoIGaNNfqdcq512QnGaknyxGYyFQhlpqNBWZShdSJE1YrFMkS5YjMZCoQy01GgrMpRxIkTLCwmTJcsRmMhUIZaazQQMrofcnJzdjscyQ+WRMxkKhDLTWaSBmdM/Y7JTlOcpym5N8sRmMhUIZaazQRdE67vod7vldK2U5SbfLEZjIVCGWms0ncLI3vR73e7na5uTfLEZjIVCGWms0jFLz8/Pz8vLvvvjtuJmMhUIZaazSS/vEzGQqEMtNZpJf3iZjIVCGWms0Ev7xMxkKhDLTWaCX94mYyFQhlprNJL+8TMZCoQy01mkl/eJmMhUIZaazQS/HXXXXHXXXXUVmMhUIZaajQS56666aOuukvFpLOZSoXFpqNBL+i4YjOZSrmxao6Yy/fXXXR323EzLLGvma0Q01WV+PXSSXj4+Pi01111XXmqzwguGrYX0W5pZ/n9CoVPp9Pp9LpdHo+eOerNRRVBLmUZ1WZ5ZXl+X5fm+b5vm+b5vl+VZY5a88Kox/LTg6vV6fT6fT6fT6fT6fT6lUoJf6//EAB8QAAMAAgMAAwEAAAAAAAAAAAABIRAxETBhIEBRQf/aAAgBAQADPwD7iQhCEIQv0X6L9EIQhCfz4ODj+np6enp6enp6enp6enp6c/05OfjwcYYxjGP9H+j/AEf6MYxjxzwc/CHCZsbY8sYxjGMYxjGmaNEzDZWXvpo0TMNlZe+lRomYbKy99KjRMw2Vl76VGiZhsrL30qNEzDZS99KjRMw2X6FKjRMw2V/QpUaJmM2UvfSo0TMZsv0KVGiLMNl+hSo0TMNlf0KVGiZjNleWMYxj6KVGiZjNlZTk5GPrpUaJmGyspycnh510qNEzDZWU1hcC66VGiZhsrKaIidlKjRMw2VlNEROylRomYbKymiInZSo0TMNlZTRCdlKjRMw2VlODjtpUaJmGys4Zx3UqNEzDZWXDGMfVSo0TMNlZe+lRomYbKy99KjRMw2Vl76VGiZhsrL30qNEzDZWXvpUaJmGysvfSo0TMNlZe+lRomYbKy99KjRMw2Vl76VGiZhsrL30qNE+HKZsaYxjGMYx4YxjGNs0cJfHk5PB/gxjGMYxjGMY/w8ODj5cnP8PDw8PDz4+Hh4eHhx/DjoQhCEIQhCEIQhC+7//EACIRAAICAgIBBQEAAAAAAAAAAAABAhEDIBIwEAQTISIxYP/aAAgBAgEBPwDusvraEupnI5HIvokxyOYpCkJ7zJLwiLELaRPyiItpDOBwFASK2kV8iSKRSK3aJ/UeeheoI5rFIsvbKrRlTTE2Y5Mgxbz/AAzeMZjFvk/DJBtixMhiZCIlu1Y8aPaQoJFf03//xAAcEQACAwEBAQEAAAAAAAAAAAAAAQIRMBBQEkD/2gAIAQMBAT8A2ULHCskRkSkP8q5RRWCF1jwXWPGyy8FqhRPgcR4IjxolgiIhksEJljY8bLL9NLRD8f8A/9k="
+    }
+  ],
+  "publishedAt": "2025-10-20",
+  "seo": {
+    "keywords": "iOS screenshot, auto-snap, smart crop, edge detection"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Cropping screenshots on iOS is magic. When you drag the crop handles near a UI element, it snaps to the edge. It knows what you want to capture.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"It saves you from pixel-peeping and makes your screenshots look professional instantly.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

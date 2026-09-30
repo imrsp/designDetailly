@@ -1,0 +1,21 @@
+{
+  "slug": "blurred-icon-transition",
+  "locale": "en",
+  "title": "Blurred Icon Transition",
+  "type": [
+    "motion"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/blurred-icon-transition.mp4",
+    "alt": "Tap Tab Again to Reset State - Media 1",
+    "width": 740,
+    "height": 304,
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABPAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA9wAgqUAAIKAAgqCpQACS5LZSgSwgNAAysBC2UoAMxk1rns0BnWCMo63OqAZ1kyiN6zqgAM56QzpQBnQ5XYUAGdDm2FAAAAAAAAAAAAAD/8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERIBBAUP/aAAgBAQABPwD6L9D9L6sMpRZfVp8QsPiFl8QtMhBdYyCQsshBbhNQm4T6v//EABQRAQAAAAAAAAAAAAAAAAAAAFD/2gAIAQIBAT8Ac//EABQRAQAAAAAAAAAAAAAAAAAAAFD/2gAIAQMBAT8Ac//Z"
+  },
+  "publishedAt": "2026-05-17",
+  "seo": {
+    "keywords": "blurred icon transition, icon morph animation, blur motion effect, icon swap UI, motion design detail"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const {Detail} = props.components || ({});\n  if (!Detail) _missingMdxReference(\"Detail\", true);\n  return _jsx(Detail, {\n    slug: \"blurred-image-appearing\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "no-pointer-cursor",
+  "locale": "en",
+  "title": "No Pointer Cursor",
+  "summary": "Linear uses the default cursor instead of pointer for links.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/media/use-pointer-cursor.png",
+      "alt": "No Pointer Cursor",
+      "width": 2176,
+      "height": 684,
+      "seenAt": "https://linear.app",
+      "credit": "https://linear.app/now/settings-are-not-a-design-failure",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAAeAGADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAABgACAwUB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAH/PHhQgiVS2JQtiULYjoXaPe2ZPKOQLyygbMoG/GcDPrKPBQa7H/8QAIBAAAgICAwADAQAAAAAAAAAAAAIBUQQUAxMVBRESQf/aAAgBAQABPwCZJ5Ij+natnatnYtnYtnYtnYtnYtnYtkPEkSczfmDIy5ST0WPRY9Fj0WPRY9JrPSayPkWsx8yXOJv1Bzr9wZWMzTJpPRpPRpPRpPRpPRpPRpPRGE9GLjMswcK/UEx9jcKya6Guhroa6GuhroayGugvCsEQf//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQIBAT8AT//EABQRAQAAAAAAAAAAAAAAAAAAADD/2gAIAQMBAT8AT//Z"
+    }
+  ],
+  "publishedAt": "2025-10-21T00:00:00.000Z",
+  "seo": {
+    "keywords": "cursor pointer, cursor design, default cursor"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  }, {TwitterEmbed} = _components;\n  if (!TwitterEmbed) _missingMdxReference(\"TwitterEmbed\", true);\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Linear will use default cursor for all elements by default unless you modify the cursor style.\"\n    }), \"\\n\", _jsx(TwitterEmbed, {\n      id: \"1491467491335454729\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"But I think for most cases, cursor-pointer still make sense.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"A rule of thumb: if the user will be brought to a new page after clicking an element, use pointer cursor. Otherwise, use default cursor.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n"
+}

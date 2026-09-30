@@ -1,0 +1,25 @@
+{
+  "slug": "meet-the-developer",
+  "locale": "en",
+  "title": "Meet the Developer",
+  "summary": "",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/meet-the-developer.mp4",
+      "alt": "Meet the Developer",
+      "width": 2560,
+      "height": 1440,
+      "credit": "https://x.com/rafahari/status/2013552979031253240",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABsAMADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUBAgMABv/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAACsU6av1JLXptE222sCg7gKTJApM6A+Mqosk0jDrUi01vLa1bCXs69M73FvBZYBoeUOfqUkuQONRpvTsiClTOuAB2AUAY6DZ1voPvm6XpePP5zl1x3Y1g9ilaDxmqbaF0vk0uVGIses9p5p5D3THffkEXMllysEICzSSQy8Xe1LS+XpnHXn1YiCGilrT5spaWlY9jQCh2PnuqbwVKaQNrrhmsZLUThHBRsWGTnRM52zfJRHb5dHdWzZS2V8zVs9LY7Z9edLztLW2k891tMGK5gBKpDPElrtneXW2XS+X6va42mllIbKGQ/YJC7WcL4phZZw1lVMrXlfB4eeJiLrhNWmlonqwea6O1ym1ZNiwtZWequ4x5d1rHl1hlwHB8L4GfAXUimfS7WxvLeIqf/EAB0QAAICAwEBAQAAAAAAAAAAAAECAAMREhMQBCD/2gAIAQEAAQIAzn0ALqU00000111x+B5tnORECoK+XLly5c+fPQqfBBB5nYMCsriBUFfLnprpzNZR1eEgiCCGZ2Do1RqiBVKuWsFqEKUdbZYSVIgghhJYPW9LUyuKHl723130WVwiwXS0koVg8JYk7VtQaJVFlp+k3NU3ymkmWS6XElCkHmxJOazRPnlcBsN4tqrqoWok2S+XQyuIQc5JPlc+efPEOzs4NK0IiePL5cCEikHOfa588+eLDGgUVisIFw8uloIUCA5z7XPnnzxSYQAsBzklzbLYwEEzmZ8rnzygq2xbYP06dDYz2GwmD3PoiGlqrRf379+/fv37m57HckHOc+iKUdbhf379+wu7d+4uNpfYHOc+iCAg7bbbAg5LbBgcwfj/xAAeEAACAQUBAQEAAAAAAAAAAAAAAREQICExQDBQYf/aAAgBAQADPwD7aFzQJCJ5YIZLJJ48GxyOTRj30askljki7Plo0YrJNIuz5apjm1TFiEIXvqijnjniv7zMYxjGMYxjHf8A/8QAGxEAAwADAQEAAAAAAAAAAAAAAAERECAwAkD/2gAIAQIBAT8A3hOVy+DELDHtBomj1Qoepzpfj//EABsRAAMAAwEBAAAAAAAAAAAAAAABAhEwMUAD/9oACAEDAQE/APCobHDWqekJFyiu6U8E/QqxvOl5Jb14MeP/2Q=="
+    }
+  ],
+  "publishedAt": "2026-03-02",
+  "seo": {
+    "keywords": "easter egg, hidden feature, developer credits, about page, fun UX"
+  },
+  "mdxSource": ""
+}

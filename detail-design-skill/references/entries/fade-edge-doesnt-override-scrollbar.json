@@ -1,0 +1,25 @@
+{
+  "slug": "fade-edge-doesnt-override-scrollbar",
+  "locale": "en",
+  "title": "Fade Edge Doesn't Override Scrollbar",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/fade-edge-doesnt-override-scrollbar.mp4",
+      "alt": "Fade Edge Doesn't Override Scrollbar",
+      "width": 630,
+      "height": 360,
+      "credit": "https://x.com/pqoqubbw/status/1996961592672416176",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABuAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAA+zBEhpmmkoAAAAAABdZ0YBmaGbQIVBUFSGmRq5pQJcGt8dlAQASWCQW5pVGWhKooMbhjbZmWAADGuYmIdby0drxp1c9GmRpkaZpvWNmJYAATj25HGahKBRemOhaACym942YlgABMdMHObGLoLqmdURRFpm0XWdGJYAAMa5kmMnVwHovnh6Z5Yeu+PR7N+bubBdZ0f//EABwQAAIDAAMBAAAAAAAAAAAAAAABERIgAhBAMP/aAAgBAQABPwDuSfGvQvPIn5mSLzPrj54Evgye19FtjY2SSWLFixJJJJJPSFtnIfckkiYtoW2MaIIIIKiQltC2xoggggqVKkEYjpC+DyvmtsZJJJJYsXLly4nlbY2NlixYsWLsuy7FzZxYsI//xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/ACn/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAEDAQE/ACn/2Q=="
+    }
+  ],
+  "publishedAt": "2025-12-09T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "fade edge, scrollbar visibility, gradient overlay"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"When you add fade out for the scrollable container, make sure it won't overlap your scrollbar.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

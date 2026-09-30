@@ -1,0 +1,26 @@
+{
+  "slug": "outer-and-inner-border-radius",
+  "locale": "en",
+  "title": "Outer and Inner Border Radius",
+  "summary": "",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/outer-and-inner-border-radius.jpeg",
+      "alt": "Outer and Inner Border Radius",
+      "width": 1908,
+      "height": 950,
+      "credit": "https://x.com/evilrabbit_/status/2014162321728209118",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAAwAGADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAQACAwQG/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAAA94NRapeEAQkFii0z0zUOZ057zJzNRrAmZc7zKbXRTSkXgWr15S1bGwzleBavWJJNz//EABsQAQEAAgMBAAAAAAAAAAAAAAEAEBECEiAw/9oACAEBAAE/AG3bjxu34cnxbduOV2t4WWOV2u0zMNuHDMNu3hJMkSSeeU5ImfH/xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIQEiBB/9oACAECAQE/AO1AzSgZEIZ6Kv/EABoRAAIDAQEAAAAAAAAAAAAAAAABEBESAiD/2gAIAQMBAT8AK9Ps0Ms1DFDj/9k="
+    }
+  ],
+  "publishedAt": "2026-01-28T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "border radius, nested border radius, CSS corners, UI design, rounded corners"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"This does not work everywhere, but worth bearing in mind.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

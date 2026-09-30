@@ -1,0 +1,25 @@
+{
+  "slug": "not-available-on-mobile-hint",
+  "locale": "en",
+  "title": "Not Available on Mobile Hint",
+  "summary": "Turn a desktop-only screen into a playful moment.",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/not-available-on-mobile-hint.jpeg",
+      "alt": "Not Available on Mobile Hint",
+      "width": 1079,
+      "height": 884,
+      "seenAt": "https://symbl.space",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABPAGADASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECAwQFBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPuQAAAAAAJcDG8MPQvFtOpKAAMcoaMegaM9gtlAAAIoigAAAAAAAD//xAAfEAACAgIBBQAAAAAAAAAAAAAAAQIDERITIDAxQGD/2gAIAQEAAT8A9tvA7EhWJm6NuxPwWN5ISZsyDYutrJKrIqjjFHAvgP/EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQIBAT8Ad//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQMBAT8Ad//Z"
+    }
+  ],
+  "publishedAt": "2026-05-24",
+  "seo": {
+    "keywords": "desktop-only hint, not available on mobile, mobile fallback, responsive easter egg, playful redirect"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"When you open symbl.space on mobile, it directs you to Amazon to buy a new monitor.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

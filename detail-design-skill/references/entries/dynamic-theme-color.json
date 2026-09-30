@@ -1,0 +1,25 @@
+{
+  "slug": "dynamic-theme-color",
+  "locale": "en",
+  "title": "Dynamic Theme Color",
+  "summary": "Make the page more immersive, and crafted.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/media/dynamic-theme-color.mov",
+      "alt": "Dynamic Theme Color",
+      "width": 928,
+      "height": 618,
+      "seenAt": "https://www.detail.design",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACAAMADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUAAQMCBv/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAEeWnHNjO9NWXowrV2bqCDh8GKuDMWYXtroa2hYh59Hwecy9AFhTCMZrdmuaSWc3WzDxGtD2WJ15ne/YAsfgHmxnuIoJO2I0zPMcz+Bau9AAeVXPU8V01VteVKs9cbndmrZ1jU1eZeH7jklZ7QE5NgF0XDHTqFV1RwEcEefSPEc1GSo7jQuXfNzq3VOrxmbwbWcbVZJISSEkhJISSHIRwR59E9RTWRgZXKh51xUkOkjq8fFBE1mkwhvMYbTDkJg3RvMYbTGG4mwwkRPEc1kSLvyrrAkbc2dpHnSXhOJlYNCIYURyC5k56y0vQq9esDwiGIx4Z59E+QzWGuGkaSPrgwh6hfXnoDQjayVdFVdHHOs1l13CXV4u6sgRoR55C/QzQvfHUbthtgwp8gfXnoTQjaySWcy4VLhUuFS4SXRAjQjz6F6imhZKnf/EACQQAAIBBAICAgMBAAAAAAAAAAABAwIREjEEQRAhFDATIGFR/9oACAEBAAE/AKhjQkR0lMY4hwjhHEOMwMBRihPjnx2OAcI47FhEZChsfiii5FCUQHxz4xVxySKxXTbzRTcjhuU8a/R8X+D4v8K+N/CSCxXRYt7IiFeGUogjuQQlMJ+I/ESRE8ZJGYMwZHGQRkcQ4UOErgJ4CeOxUvZEQ+GRo460QWKWhFiukliuV8dvo+M/8PjP/CjjtdEUVihFhodJPQcmnZWvZEQjGRkLIqyisoYhocdxwo/Aj8CFChR2EvFhon0crsl2RsiqKhkZCRooTIxfWyfRyuyXZQyOobGRHHpIoymMppt9jJ9HK7JdlBQ/DItnGWiBCX3T6OV2S7KSjzFs43RC/RkZGRkZGRkZGRkZGRkZEz9HK7JdlJQNDItnG6IteLly5cdRkZGRcuXLiZNo5XZNspKWVIqItnF6IV6MTExMRoaGISEjExMSxMvRyuybYillZURbOL0Qr0YmJiYjpKqR0ipKaRIsYmJiTr0crsm2IRWyoi2cXog0L9WjExEhfoyfRy+ybfhFTGQ7OJ0QaX72LFv2n0zldk2/NQyHZxOiDS++fTOV2Tb81DIdnE6INfcyfTOV2Tb8/wD/xAAaEQEAAwEBAQAAAAAAAAAAAAABABAwEQIg/9oACAECAQE/AK5OTn02YsaMWeqMWNGLGEMWiGLRDFr/xAAZEQADAQEBAAAAAAAAAAAAAAAAATAREED/2gAIAQMBAT8A7pviVFRUVFRUQz//2Q=="
+    }
+  ],
+  "publishedAt": "2025-10-12T00:00:00.000Z",
+  "seo": {
+    "keywords": "meta theme-color, browser chrome, immersive web app"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"The browser address bar shouldn't be a white strip.\"\n    }), \"\\n\", _jsxs(_components.p, {\n      children: [\"Match the \", _jsx(_components.code, {\n        children: \"meta theme-color\"\n      }), \" with your page background. When the user scrolls or changes pages, update it dynamically.\"]\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"It merges the browser UI with your app, creating a native-like immersive experience.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

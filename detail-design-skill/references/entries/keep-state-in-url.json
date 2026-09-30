@@ -1,0 +1,25 @@
+{
+  "slug": "keep-state-in-url",
+  "locale": "en",
+  "title": "Keep State in URL",
+  "summary": "Easy to share, easy to back, easy to continue.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/media/keep-state-in-url-e7fc3609.png",
+      "alt": "Keep State in URL",
+      "width": 1122,
+      "height": 222,
+      "seenAt": "https://mono.cards",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAATAGADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQG/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAAA8/AFr7OTQ3NaoVzNYyqdO4TJvGLFdcsSow5ybiBn/8QAHBAAAgMAAwEAAAAAAAAAAAAAAAECEBESEyAx/9oACAEBAAE/AB1hhlZ6xiRxMOI1Tkdh2DmISQxUvhMZMbNr/8QAGhEBAQACAwAAAAAAAAAAAAAAABEBAhAyQf/aAAgBAgEBPwCIiIjxox2bc//EABoRAAIDAQEAAAAAAAAAAAAAAAARAQIQMhL/2gAIAQMBAT8APUDGMeW6J5K7/9k="
+    }
+  ],
+  "publishedAt": "2025-10-12T00:00:00.000Z",
+  "seo": {
+    "keywords": "URL state management, shareable URLs, deep linking, query parameters, web UX"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Mono Card put all decoration and content info in the URL so you can directly copy-and-paste to others and they will see exactly same content instantly.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"What can be stored\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Filter\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Search query\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Sort order\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"View mode (grid/list/table)\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Selected items\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Scroll position\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Theme and styling preferences\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Expanded/collapsed sections\"\n      }), \"\\n\"]\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Why it resonates\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"A URL can contain ~2000 characters, so why not leverage that?\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"For some one-way data, it’s a brilliant way to avoid database usage.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"It also means your bookmarks are more valuable. A saved URL isn't just a destination; it's a snapshot of a specific view or configuration you found useful. You can return to exactly that state months later.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Similar considerations\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Google Maps: URLs include location, zoom level, map type, and even Street View position and angle\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"YouTube: Links can include timestamps, playlist position, and playback speed\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"GitHub: URLs capture repository, branch, file, and even specific line numbers for code references\"\n      }), \"\\n\"]\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

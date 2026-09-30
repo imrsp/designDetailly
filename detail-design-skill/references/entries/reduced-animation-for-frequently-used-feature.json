@@ -1,0 +1,13 @@
+{
+  "slug": "reduced-animation-for-frequently-used-feature",
+  "locale": "en",
+  "title": "Reduced Animation for Frequently Used Features",
+  "type": [
+    "accessibility"
+  ],
+  "publishedAt": "2025-10-12T00:00:00.000Z",
+  "seo": {
+    "keywords": "reduced motion, frequent interaction, animation timing"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"When I open Raycast, I have a clear goal in mind. I don’t expect to be “delighted”, I don’t need to be. I just want to do my work with no unnecessary friction.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

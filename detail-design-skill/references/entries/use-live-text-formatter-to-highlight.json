@@ -1,0 +1,36 @@
+{
+  "slug": "use-live-text-formatter-to-highlight",
+  "locale": "en",
+  "title": "Use Live Text Formatter to Highlight",
+  "summary": "",
+  "type": [
+    "copywriting",
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/use-live-text-formatter-to-highlight-2.mp4",
+      "alt": "Use Live Text Formatter to Highlight",
+      "width": 1712,
+      "height": 1080,
+      "credit": "https://x.com/AdamBartas/status/2035818097123176757",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAB5AMADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAECBQMEBv/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAD9iADM1BrOgAAAAAAAAACZuDTBNsU0kXTNNILc00AAAADON5MrUl0WNDNoiiVQAAAADONYS3A9HnTbI2yXTI0yNaxooAAAPPHp5plVRRbLFKRRKq3UoAAIVIMalkAABbKUsShULUFSnj5efx9OP3TmzfPpzmQ6jljqOWOo5Q6rlDq3kjrXk6Xrb5XtjXQfHZr7NfD7r8nO6HN7eXymZ14amVaZhuZLplGmRpka1509vb5d519d+dnf1/Zzfvz0/8QAHxABAAEFAAMBAQAAAAAAAAAAABEBAgMSExAwQCBQ/9oACAEBAAE/AP4cp+GUpSlKUpT7q/RVXzHiEIR76/RX8SlKfhqr4lKUp+Gqvtp6qq+IQj8whHsr4hCEfmEI9EpbNkpTRKUpomiUtm1GyUpSlPi65XI6urq6urq6urq6urq6urq6qZG7Zs2UuZL4X5XV1dnZ2dnZ2dnZ2dnZ2dlMy3KtyqZHRTIsuZqslzZs2bNmzZs2bNmzZs2bqXrcimV0W3sdzMyfDRRTxYxP/8QAGhEBAAMBAQEAAAAAAAAAAAAAAAECEhEwYP/aAAgBAgEBPwD4iKsMMMMMMMJqy4p4zDkLQ//EABsRAQADAQEBAQAAAAAAAAAAAAABERMCAxJg/9oACAEDAQE/APxHXdNWrVq0atWqPR9o6ei1rWta1omX1LiX/9k="
+    },
+    {
+      "type": "video",
+      "src": "https://file.detail.design/use-live-text-formatter-to-highlight.mp4",
+      "alt": "Use Live Text Formatter to Highlight",
+      "width": 1144,
+      "height": 720,
+      "seenAt": "https://lue.studio",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAB5AMADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAIDBAEFBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA+iYpcp2zGftxc5oDOaAzmjhAv0zmgM/bhAuGcsqSWkxrx0LRu9lUYF73oo3Dh3gHA6HRRuCq6kp0QmlJ3L6c2lb940vDocBQRYF0zQl2HndPVr5+uzQcY5xgmtlMsNWW5bTm0rdlaUAOTpMz5NWWazZtEM6jQsmjdk2azppOlnQAVlM+XVluW05dK6GVpQA4r8IR18PPn6XJfOpt6Z7UazjHQABWUz5dWa55qx610srSgAcOHReDC8HE6OJ0cXp0AFZTPl1ZbJbPO1pvbM0tyAWWSlVlwryXFuQYs0Omh8zliCppWHKMtIJl0ZbWaWh2W3YsUEDvUBzgMy9UF4lep05LsLKkelE4H//EAB0QAAIDAQEBAQEAAAAAAAAAAAECABESAyAQMED/2gAIAQEAAQIAlZznOc5znOc5znOc5zUEAC5znOcYxnOc5znOaMMMWKAKqqqqqqqqqqMMMMMWLB+F3rV+DCCCDFiQeiSxcueg6K4PyqKlWDRYkHklmZz0bqeq9UdGHkx40WJB5aOXZnZ9IeZ5lfJjxosSDy0cOrqyDmnNEQL5MeNFiQeSGVkbkeI4jkvNVA8GPGixIPVZzjGc15MeNFiQfxmPGiRIvm7u7u7u/BjxohQg3d2W1rWtavQN3dkuWKFGD73vZbWtau70G1vey7MxUqwfe9a1q7+3YNsxfeyxKxf1PwQxofP/xAAXEAEBAQEAAAAAAAAAAAAAAAABAHBA/9oACAEBAAM/AMcZ5mdM/8QAFxEBAAMAAAAAAAAAAAAAAAAAEQBAYP/aAAgBAgEBPwC6xwX/xAAZEQADAAMAAAAAAAAAAAAAAAABESAAQFD/2gAIAQMBAT8A3Vik2ZPR/9k="
+    }
+  ],
+  "publishedAt": "2026-03-17T00:00:00.000Z",
+  "updatedAt": "2026-05-24T00:00:00.000Z",
+  "seo": {
+    "keywords": "live text formatter, text highlight, formatting easter egg, text editing trick, creative highlight"
+  },
+  "mdxSource": ""
+}

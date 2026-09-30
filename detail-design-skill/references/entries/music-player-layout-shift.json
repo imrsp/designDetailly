@@ -1,0 +1,27 @@
+{
+  "slug": "music-player-layout-shift",
+  "locale": "en",
+  "title": "Music Player Layout Shift",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/media/music-player-layout-shift.mp4",
+      "alt": "Music Player Layout Shift",
+      "width": 720,
+      "height": 720,
+      "seenAt": "www.apple.com/macos",
+      "credit": "https://x.com/MarkBuildin/status/1989575020801380366",
+      "thumbnail": "data:image/jpeg;base64,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"
+    }
+  ],
+  "publishedAt": "2025-11-19",
+  "draft": false,
+  "seo": {
+    "keywords": "layout shift, spatial relationship, choreographed transition"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"This is the music player on macOS Tahoe.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Breakdown\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"When the album art expands, the controls shouldn't just jump.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"They should slide down smoothly to make room. It maintains the spatial relationship and helps the user follow the change.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Layout shifts should be choreographed, not instant.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

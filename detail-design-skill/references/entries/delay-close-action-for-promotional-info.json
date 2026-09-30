@@ -1,0 +1,23 @@
+{
+  "slug": "delay-close-action-for-promotional-info",
+  "locale": "en",
+  "title": "Delayed Close for Promotional Banners",
+  "summary": "Just a peek, then you can close it.",
+  "type": [
+    "design"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/media/delay-close-action-for-promotional-info-d615e8bf.mov",
+    "alt": "Delay Close Action for Promotional Info - Media 1",
+    "width": 712,
+    "height": 376,
+    "seenAt": "vercel.com",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABlAMADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAEDAgUEBv/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA/aKIoiiKIoiiKIoiwIKgrlWggAAAAAABz1DhQnQydNTZWbFEWEjM0mI2YjdjTW5dnSAgqCrSgAAzy34MGwxbDK6Dnu0LTidji2ihQAAAJRFEoAAAAARBUFQVBUFQVBUFQVnifS+CHoPPHogAAAgAAKBA+XzA87IAP//EACAQAAICAQQDAQAAAAAAAAAAAAARARICAxQwQBAgUAT/2gAIAQEAAT8A+cx9KfSSeqvEiFwMZYsMYx8CF7yTJYsWLDGPoSSIQheYI55gmCpUqVKlRC8oQhciEL7DGOBwOOnOSMtVE/og3EG4g3EdKTVlGtqZQZ6+ZuMzcZm4zP/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8AKf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8AKf/Z"
+  },
+  "publishedAt": "2025-10-12",
+  "seo": {
+    "keywords": "delayed close, modal retention, forced attention"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Don't let users dismiss your hard work instantly.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"When showing a promotional banner or a 'What's New' popup, add a slight delay before the close button appears or becomes active.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"It forces a split-second of attention. Just enough to glance at the headline.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

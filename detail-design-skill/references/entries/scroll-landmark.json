@@ -1,0 +1,26 @@
+{
+  "slug": "scroll-landmark",
+  "locale": "en",
+  "title": "Scroll Landmark",
+  "summary": "A fresh shortcut concept.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/scroll-landmark.mp4",
+      "alt": "Scroll Landmark",
+      "width": 1920,
+      "height": 1080,
+      "credit": "https://x.com/raunofreiberg/status/2002489515253060019",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABsAMADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAMCBAEFBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAP2oAB4Zk5zc8RK44ec+tv43SfV3x1OyvD0nQ89AAAAGdYOaFpHuL7Pk832cHyurssSdcjntGp2axsAAAAY3g5JVkVrGoB7vApCkiNZ0OveNgAAACdJnLG0Sto2AAEqzJUnQ6942AAAAJ0wckqyK1lYe+aPGhmdpEN52dNMbAAAAGN4OSVZFbRqe+5GmRuesEt42dW8bAAAAGN4OSNuctXnoUTFPZelsMmNzodW8bAAP/8QAHRAAAwACAwEBAAAAAAAAAAAAAAECEBEDIDAUE//aAAgBAQABPwDs2VY7Hyj5z6T6Bc4uQVk2J+jLopjL2XTHbJtkUyNiJoihedFvGi4L4h8LJ4WcfERxjnEMnzsvEjRUbPyFxEwJFjII87LxPXZssZBHnZeJ71iCPOy8T3rEEedl4nvWII87LxPTRo0UMgjzsvE96GSR52XiemzeKGSR52Xie9DJI87LxLNmzZs2IoZJHnZeJ7IeJI7f/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAp/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAp/9k="
+    }
+  ],
+  "publishedAt": "2025-12-21T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "scroll navigation, landmark shortcut, iOS scroll to top, UX navigation pattern, scroll interaction"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"iOS allows you to quick navigate to the top by tapping the status bar.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"But this shortcut:\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Only works on Apple devices\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Not quite intuitive (I only realized it after years of using iOS)\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Cannot back to original position\"\n      }), \"\\n\"]\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Hence this is a great workaround.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"Bonus detail\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Rauno actually uses a standard film aspect ratio (1920:1080) for this video.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

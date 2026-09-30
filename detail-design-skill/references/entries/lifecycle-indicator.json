@@ -1,0 +1,27 @@
+{
+  "slug": "lifecycle-indicator",
+  "locale": "en",
+  "title": "Lifecycle Indicator",
+  "summary": "There are way much more details in this tiny circle.",
+  "type": [
+    "motion",
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/lifecycle-indicator.mp4",
+      "alt": "Lifecycle Indicator",
+      "width": 3308,
+      "height": 2160,
+      "seenAt": "https://linear.app",
+      "credit": "https://x.com/kianbazza/status/2025034326979514642",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAB9AMADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAO4AAAAAAAAAAAAAAAIVBUFSgAAAAAAAElyALBpKUAAAAAACUZlg1nRJYNZ0UAAAAAAAElGVgKKoAAAAAAAAlEURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//8QAFBABAAAAAAAAAAAAAAAAAAAAgP/aAAgBAQABPwBAf//EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8AQf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8AQf/Z"
+    }
+  ],
+  "publishedAt": "2026-02-26T00:00:00.000Z",
+  "seo": {
+    "keywords": "lifecycle indicator, status animation, micro-interaction, progress indicator, motion design"
+  },
+  "mdxSource": ""
+}

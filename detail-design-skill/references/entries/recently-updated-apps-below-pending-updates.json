@@ -1,0 +1,25 @@
+{
+  "slug": "recently-updated-apps-below-pending-updates",
+  "locale": "en",
+  "title": "Recently Updated Apps Below Pending Updates",
+  "summary": "Apple shows your recently updated apps right below pending updates—a subtle nudge that updates actually ship.",
+  "type": [
+    "interactivity"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/media/recently-updated.png",
+      "alt": "Recently Updated Apps Below Pending Updates",
+      "width": 1170,
+      "height": 1480,
+      "seenAt": "apple.com/app-store",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAB6AGADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAgMAAQQFBv/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAD3QBzuHk6jeTsutd5ndvSySEoVWPVUAwdNHHjl2qZaw886dtcyweK3WULVkAhUbuQNGQuNgttXVrNYYMzMttTVhLZKUOxcJdEsxCx7AZz6RIoyOakkKS+rFUxZMledt9Ho8t3DpMwty1RLAqpdjFEJj8367Dbw++GosqmRtQY1Ull1dBLbcua3wRbrEsMhdNgoXKs//8QAHxAAAwADAQEBAAMAAAAAAAAAAAECAxESBBAgITAx/9oACAEBAAE/AOtDypCypis6N/jZssyvSLyPZjyMmmJsn7THQmUZJ2i8RjgiTQjo6H/JyKShlSJaEzo7Z2ztiolmyvjRycjk4ODgUi+V8bNmzYv1Xxo0aNCRo0aNGihl5NEXs2dEsRoY6Eyh/wCGSNsxxo0ckyL4xyJFfGhCYhL8NfKKrRfoSIzpk1sVCZv80em+Uz0eppmD0tmHI2hUyaFQmMdCZR6Y6TPR522ebz6aMGPSRwhSJCGxoSKLnaMmBNkYVJL0dHQqNmzYmUaHJwzhnDOGKBScjk0UL+uj/8QAHREAAQUBAAMAAAAAAAAAAAAAAgABAxAREiAwQP/aAAgBAgEBPwCSTlRn1bNRx9IA5vfiamHUTZ4iWIi31//EAB0RAAICAwADAAAAAAAAAAAAAAEDABECEBIgMED/2gAIAQMBAT8Ac44RLe93piRnFq43XoJqA345Y3AK2YPj/9k="
+    }
+  ],
+  "publishedAt": "2025-10-26T00:00:00.000Z",
+  "seo": {
+    "keywords": "completion feedback, closure design, spatial continuity"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  }, {Box, Circle, Highlight} = _components;\n  if (!Box) _missingMdxReference(\"Box\", true);\n  if (!Circle) _missingMdxReference(\"Circle\", true);\n  if (!Highlight) _missingMdxReference(\"Highlight\", true);\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"If you disabled the Auto Update and just update the app you want manually like me, you typically will only update the app when you DO need a new version. The Recently Updated list helps since you can go to the app you just updated quicker.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Play Store has no such things. You have to jump to the home screen to see the updated app.\"\n    }), \"\\n\", _jsxs(_components.p, {\n      children: [\"This is \", _jsx(Highlight, {\n        children: \"closure design\"\n      }), \" at its finest. You tap \\\"Update All,\\\" apps disappear from the pending list, and immediately reappear below as \\\"Recently Updated.\\\" \", _jsx(Circle, {\n        children: \"The loop completes visually\"\n      }), \".\"]\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Another similar consideration is the Reminder on iOS. The completed item will not disappear immediately after you finish them.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"When to Apply This\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Use completion-as-presence when:\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsxs(_components.li, {\n        children: [\"The action's result is \", _jsx(Highlight, {\n          children: \"invisible or delayed\"\n        }), \" (background processes, syncs, updates)\"]\n      }), \"\\n\", _jsxs(_components.li, {\n        children: [\"Users need \", _jsx(Box, {\n          children: \"confirmation that something happened\"\n        }), \", not just that the request was received\"]\n      }), \"\\n\", _jsxs(_components.li, {\n        children: [_jsx(Circle, {\n          children: \"Spatial continuity\"\n        }), \" reduces cognitive load (same screen, same\\ncontext)\"]\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Completion anxiety is high (financial transactions, data migrations, system changes)\"\n      }), \"\\n\"]\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n"
+}

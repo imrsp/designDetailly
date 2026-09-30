@@ -1,0 +1,22 @@
+{
+  "slug": "paste-from-clipboard",
+  "locale": "en",
+  "title": "Paste From Clipboard Button",
+  "type": [
+    "design"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/paste-from-clipboard.mp4",
+    "alt": "Active State Also Works In Footer",
+    "width": 3024,
+    "height": 2160,
+    "credit": "https://x.com/kvnkld/status/2029568397185613996",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACJAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA9nsAAAAAAAAAAGdAAACgGTTNKAUiwgAAAAALYGN8xrnTpMjeueywIAAAAACgmN4MgKLvOiggAAAAAAJm5Klq2aigEAAAAAAEuSRk1cU3cDTA6XGwAAAAACY3k5zUJQSiVTW86KAAAAABKMNDLQy0MtBQAAAxvj1KAAAAAAAAABjXI//EAB0QAAMBAAIDAQAAAAAAAAAAAAABEUACIBAwUGD/2gAIAQEAAT8ASztfkWPwmUuNj8UpRMWFj6oWFj6Qn0bnpcFGylKUpSi97H3QveyEIQhCEFghCEIQhPgp52ziLKzkf//EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8AWf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8AWf/Z"
+  },
+  "publishedAt": "2026-03-17",
+  "seo": {
+    "keywords": "paste from clipboard button, clipboard paste UI, input convenience, paste button design, form input UX"
+  },
+  "mdxSource": ""
+}

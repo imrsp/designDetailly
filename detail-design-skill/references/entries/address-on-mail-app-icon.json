@@ -1,0 +1,26 @@
+{
+  "slug": "address-on-mail-app-icon",
+  "locale": "en",
+  "title": "Address on Mail App Icon",
+  "summary": "Apple Park, California 95014",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/mail-app-icon.jpeg",
+      "alt": "Address on Mail App Icon",
+      "width": 1024,
+      "height": 1024,
+      "credit": "https://x.com/ShishirShelke1/status/2003523546715447503",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABgAGADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUAAwYBAv/EABkBAAIDAQAAAAAAAAAAAAAAAAIEAAEDBf/aAAwDAQACEAMQAAAA38lV1Z4AH2wbRPwgcxN2Rz7SECTSU3YscWHpdsBq/ZbqIMYSrXxhJF/soSxaNEDxN7yjeIDr00SmmDToxCrPecGk6rIBaWvfZ7QCUz2hzd3UYuYMYHEg9UZMG8eZBgy17ixuizWlX29ZnVZ8TR3iU9fnsotlWyi2SMBx77jTTJX/ACH/AGGZFd80Dr6m18jNZNByfdXJMuwdW5nQXInv/8QAIxAAAgICAgIDAQEBAAAAAAAAAAECAxEhBBQxURASE0EgIv/aAAgBAQABPwD4ch2I/VH6o/VH6oViFP8AxOeCy8fIOwdg7B2BcgrvIWZ+JsvswTsbZs2bNmzZCbTKLCDyi16ORLZCP2ZGjJ1zrnXOuSowTjhnHlsqekXeC97KStrAlE+qPqhqKLGsFz2UPZT4LvDOQ9srkQsK55ExssswTsLZHHf/AEijwX+DkvbISIMrFIciwm8FkjjPaKPCL/Byntlb2VyQrEj9kfqh2JljRY9nFe0UeEXrTOZpsVmGK/B2TsHYOwSvyOeWcNbRQtIsWUcylvJZCUWZZlmWZZlmZFVcpM4dLWCtYQ0XUqSL+Hn+EuE/R036Om/R036Om/RHhP0UcPH8KaVFC+GiVSY+PE60fR1o+jrR9HWj6Fx4ojWkJfH/xAAcEQADAAMBAQEAAAAAAAAAAAAAAQIDBBMRFBL/2gAIAQIBAT8AS9JwtnBnBjwtDXhhn1jqZOsnWRVNGefGa5ll+jTQk2YZfpsmqZZHDYoaMUm0atJUc5s4ScJPxMI2rTomnLI26lH2s+1l7dUiqdM//8QAHBEAAgMAAwEAAAAAAAAAAAAAAAECAxEEExQS/9oACAEDAQE/AG8JXpHoR6ERvTE9L5YhQlI6ZHTIcJRKJajkFTSQsY8Ra00cc5BWxSSHJMsZxy+Oo+nE7GdjNciiOIa0lQmedHnRGhISw//Z"
+    }
+  ],
+  "publishedAt": "2025-12-27T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "apple mail icon, easter egg, Apple Park address, iOS app icon detail, hidden design detail"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    figure: \"figure\",\n    p: \"p\",\n    pre: \"pre\",\n    span: \"span\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"There is an address line on the Mail app icon on iOS and macOS.\"\n    }), \"\\n\", _jsx(_components.figure, {\n      \"data-rehype-pretty-code-figure\": \"\",\n      children: _jsx(_components.pre, {\n        tabIndex: \"0\",\n        \"data-language\": \"txt\",\n        \"data-theme\": \"github-light github-dark\",\n        children: _jsx(_components.code, {\n          \"data-language\": \"txt\",\n          \"data-theme\": \"github-light github-dark\",\n          style: {\n            display: \"grid\"\n          },\n          children: _jsx(_components.span, {\n            \"data-line\": \"\",\n            children: _jsx(_components.span, {\n              children: \"Apple Park, California 95014\"\n            })\n          })\n        })\n      })\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

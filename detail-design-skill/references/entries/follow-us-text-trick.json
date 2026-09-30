@@ -1,0 +1,26 @@
+{
+  "slug": "follow-us-text-trick",
+  "locale": "en",
+  "title": "\"Follow Us\" Text Trick",
+  "summary": "You don't have to say Follow us on X.",
+  "type": [
+    "copywriting"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/follow-us-text.png",
+      "alt": "\"Follow Us\" Text Trick",
+      "width": 424,
+      "height": 396,
+      "seenAt": "support.apple.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABaAGADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMBAgb/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAD3QBhrnTQAAAZG0iXeaW647AAAEqyOdzTruVDoAACVJGM0dcjrvjs6AAlXCKoltNM6AAAAAAAD/8QAHBABAQACAwEBAAAAAAAAAAAAAQASIBARMAJA/9oACAEBAAE/APfKyLI8W+m7YY8GSxgjwZ5I3Z5I3Z07sodWdQg1Z0I36sbGxsf2/wD/xAAUEQEAAAAAAAAAAAAAAAAAAABQ/9oACAECAQE/ABP/xAAUEQEAAAAAAAAAAAAAAAAAAABQ/9oACAEDAQE/ABP/2Q=="
+    }
+  ],
+  "publishedAt": "2025-11-23",
+  "updatedAt": "2026-06-28",
+  "seo": {
+    "keywords": "social media link text, follow us UX, footer social links, copywriting trick, UI text design"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"You don't have to say \\\"Follow us on X\\\". You can simply put your handle there.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

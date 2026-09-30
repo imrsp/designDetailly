@@ -1,0 +1,26 @@
+{
+  "slug": "no-cmd-or-ctrl-for-shortcuts",
+  "locale": "en",
+  "title": "Platform-Agnostic Shortcut Labels",
+  "summary": "Prioritizing speed and fluency for power users who value millisecond-level improvements.",
+  "type": [
+    "accessibility",
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/platform-agnostic-shortcut-labels.png",
+      "alt": "Platform-Agnostic Shortcut Labels",
+      "width": 1920,
+      "height": 1080,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA2AGADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAECAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAPdIoaRShq55N2A3c46Zx1JpeCtNYMmoyajFsK3SRlrSSK3qUTNtVhVYTrnoSACAAASD/8QAGhABAAMBAQEAAAAAAAAAAAAAAAEREgIQIP/aAAgBAQABPwD22lrW00vyVrdS0000005lHlKTywyyywwjn6uFwuFwuFx7KZRLqWmmmmmnMoSnlSeWGWWWWUR9UpSlK9//xAAVEQEBAAAAAAAAAAAAAAAAAAAwAf/aAAgBAgEBPwBKn//EABYRAQEBAAAAAAAAAAAAAAAAAAEwAP/aAAgBAwEBPwCjif8A/9k="
+    }
+  ],
+  "publishedAt": "2025-10-15T00:00:00.000Z",
+  "updatedAt": "2026-06-28T00:00:00.000Z",
+  "seo": {
+    "keywords": "single-key shortcuts, keyboard navigation, context-aware shortcuts"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h3: \"h3\",\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Standard keyboard shortcuts use a modifier (Cmd, Ctrl, Alt) plus a key. But in the right context, dropping the modifier turns an interface into a high-velocity tool. Vercel’s dashboard does this beautifully—press F and the find menu opens instantly. No finger gymnastics required.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"This isn't a mistake or a broken convention. It's a deliberate choice about what kind of tool Vercel is.\"\n    }), \"\\n\", _jsx(_components.h3, {\n      children: \"Why\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Frictionless Speed: Every modifier key press is a micro-decision and a physical hurdle. Removing it shaves off milliseconds, which accumulate into a feeling of effortless flow for repetitive actions. It’s the difference between walking to a light switch and just saying \\\"lights on.\\\"\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Context-Aware Input: This pattern only works because the interface's primary mode isn't text composition. In a Google Doc, pressing F should type the letter \\\"F\\\". But on a dashboard like Vercel, the app correctly assumes your intent is command, not composition.\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Rewards Mastery: Single-key shortcuts create a \\\"pro-user\\\" tier of interaction. It makes users feel powerful and fluent, like they’re using a specialized tool built for them. It’s a subtle nod to the terminal-native culture of its developer audience.\"\n      }), \"\\n\"]\n    }), \"\\n\", _jsx(_components.h3, {\n      children: \"When\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"In Non-Compositional Views\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"For High-Frequency Actions\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"When Your Audience Values Speed\"\n      }), \"\\n\"]\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

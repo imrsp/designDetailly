@@ -1,0 +1,26 @@
+{
+  "slug": "dynamic-role-of-enter-key",
+  "locale": "en",
+  "title": "Dynamic Role of Enter Key",
+  "summary": "Pressing Enter gives different results depending on the input content.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/media/dynamic-role-enter-key.mp4",
+      "alt": "Dynamic Role of Enter Key",
+      "width": 2334,
+      "height": 1440,
+      "seenAt": "https://discord.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAB8AMADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAECBQMEBv/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/aAAwDAQACEAMQAAAA48J8PpvseYcN6t5VcumreRWGwZBZrmOG1eG2dsxSzZnGmXY5ZU6ujGed+el0zvZ6PNzz9DN83p4uXnPS46U2FjTBDBJpQSHDkJcwxB6Pfn+/drN0M7nrg02L68uupQzUQEMBUmRM3BMuZWgAA7e/we7rI8Po8znzafHrfXl01Ojl6yIUrUqWlAVKSiCAAADt7fF7euPJw6ct4lp+btdS6p8yy1AUkKIIAAAAAADt7fH7+mcznc7zLH5+jEACpiBiBiBiBiBiBiZ6NPN1eXXDQe3zAzz7QwkYIoJKZBYsFuOZ0JeZ1Dk+lF63g1eHf5lp/Z8DpXzSWJBbIq7Z5316x5n63nfkr2dOHfwvRrzerOenfO5V6lyeH39e3Pp//8QAIRAAAgICAQUBAQAAAAAAAAAAAAEDEQITEhAUIDBhBED/2gAIAQEAAT8AyyMpDcKYUwphTCn+m/6dx9O4+ncfRfo+nc/Tufp3P07n6P8AT9H+gynHMbRSCZJkZyDkFIKQ2Gw2m02m02m02s3G5jmHMbhymw2GGZGyVkjLExMXosssbGyyyyzBkTJiTohC9d+WBETEnVC9T88CIlZJ1QvUx+WBESZGfVC8rLLLL88CMzZl1QhMsssssssv0YEZkx9ELpZZZZfswIzJj6LrZZZftwIkMf8ALGQof80RB/MiIg9VFFHE4nE4nA4HA4HAUZFGQ4eNFFFFHEWAsDWaxRCiNJpNBoNAoCOAjjrqheKQkJISQsUcULFCxQsULFCwxFhicMRYYmOKEkf/xAAcEQACAgMBAQAAAAAAAAAAAAAAAQIRAxATMBL/2gAIAQIBAT8AlIbscLORzORzOZzFCiLojMb3XhHa8YGSNaXjAy7vwjKjL5zlRlRTKKZTKK3ZZkZKCZzRzRyRyQ8aPhGRUOQ5s+2SlZ//xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREjADEBMh/9oACAEDAQE/AEKQuQ9T0PQczIzMyTslCxrqy9Ld62yEr1yONa2rIa4Rsj3ZZfdFFHEhMcjMzHNimxSOP6KCPNGCIxo//9k="
+    }
+  ],
+  "publishedAt": "2025-10-29T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "context-aware input, Enter key behavior, markdown code block"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"If you type markdown in the Discord message input, you'll find by pressing Enter key:\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Generally, the message will be sent\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"But if you are in a code block, the message will wrap to new line\"\n      }), \"\\n\"]\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

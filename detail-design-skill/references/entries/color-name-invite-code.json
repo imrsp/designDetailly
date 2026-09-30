@@ -1,0 +1,23 @@
+{
+  "slug": "color-name-invite-code",
+  "locale": "en",
+  "title": "Color Name Invite Code",
+  "summary": "Why do invite codes need to be random strings?",
+  "type": [
+    "easter-egg"
+  ],
+  "media": {
+    "type": "image",
+    "src": "https://file.detail.design/invite-code-content.png",
+    "alt": "Color Name Invite Code - Paper design tool using color-based invite codes",
+    "width": 700,
+    "height": 266,
+    "seenAt": "https://paper.wf",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAAkAGADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEDAgQFBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAD0lNeqejspupMCUCQIlHE179Y71tNhM15mQAAKMA2MgAAAA//EAB0QAAICAgMBAAAAAAAAAAAAAAABAgMEERIgMCH/2gAIAQEAAT8AvyOBVlcpFcuS8suDZRBqZSvnllT0UWJyKX8GzkJ98qqUiiiSkVLSGaF3nFMjCJFGjXh//8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAgEBPwAX/8QAFBEBAAAAAAAAAAAAAAAAAAAAQP/aAAgBAwEBPwAX/9k="
+  },
+  "publishedAt": "2025-12-14",
+  "seo": {
+    "keywords": "memorable invite code, color naming, playful onboarding"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    code: \"code\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_components.p, {\n    children: [\"The design tool Paper transforms the typically mundane invite code into something delightful by formatting them as color names with their hex values—like \", _jsx(_components.code, {\n      children: \"#ffffff-pure-white\"\n    }), \".\"]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

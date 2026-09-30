@@ -1,0 +1,21 @@
+{
+  "slug": "smarter-word-break",
+  "locale": "en",
+  "title": "Smarter Word Break",
+  "summary": "Build interfaces that survive translation",
+  "type": [
+    "design",
+    "copywriting"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/media/smarter-word-break.mp4",
+    "alt": "Smarter Word Break",
+    "width": 1212,
+    "height": 838,
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACFAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA9nrTFCVCZuTBIatxow0aolQlQnLkbA6OY6uYvJFJFJFJ00Dc000xomakiakgw1mFbFFlErE7uigMSXubaBM1JObJjBrBu4OlcqOjmOjmOmQN2akvc20CZqTny68jnrTa2yHQRtiVjnnQRtDLzZL3NtAmakmLkmsoqoHRzFuQ7OeloF5I3ZqStzbQJmpIjpJzaANLIdBNUJUJUMrNkrcW6wZNSYURnSSVDNCkikikikjWCtgXsabOyAMAAAAAAAABoAf/xAAdEAADAAMBAQEBAAAAAAAAAAAAAREQEiAwQAJQ/9oACAEBAAE/AMQhCesIQn235XilKbGxSlKUpS+Tw2UpSlKXpeLwyEIQgkJEIQhCcLl5hEREREQXbwhcvDZSlKUpSlKUpS4QuWMbGxMXohC5YxogkL8mpqampCEIakJhC5eGiCQlxUVeK5eaUpsbFNilKUpS4QuWMeKUpeF2hcvDRCEIQhCExCE8XiEIQnd6peH/AEf/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/AFn/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAEDAQE/AFn/2Q=="
+  },
+  "publishedAt": "2026-09-20T00:00:00.000Z",
+  "draft": false,
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"English never splits in any mode. Japanese and Chinese face the same problem: words are split. Flip to Visual Balance and notice what it does not do: 应用 still splits. Line breaking has two jobs: to keep the proportions and respect the meaning. English only ever needed the proportion half, because spaces guard the meaning half for free. Chinese needs both, and today's platforms hand it exactly one — the visual polish shipped, and the dictionary is still waiting for its wiring.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

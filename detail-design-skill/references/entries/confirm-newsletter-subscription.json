@@ -1,0 +1,25 @@
+{
+  "slug": "confirm-newsletter-subscription",
+  "locale": "en",
+  "title": "Confirm Newsletter Subscription",
+  "summary": "Protect users while ensuring reliable delivery.",
+  "type": [
+    "copywriting"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/confirm-newsletter-subscription.png",
+      "alt": "Confirm Newsletter Subscription",
+      "width": 1226,
+      "height": 1220,
+      "seenAt": "https://resend.com/savour",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABgAGADASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAECAwQGBQf/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAD8/AAlqZRpmAAACRbS5z16MigABcra8mm3NJrz6VMG1TJMC1RrfD6RlPptzyVPYfKPP0tiTAAO3ik9Nr5aT1HB8apbMAAFqyaTQXrEFQAf/8QAIxAAAgIBAwQDAQAAAAAAAAAAAAECEQMEEiAQEzBRBRUxFP/aAAgBAQABPwDjRXiQkS8djfhRGFnaHjGq50JEGbkSaJIorghIrpb6UUND6pm4SbFhkzsTOxMljkhuhsfHSwUmjBpYNfh/JD0PSQr8NXgjFMyqnz0+bYzF8goo+yR9kjUaxTMkrfNG6Xs3T9m6XsbfgQiih+Gzcbhvj//EABQRAQAAAAAAAAAAAAAAAAAAAFD/2gAIAQIBAT8AE//EABQRAQAAAAAAAAAAAAAAAAAAAFD/2gAIAQMBAT8AE//Z"
+    }
+  ],
+  "publishedAt": "2026-05-29T00:00:00.000Z",
+  "seo": {
+    "keywords": "double opt-in, newsletter confirmation, email subscription, confirmed opt-in, spam prevention"
+  },
+  "mdxSource": ""
+}

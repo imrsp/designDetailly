@@ -1,0 +1,25 @@
+{
+  "slug": "auto-segment-the-video",
+  "locale": "en",
+  "title": "Auto Segment the Video",
+  "summary": "Detect video content and create segments automatically.",
+  "type": [
+    "interactivity"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/auto-segament-the-video.mp4",
+      "alt": "Auto Segment the Video",
+      "width": 1512,
+      "height": 1080,
+      "seenAt": "linear.app",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACJAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAIBAwQG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAD4zNiqQLQLZUYpUqEqEtk3JFJFoF7FCLgkRu5pfXn1KaMbpO1q8uXq4NcJqWAMbhVxdIuCdzYbmlXy067xHZxHevNq+jnzxpIwMNwKuLpFwTubAAAAAwA0GAAq4ukXBO5sAAAAM3ADQYACri6RcE7mwAAABgANBjRjcKuLpFwTpG06kOw4uw4Z3g4Z0gxoAxoxo24uqy6OO9UT1WY2TUjYrDlHeTk6jk6jk6jk7DjvSa2oopI6bGlSk1IrMGsGpFJFJ01gTuH/xAAdEAEBAQEAAwEBAQAAAAAAAAAAARESECBAAjBQ/9oACAEBAAE/AGta1rf461rWta3xVa3zGMYxjGMX23xFX0iRIxjly5cr+Vi+0RV9IiVrWtb4r9L7RFX1lSunTp06T9L+lq+0RV9ta1rWunTfeIq/LEVfliKvyxFX5Yir8sRV+WIq+mOXLly5WfziKvmRI5cuXKxYs/lEYxy5T8pGetixjGMYxjlyzzjGJE8a1rfOMYxjGMYzxPSVrVrWtb/i/wD/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/AFn/xAAZEQADAAMAAAAAAAAAAAAAAAAAAREwQGD/2gAIAQMBAT8A0kTGi8b/AP/Z"
+    }
+  ],
+  "publishedAt": "2026-01-25",
+  "seo": {
+    "keywords": "auto video segmentation, AI video chapters, automatic video splitting, smart video timeline, AI video reader"
+  },
+  "mdxSource": ""
+}

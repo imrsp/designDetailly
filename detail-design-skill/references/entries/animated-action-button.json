@@ -1,0 +1,25 @@
+{
+  "slug": "animated-action-button",
+  "locale": "en",
+  "title": "Animated Action Button",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/animated-action-button.mp4",
+      "alt": "Animated Action Button",
+      "width": 1920,
+      "height": 1080,
+      "credit": "https://x.com/rndr_realm/status/2005583839054475645",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABsAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwb/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAPcAAMwpOmgAAAAAAAATUkTsFVzo61zs0AAAAAAACakidgpI6Vxs6uUndwo6ow6OOnZFGgAATWHDn15mbVnO60iO2HKr0nOmHLbDpNgAAAHKLlnenOzWTbWwLYl3MzOq2BdRVmiwAACJ64kbQnLVz2xKksLZsLE1qgsAAAAAAAAAAAAA/8QAHRABAQEAAgMBAQAAAAAAAAAAABEBEBIgMEACUP/aAAgBAQABPwD7Kqr8mt1VZrN+PW84z49b4Zqqrsqqqr6daqqzVV2dmaqqzWaz0a/S8545xvGMZ6NfrEZjq6ojq6oiIjM9Ot4zwvjV9et4z5daicxE5iInriIiIiIiIiJ/W//EABkRAAIDAQAAAAAAAAAAAAAAAAARATBAUP/aAAgBAgEBPwDrSMdaFg//xAAYEQEBAQEBAAAAAAAAAAAAAAARACBAUP/aAAgBAwEBPwD0mcEaIwzwf//Z"
+    }
+  ],
+  "publishedAt": "2026-01-06T00:00:00.000Z",
+  "seo": {
+    "keywords": "animated button, action button animation, micro-interaction, motion design, UI animation"
+  },
+  "mdxSource": ""
+}

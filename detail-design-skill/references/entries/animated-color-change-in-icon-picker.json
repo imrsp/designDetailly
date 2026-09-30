@@ -1,0 +1,26 @@
+{
+  "slug": "animated-color-change-in-icon-picker",
+  "locale": "en",
+  "title": "Animated Color Change in Icon Picker",
+  "summary": "Watch at 0.5x to observe it closer",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/color-transition-in-icon-picker.mp4",
+      "alt": "Animated Color Change in Icon Picker",
+      "width": 1022,
+      "height": 1080,
+      "seenAt": "https://linear.app",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCADLAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQG/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAA+YLWZvNRVRYAAAAAAAAa1jcM9JWGhmahloZaRloZaVloZURRFhvty7lnSJym81ldazm71jPK9Lz3xdWOvK71tynbOnDPTNst258cduZO3DVd3EdJzhvXFZ3150npedm9nBNd751eicFbmC9Ncaz1znRz1nRVsuGxznQc3Qc3Qc3Qc3Qc3Qc3SJhoQlXeOmbqy4qWCyhUShJVS0SkTO81FWc8dOe13jZtGADURQqCCgShSIllVzx057XWdlGVssJYVKCxLSwAEzpYVLz59eW5d41WxkssWVLKhbmmpJBGpUpUstlyY59OfSXWdpouKLEqrFRlVRRFECLBrNyuMbx0zenPpLVmVSlSykFQVAJZUoAlyYzrO5evLpLuJgstVEVAllUAQS1UsrOoc8bx0y3im2EurgbYG2BtgbuBuZhtgbuBuZhcpqf/xAAdEAEBAQEBAQEBAQEAAAAAAAARAQASQBACIDBg/9oACAEBAAECAP8AiJpAAAAAAANNJzfyAc888c888cX82AWXfnfn5fl+z/G6/J8usml66V6666666677v6tZV+KqqvSqqq/wAAAAAB8dPgAAAAAB8mmP4AAAAAuumnluumnluumnluumnluumnluumn+t/u666aeS666aeS666aeS666aeS666aeS666aeS666aeS666ZVVVVVVX1f/EABQQAQAAAAAAAAAAAAAAAAAAAJD/2gAIAQEAAz8AHD//xAAcEQADAAMAAwAAAAAAAAAAAAAAAREQIDACEkD/2gAIAQIBAT8A+pEGeTKJ70uGj1JtSlKUpSlLh8VhD5ofND2mqHyQh80PkhDIQhCEIQhMf//EABsRAAMAAgMAAAAAAAAAAAAAAAABEQISIEBg/9oACAEDAQE/AO2ymIkQSGuUNRIpSl9f/9k="
+    }
+  ],
+  "publishedAt": "2026-01-24T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "color picker animation, icon color transition, smooth color change, Linear app design, motion design"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"When you change the color, you get a smooth transition to the next color. The icon color shifts from the first one to the last one instead of all at once.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

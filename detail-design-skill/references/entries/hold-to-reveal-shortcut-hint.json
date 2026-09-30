@@ -1,0 +1,25 @@
+{
+  "slug": "hold-to-reveal-shortcut-hint",
+  "locale": "en",
+  "title": "Hold to Reveal Shortcut Hint",
+  "summary": "A shortcuts list teaches people once. Holding ⌘ teaches them every time.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/hold-to-reveal-shortcut-hint.mp4",
+      "alt": "Hold to Reveal Shortcut Hint",
+      "width": 968,
+      "height": 918,
+      "seenAt": "chatgpt.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAC2AMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwb/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAADytTYyxzy8IWIWIUIm4IAAAAB2rnZ02dAAMbhk7Jk7JIAAAAOlzRe5RjRjRmVhEdIJm4JAAAAB2uOhWtMaMaMbhE3BMVJAAAAAOt86OtctLRh0cx0cxsMMncJAAAAB01QBjMNYNYAMzcJAAAAB2qLNyhzzphCxCxGXhGbhIAAAAOlxZe5oABmbhkbhObhIAAAAOlxZezQABmVhE1JObhIAAAAOlTRe5poBhuBE3hE3BIAAAAOlTpexpScKThaBeSEVJIAAAAOgNAwAAAMwJAAAAB//xAAbEAADAQEBAQEAAAAAAAAAAAAAAREwEEAgUP/aAAgBAQABPwBEIQmLzQvmE+WPNCebHohYPr0QsHuhLB9eaELBjGPNCFgxjHmhCZSlKUpRsb49EUpSlKUpfFSlKUv46FyEIQhCE3XYQhCE8CF50LB7oWD3QsHusXus2PRcpSlKUvWPalKUpSlLx/h//8QAFBEBAAAAAAAAAAAAAAAAAAAAcP/aAAgBAgEBPwAQ/8QAFBEBAAAAAAAAAAAAAAAAAAAAcP/aAAgBAwEBPwAQ/9k="
+    }
+  ],
+  "publishedAt": "2026-08-10T00:00:00.000Z",
+  "seo": {
+    "keywords": "shortcuts design, scroll threshold, list navigation"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const {Detail} = props.components || ({});\n  if (!Detail) _missingMdxReference(\"Detail\", true);\n  return _jsx(Detail, {\n    slug: \"no-cmd-or-ctrl-for-shortcuts\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\nfunction _missingMdxReference(id, component) {\n  throw new Error(\"Expected \" + (component ? \"component\" : \"object\") + \" `\" + id + \"` to be defined: you likely forgot to import, pass, or provide it.\");\n}\n"
+}

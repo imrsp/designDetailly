@@ -1,0 +1,34 @@
+{
+  "slug": "bring-life-to-ai-features",
+  "locale": "en",
+  "title": "Bring Life to AI Features",
+  "summary": "Not just for fun.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/media/Notion-ai.mp4",
+      "alt": "Bring Life to AI Features",
+      "width": 1124,
+      "height": 1080,
+      "seenAt": "www.notion.so",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCAC4AMADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAIFAQMEBv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAPL133ni2s5GLIRizhHK+EkrBJKwSStpILGkYshGy0pE51fCdLEm2e3p06HnPQHnX1KeRPWp5jtzVQ6HNuzpxfsx5z0B509akaPeiHO3EtlXpz6AAABmMHn8nt8U3y9Xm9U16WxtctAAAFZSbDuQznbiWyr059AAAAADnw9KHn7M6mmpmgAAKyk2HchnO3EtlXpz6AAAAAGZoZoGgAAAAKyk2HchnO3EtFTrw6D7z0cUGFBsANwNMDRQYQHXMJ0O3EEtRbRRfHF0DQ0ADQAAAAxWwU0DNwnw7kQS1FtFJ+TK4gj7z2x9TZWFBhRWzMhhQYUpl1U8ES1FEtRbRQZXMGDDQzTQNDM0lzNwA0zGUMzDxxLcWxLUW2UHOlia2yoPgmtoowIPkqZ0ETWKVOvM5rvOvNGqyU52YPvl+h6RmK5ICuSArkgK5ICuSArkgK5ICtzmLXu4+LnvHeb18mbw6hnT6AAAAAAAAAAAABgGACIB/8QAIxABAAEEAQMFAQAAAAAAAAAAAAMBAhETFARBYRASIDBAMf/aAAgBAQABPwClFLGpqampqampqampqampqampqampqVjVtWW5RxZW9O47juO47jtDQ0NDQ0NDQ47j+HHcdx1enSQ4SW4Q0QWLImqjVRqo1UViVja2t7KPZR7GtSNSJqaqNVGqi6JNYmogdOj+NVaMKq3PcpVSilFFPhenT90Dp0fywwvovqpVGtox8r0/dP3QOnR/Revopajop8706fugdOj+i6i6xSxbb9F6dP3QOnR/RVhhT6L06dA6dH+O9OnQOnR/jvTp+6B06xn0z65+29On7oECxllllln6Mssssrv4nT90HZAs/Hd/E6dAgWfju/idOgQLGfXLP0Z+V38Tp0HZAt/HcnToOyBb+LK6qZOg7IFv4a+lUydAgWMMMMMMfLDDHrX0qmToECyjDDDDDDHrhhhhhj0qquqlqmQ1QXrJKNlGyjZRso2UbKNlGyjZRso2UbKNlGyjZRsoukXSLpEl6WqO7COXC3qHI8uT5cny5PlyfLk+XJ8uT5cny5PlyfLk+XJ8uT5cjy5HlXqFZlZl8i+5SqkmG5ubqt1W6rdVuq3Vbqt1W6rdVuq3Vbqt1W5ubWxW9W5//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERMBJAYP/aAAgBAgEBPwDdfM4kVpjt/8QAGxEAAgIDAQAAAAAAAAAAAAAAAREAMAISQFD/2gAIAQMBAT8A4VFXjDY/XfLtYRBb/9k="
+    },
+    {
+      "type": "image",
+      "src": "https://file.detail.design/kepano-and-notion.jpeg",
+      "alt": "Bring Life to AI Features",
+      "width": 2058,
+      "height": 1882,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABYAGADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAECAwQG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAD3BGZ2vCzTK8yN+boLAAA5ufo5inmHZrz9JDAAB1FmXL1c5iOjfox1BCGKS7zsWWuEpWVy7iq5gZSVILixYb5S41oS3cXcyJ0JyVUWNAAA0AmAIBsD/8QAGxAAAwEAAwEAAAAAAAAAAAAAAAECERASIAP/2gAIAQEAAT8Aq8JsT5usFZL82iXjJo7mlrRS9JNNN4+hp2FZD4z1aGuEfP2iyjRHz9ooqToTBE+kIaGjqJCQ/GCEUUzsSyR+kUVxJI/KEUNHU6koflC46mHUwZhhhhgj/8QAGhEAAQUBAAAAAAAAAAAAAAAAAQAQESAwQP/aAAgBAgEBPwDiKmpYZf/EABYRAAMAAAAAAAAAAAAAAAAAAAEwQP/aAAgBAwEBPwCgM//Z"
+    }
+  ],
+  "publishedAt": "2026-01-05",
+  "draft": false,
+  "seo": {
+    "keywords": "AI character design, Notion AI, product personality, animated AI assistant, UX delight"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    h2: \"h2\",\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Notion allows you to customize the Notion AI character.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Is this just for fun? Sure, it can be. There is a hidden secret for this: make your product LIVE.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"And notion is not the only one who's trying to do this.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Claude Code is using various verbs to describe what it's doing.\"\n    }), \"\\n\", _jsx(_components.h2, {\n      children: \"One more thing\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Kepano is also doing this with @obsidian.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Actually, I didn't know notion copied the idea from Obsidian.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

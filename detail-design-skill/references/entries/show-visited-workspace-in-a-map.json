@@ -1,0 +1,27 @@
+{
+  "slug": "show-visited-workspace-in-a-map",
+  "locale": "en",
+  "title": "Show Visited Workspace in a Map",
+  "summary": "",
+  "type": [
+    "easter-egg"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/show-visited-workspace-in-a-map.jpeg",
+      "alt": "Show Visited Workspace in a Map",
+      "width": 1200,
+      "height": 786,
+      "seenAt": "https://www.conductor.build",
+      "credit": "https://x.com/j_smith/status/2011838578079273381",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAA/AGADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAQACAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA8eypbjmaAtxzthmA6JG7LGUjpARmM51mulQ656hxrB0yAOWkQ2QMQkCUQwUn/8QAGhABAQEBAQEBAAAAAAAAAAAAAQARECAwQP/aAAgBAQABPwCyyz6vMssknwSyx4Z8HEji22z5J5svwGXmz3f1f//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQIBAT8AR//EABQRAQAAAAAAAAAAAAAAAAAAAED/2gAIAQMBAT8AR//Z"
+    }
+  ],
+  "publishedAt": "2026-01-16T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "workspace map, visited locations, easter egg, workspace visualization, interactive map"
+  },
+  "mdxSource": ""
+}

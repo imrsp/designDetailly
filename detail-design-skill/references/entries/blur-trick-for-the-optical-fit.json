@@ -1,0 +1,25 @@
+{
+  "slug": "blur-trick-for-the-optical-fit",
+  "locale": "en",
+  "title": "Blur Trick for the Optical Fit",
+  "summary": "Watch at 0.5x to observe it closer",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/blur-trick-for-the-optical-fit.mp4",
+      "alt": "Blur Trick for the Optical Fit",
+      "width": 638,
+      "height": 360,
+      "credit": "https://x.com/Abmankendrick/status/2016907025658089954",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABsAMADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUBAgQDBgf/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAPVHcOB3g4HeDgd6nKJznaMfIYC6BiLoRkLQZQugZC0GULoPRgKAERNSuaVB1XYlqNOKqljYVA0hTQcwngciaB1CYHIlD7CBNETBHLplMKBl59Mua3OwtGkjrt2Hn8vo1wqrpzkREFisFiofaQJqImCuLZjEKF+hswUvRLsF22V2wU7Tor1rDDg1ZDlEwESEAH2qAUrMFc2niJEHq0qeb4scdnLpzBhoVWNmGvIKSFC4ULBQvB9lCJoAK8+lTKvbcDza71WNPMc/RcrEMPYEUPYEcPQRDwEY8gRjwPdgTQAREwUp1qcOeipkpshMUbYMRsgxmsMZrDJGyDJGwX//xAAkEAACAAYCAgMBAQAAAAAAAAAAAQIDERMUUQRhEiAQITEwQP/aAAgBAQABPwDwPA8TwPA8DwPA8SiPo+iqKoqiqKoqiqKoqiqKoqihQoUKFCgyKNIinJEXIWx8lbMlbMlbMlbMlbMlbMlbMlbMlbMlbMlbMlbMlb92yZNoTeRQmcrsi5XY+U9mU9mU9mU9mV2ZT2ZT2ZT2ZT2ZT2ZT2ZT2ZT37Nk2OhyJ9Kk/kEc5jmsuM8mVY42XGXGXGXGXGXGXGXGXH7RuhyJlDkzf0mR1G/iFEMupZZHKZFC17V92TX9HKj/SfERMYiXBUlSSx9fhM4/RNkUI4KEXpUr7MnP6OU/0n/oxkBJRISFCqEyFUJ8KJqRH/ADZOOUv0nr7IhkLJUZJminKhMnk6dUmR1In/ADZMRyYP05EBGh/EEdCXOoZBMnvZHNbHFUfxQoU92RonQVORJJsoigY0xVFEzzZE2MoUKFChQoU9WMjhqTpNSdxyZxyKQWWWmWmWWWSyWWWWWWWWWWWWWfZjRHBUmSakfHIuN0Pi9GL0Y3RjdGN0Y3RjdGN0Y3RjdGN0Y3Rjde7Q0OEctDlIclFlFlFlFlFlFlFlFlFlFlFlFn+DH/g//8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAp/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAp/9k="
+    }
+  ],
+  "publishedAt": "2026-01-31T00:00:00.000Z",
+  "seo": {
+    "keywords": "optical alignment, blur trick, visual design technique, UI layout, design alignment tip"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"To make the element visually fit, you can blur the item to see whether it placed well.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

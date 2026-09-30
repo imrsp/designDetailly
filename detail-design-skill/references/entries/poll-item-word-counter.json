@@ -1,0 +1,27 @@
+{
+  "slug": "poll-item-word-counter",
+  "locale": "en",
+  "title": "Poll Item Word Counter",
+  "summary": "",
+  "type": [
+    "copywriting",
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/poll-item-word-count.mp4",
+      "alt": "Poll Item Word Counter",
+      "width": 720,
+      "height": 756,
+      "credit": "https://x.com/ridd_design/status/1996617560582951128",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCADKAMADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAECAwQFBv/EABgBAQEBAQEAAAAAAAAAAAAAAAADAQIE/9oADAMBAAIQAxAAAAD8eNAAAAAAb78fVXjr1339UfK9bXkx7uePneb3+Lz14CFAFvQ5OsOboOboOboM9+eu89fXw2s/c8EPoY8UO3mvOfeRPpZTp349i43gWUAWUASwzjeDIJneCAWU1vnTpM0tgqCpQACTQw3DGd4IBZS2U1rOzVujE3kiCpCoNMjWUM894IBZS2UusU63mOmJBEKgqCoKgZ1kgFlLZRZRZSyjKwgAAAGdZIBZS2UVRbSNjm6jjOmCAAAmd4IBZS2UtlNaxTdxTbELhkAAAY3ggFlLZRQoNazrcmN4MjNAAtgY3ggFlLrOyW0jejk6YJmwAAAAY1kgFlLvGjdxTreY3hkksAAAAJnWSAWUus6FAAAAAABKJjeD/8QAHhAAAgICAwEBAAAAAAAAAAAAAREAMAISAxMgEED/2gAIAQEAAQIAuEwxx4+rp6ek8WeGQuxnHMIPGU5JneJhljydvb29p5c88j4AGOuuuuuuuuoAL2333JJ8YgAghJJJJIg+D5xgJJILbbbbJPg+QRls2229m2/BpSSSSSSSMNAAGqVJhh9iCD4YS2222yTDQCDsyW22224aW3Yf0H9BqSSSoNaSRBoNzMNBtZLoNY+GGo1iMw1GlK0+R9QCINh8iD4IPhhsPkfW23Wf0HyPxmf/xAAYEAEBAQEBAAAAAAAAAAAAAAABAEARkP/aAAgBAQADPwDNzERERGLmtmfBT//EAB0RAAMAAgIDAAAAAAAAAAAAAAABAhESAxMgMHD/2gAIAQIBAT8A84QoRojRFpL0TWBcp2naVWfgv//EABoRAAMBAAMAAAAAAAAAAAAAAAABEgIgMHD/2gAIAQMBAT8A56HplMpmX0NEEECXgv8A/9k="
+    }
+  ],
+  "publishedAt": "2025-12-05T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "morphing UI, checkbox transformation, character counter"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"When you create a poll item, the checkbox automatically turns into a ring word counter.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

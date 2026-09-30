@@ -1,0 +1,25 @@
+{
+  "slug": "2-in-1-log-in-field",
+  "locale": "en",
+  "title": "Unified Login Field",
+  "summary": "A trick to merge magic link login and password login together.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/2-in-1-log-in-field.mp4",
+      "alt": "Unified Login Field",
+      "width": 626,
+      "height": 356,
+      "seenAt": "raycast.com",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABtAMADASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAECBQMEBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAD4pqkRbOZ0F5nQOZ0RDpCVBJQSUElBJQSqSFTRdS1YgYgctCBDEDEDEDEDECmpRVNDY1QwQwQwkoJGCGCGCGCGCKtOFTZVJqAAAAAACmkIAAAAAAd8xJ7zpnkvY6rhG6GEbqMM20YptBiG2zDNwMM3WYJvBgz9BB87w28xK3sHdNrv5/QoAEVBMtAhDqKKEy752UIHy6czKwN7BTx6WP2Pouvz1G+YAbywg3FiBtmIG2YgbhhhuvBDfMAN+MNHvzZ4n//EAB4QAAEFAAMBAQAAAAAAAAAAABMBAgMRFAAEEDBA/9oACAEBAAECAPK/PVVVVVV9k4n505d3d3f47u7v7VxOVVVVVVVXxRETicTyqrleV8k4nicT6VVVVV5aI1iRBCEIQhCEIQhCEIQLC6NyRthhZ1suXLlzZs+fPnz5s2bLly5XdaWCVkCdZkUQghEsSxDGMYxiSIQQhki7MfYbAvWfFKYxjLKspSlKUpUlSYxjSS9iTsOjdDMzs6tWrVq06dOjRp06dWrVq1O7Us8r0Vr0kKUpSlKUpSlKUpSlWVz1X//EABoQAQEBAQEBAQAAAAAAAAAAAAABYRECEHD/2gAIAQEAAz8A/QeqqqqqqqqqqqqqrjjrrGMYxjGMYxjGMYxjGOOfO8TiIiIiIiIiIiIicT7zicRERERERERERETiO9cca1rWta1rWta1rWta1135Xp6enp6enp6enp6enp6enp6enp6X5//EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQIBAT8AKf/EABQRAQAAAAAAAAAAAAAAAAAAAGD/2gAIAQMBAT8AKf/Z"
+    }
+  ],
+  "publishedAt": "2026-06-28T00:00:00.000Z",
+  "seo": {
+    "keywords": "unified login field, magic link login, password login, combined auth field, sign-in form UX"
+  },
+  "mdxSource": ""
+}

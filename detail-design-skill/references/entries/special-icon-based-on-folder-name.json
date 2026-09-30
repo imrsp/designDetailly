@@ -1,0 +1,26 @@
+{
+  "slug": "special-icon-based-on-folder-name",
+  "locale": "en",
+  "title": "Special Icon Based on Folder Name",
+  "summary": "macOS will give your folder a special icon based on the folder name",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/special-icon-based-on-folder-name.png",
+      "alt": "Special Icon Based on Folder Name",
+      "width": 544,
+      "height": 418,
+      "seenAt": "https://www.apple.com/os/macos/",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABKAGADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAwACBAUGAf/EABoBAAIDAQEAAAAAAAAAAAAAAAAFAQIEAwb/2gAMAwEAAhADEAAAALQZqXUvtJGYPw76Z+WFg2asGZ4Wu4VcJjktHwLjVltMtpMt51zDJFKzyvE4ZPODaBkFBb6XMaRfsJmNPmOVq4oitcCEURIeJAkkFpoc5olbNUM6vZq4RHFLBHKbEwOSmEgUjoStDR265jV8a703myShT0zeIpSWtIQrEE3jkMQIz3Dr0//EACEQAAICAgEFAQEAAAAAAAAAAAABAgMEESEQEhMxURQi/9oACAEBAAE/AGx2pCuRC2Ir4o/VH6PKj9J3xZZaiViFNMS2Wx0jItcWLIYspjy39HmS+n7H9P1v6PJbHcymbbKa9oyfTMx8sTEMZs2bNmLy0Y6WkZEv5ZmPlibE2bZJjZ3HcJmI+UUy4RkemZftiExskxvqjEfKKXwZD4Zl+2IXSQ+qMX2ij0i63aMl7YhdJIfVGL7RS+Cdm0WrYqmKpniY6mOlnhZ4WKhlFbRXLSO41shBCpHSeElQh0ojSjwIUEjeuiKyHokIkSI9JDP/xAAhEQACAgIBBAMAAAAAAAAAAAAAAQIDBCESExQgMREiUf/aAAgBAgEBPwDuIP0W2SfonXORCucWU2yitjyYxXy2Ys3J7fjl2yWjE8ctbO16b0NpeznH9OSOSMnbGkzN+j0dSQrJDskNtn//xAAgEQACAQQCAwEAAAAAAAAAAAAAAQIDBBJRFDEREyAi/9oACAEDAQE/AFbyKdBLsjjEeLKlGL6OO2ytBRXzb0ky46+bQ5GaEmzCWjCWjCWi1ixPwWf67PVAjShodGGiMEj/2Q=="
+    }
+  ],
+  "publishedAt": "2026-01-13",
+  "draft": false,
+  "seo": {
+    "keywords": "macOS folder icon, folder name icon, macOS design detail, smart folder icon, Apple UX"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    li: \"li\",\n    p: \"p\",\n    ul: \"ul\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"When you create a folder, macOS will give it a special icon based on the folder name.\"\n    }), \"\\n\", _jsxs(_components.ul, {\n      children: [\"\\n\", _jsx(_components.li, {\n        children: \"Developer\"\n      }), \"\\n\", _jsx(_components.li, {\n        children: \"Documents\"\n      }), \"\\n\"]\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

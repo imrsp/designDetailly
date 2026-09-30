@@ -1,0 +1,26 @@
+{
+  "slug": "detect-address-in-pdf",
+  "locale": "en",
+  "title": "Detect Address in PDF",
+  "summary": "",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/detect-address-in-pdf.png",
+      "alt": "Detect Address in PDF",
+      "width": 1320,
+      "height": 1032,
+      "seenAt": "https://apple.com/os/macos",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCABLAGADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAgMBBgAEBQf/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/aAAwDAQACEAMQAAAArvY5Nq5dEbPWLfOvZ3jOJp2oSrKt+NUsrgNz59cabdc67LILUgDGMhi6KQkEga5+V3akXbn07RgzyanDX7MkuQ6F4nJN1+vtXPkV5od7mrFMEQpq6Sp4C2kRL0OPIL3Rr3FgKCqBZInH4IDaE1nGR//EACUQAAIBAgUEAwEAAAAAAAAAAAABAgQRAwUSMTIQExRRICEiFf/aAAgBAQABPwDCV2YGBqRGlFgWRiU1zDpWiVM2tidE29jwn6JUD9H89+hUD9FPyRRYaaQsFHZHgIjgI7KOxE8eI6aJ40fR40fRTckUC+kKP0KKHFFi3RD6JFLzRl+yFsJjfViY30iil5IoOKNRF3+EhysRmRIIpOaMvV0jQ7EYMaGXJMkyCdyBEpX+0ZbshJWEMZIbFC5GAkRKR/tGW8ULZCQ0MkjSJFxMgyk5oy3ZC2QmM0mk0GkcRRZFFJzRluyFsvnZFkI//8QAHREAAgICAwEAAAAAAAAAAAAAAAECERASAyAhMP/aAAgBAgEBPwBCxRWIrqiV6+Cly7ELr3FCEjVfP//EABoRAAIDAQEAAAAAAAAAAAAAAAEQABEhAjD/2gAIAQMBAT8A6lO0SxDkB1YyZXr/AP/Z"
+    }
+  ],
+  "publishedAt": "2026-01-21T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "PDF address detection, smart PDF parsing, document UX, automatic address recognition, macOS design detail"
+  },
+  "mdxSource": ""
+}

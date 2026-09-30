@@ -1,0 +1,25 @@
+{
+  "slug": "immersive-browser-tab-icon",
+  "locale": "en",
+  "title": "Immersive Browser Tab Icon",
+  "summary": "",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/immersive-browser-tab-icon.png",
+      "alt": "Immersive Browser Tab Icon",
+      "width": 867,
+      "height": 282,
+      "credit": "https://x.com/brian_lovin/status/2000712917940101362",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAAfAGADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABAABAgUGA//EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAOCT6SmmyJGh2txBzpzQKseiqnD0lQFK7CAeqOMO/OyTudpLFOPayxCT24GXiH//xAAhEAADAAIBBAMBAAAAAAAAAAAAAQIDFAQQERJREyAhMf/aAAgBAQABPwD6R+kY0z4BYEfAa5XHMmPx6I7DRjX6YUhSjxQkhTJcT2ORK6KhWh3JFyjHyJQuVPs2p9m3PsXNn2VzZ7f0y8maGZcniVymjbZts3aN6zes3qN6jeo3KP/EABkRAAMBAQEAAAAAAAAAAAAAAAABEBESIf/aAAgBAgEBPwA0SH5NHOmbf//EABoRAAICAwAAAAAAAAAAAAAAAAABAhEQEiD/2gAIAQMBAT8AGOVCd86orP8A/9k="
+    }
+  ],
+  "publishedAt": "2025-12-16",
+  "seo": {
+    "keywords": "favicon border, tab highlight, browser chrome theming"
+  },
+  "mdxSource": "\"use strict\";\nconst {jsx: _jsx} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsx(_components.p, {\n    children: \"Dia makes the active pinned tab border roughly match the contents of the favicon.\"\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

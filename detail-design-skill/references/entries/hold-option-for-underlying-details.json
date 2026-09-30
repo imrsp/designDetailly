@@ -1,0 +1,24 @@
+{
+  "slug": "hold-option-for-underlying-details",
+  "locale": "en",
+  "title": "Hold Option for Underlying Details",
+  "type": [
+    "interactivity"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/media/hold-option-for-underlying-details.mp4",
+    "alt": "Hold Option for Underlying Details",
+    "width": 1206,
+    "height": 654,
+    "seenAt": "vercel.com",
+    "credit": "https://x.com/fiveronezi/status/2089787148836757554?s=20",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABoAMADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAA9mC3NKAABELAINM00gqUAzLktzTdzoKIsMATWbIBYl0g1ZoKOedZJZTWsbNASwwCywyACg1rOi2DnnUJVG800gsuTILLDIAKDWs6KDnnWRcjVzS6zos1kyCywksAKC6yN3OjnnWSKFaLqUSwwCyjKwhQAUus6MwJQtC0EDIKCQAKAC0P/8QAGxABAAIDAQEAAAAAAAAAAAAAASBAABEwEGD/2gAIAQEAAT8A+MIvdgYQaZhBsNhsNhqGHr1JkHqQ1ms101w//8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAp/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAwEBPwAp/9k="
+  },
+  "publishedAt": "2026-08-22T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "dashboard design details"
+  },
+  "mdxSource": ""
+}

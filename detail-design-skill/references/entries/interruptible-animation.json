@@ -1,0 +1,25 @@
+{
+  "slug": "interruptible-animation",
+  "locale": "en",
+  "title": "Interruptible Animation",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/interruptible-animation.mp4",
+      "alt": "Interruptible Animation",
+      "width": 1618,
+      "height": 878,
+      "credit": "https://x.com/joshpuckett/status/2009628476035510310",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABoAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQG/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAD7IQAIVBUoAAAQVKAACFZi6koKiqRYEyu2KWCK0RRAOXXgvHHPlNe7v4/Vc9LNWarRnO8Rx8/XxNde3g9Uvr1z6XGtZ3RqGJrMOXWL4se6Lw760ktJbkayhy83tyvh79tLNWsrBpkIAAAAAhUoAAAAAAAAAAlEoAAAAAAAAAAAAAAAAAAf/8QAHxAAAgICAwEBAQAAAAAAAAAAAAECEQMQEiAwE2Bw/9oACAEBAAE/APxNnI5F+FnI5F+UmSmfQjOxPSEVpkmSyCyEZ2J6QiujJmQVmMjpC2zITsVmMjpC7SROB8yEBLpemSRLGLGQgJdL60OJwFHwo4nAS/gP/8QAFBEBAAAAAAAAAAAAAAAAAAAAYP/aAAgBAgEBPwAp/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERIEBQ/9oACAEDAQE/AOmDwh6uaXyf/9k="
+    }
+  ],
+  "publishedAt": "2026-01-10T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "interruptible animation, responsive motion, UI animation, snappy interaction, motion design"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"You should be able to immediately trigger close events without waiting for the animation to complete.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"This helps your interfaces feel durable, snappy, and well considered.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

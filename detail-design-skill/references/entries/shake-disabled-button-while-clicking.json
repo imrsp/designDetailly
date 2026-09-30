@@ -1,0 +1,25 @@
+{
+  "slug": "shake-disabled-button-while-clicking",
+  "locale": "en",
+  "title": "Shake Disabled Button while Clicking",
+  "summary": "",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/shake-disabled-button-while-clicking.mp4",
+      "alt": "Shake Disabled Button while Clicking",
+      "width": 1852,
+      "height": 1080,
+      "credit": "https://x.com/aidenybai/status/2019860647698145580",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABwAMADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECAwQFBv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAPkgAAAAAAAAAREwAWAAJIWghMBNyk9Ghxx25HMvUgERMAGs7WOVtQpa0kLSY11oT0595O2uhy4ejkePz+lwmCYIiYAPR15tiuWuZFbCtosVy0zOj0vM9E7CSFrnn+d7HmHnxehETABtpgN65Da+FjWKVJoqb9vm7nsbeVsd9vPqdfnTzGNLVIiYALAATAlAAWqNb846K4i8VAgQAEoEoEoEoEoEoEoEoEoEwAAH/8QAHxAAAwACAwADAQAAAAAAAAAAAAECAxEQEiATMFBA/9oACAEBAAE/AP3NHU6mvv0a8KScYsQ8RUDn6Op1NGjRo0aGuJREEYxYx4y8ZcFL3MjgqTRrw1xCMUEyaNFyZZLXuDRSNGh8vjGYhctGWTJI/UUKimN864fGNmJkvhI0ZUZkV6TFY6Owmb4bG+IZjsizudzuZLMrK97NmxMVHYbN8JkWRlFlPlHmKyl3sf2b8pis+Q+Qdjo3/Js3+1//xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/ACn/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAEDAQE/ACn/2Q=="
+    }
+  ],
+  "publishedAt": "2026-02-10T00:00:00.000Z",
+  "seo": {
+    "keywords": "disabled button feedback, shake animation, button micro-interaction, UI motion, error feedback"
+  },
+  "mdxSource": ""
+}

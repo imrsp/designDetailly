@@ -1,0 +1,25 @@
+{
+  "slug": "animated-signature",
+  "locale": "en",
+  "title": "Animated Signature",
+  "summary": "",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/animated-signature.mp4",
+      "alt": "Animated Signature",
+      "width": 960,
+      "height": 720,
+      "credit": "https://x.com/mosiddiquee/status/2036868119776682336",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCACQAMADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBAUDBv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAPuInyJrkxnWcQdtxB23EHbcQdtxrnWcsdRyx1HLsdS/P1nuiRn0Zjlcnp8g83iPZ4j2eMnrMaCNc7Txtuuc50Rzrbx47I9i8gz6PA5fL63NMb1Hk9R5WvJ6bseo26MMnSnmWOnbDqPUkiQAePt5nPw9TwObPQk5zojnOirn23DG2DHbZaPPb5+56SAACtqnl538E9Z8Lnoi+rVZVVhWZkm8XyiSAAAFL0MuLXg1xj2x+2c9HTj2u1ljVVhVYRIAAAAIkZ82+msc6+1J5aItN2VLZUWVFkCQAAAAVrapEBZEiJqJgSgWtS5YAAAAERYUXFJsKxcUXFFxWZAAAAH/xAAhEAABBAICAwEBAAAAAAAAAAABAgMREwASEBQgMEAEUP/aAAgBAQABAgDJK7bbbbbbbbbbbbbbbbQ4DysuOr/T2u12u12u12u12Q/bbbbaHULQRy6X1OuWWWWWWWBaCjAnXXXUJbSgDl3P0B1OuuuuoQltDDbDbCWaaaaQyltKeXMfxwRERADYbSgJIXuFDIiPBzHscEREQAjELDltodQtJHmsOpW3TTTTTTVprGqQ2EYPNWLSW66qq666666qg0ltI8zhEARERERAAGseg4olW4UMiIiIAHrVjhWuxC0FIjXWIiPUrHQ4IQG8T8RxaVNUpaQhPxkFOuoGTMzMz7ZmeJmZmR84weyIiIiIiIj+D//EABwQAQEAAgMBAQAAAAAAAAAAAAEAEUACIFAwcP/aAAgBAQADPwDZxYsb7MzMzMzPZmZmZmWZ1iIuJcYiIjyGZmZ2MfMiIiIiIiIjxs6rOZ1c9MfhX//EABkRAAIDAQAAAAAAAAAAAAAAABFQAAEwQP/aAAgBAgEBPwBSOQS8yj//xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRMFAS/9oACAEDAQE/AOjZecmJsjk4ngS4P//Z"
+    }
+  ],
+  "publishedAt": "2026-04-14T00:00:00.000Z",
+  "seo": {
+    "keywords": "animated signature, handwriting animation, SVG stroke animation, signature reveal, motion design detail"
+  },
+  "mdxSource": ""
+}

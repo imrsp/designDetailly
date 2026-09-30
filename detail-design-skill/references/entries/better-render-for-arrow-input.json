@@ -1,0 +1,27 @@
+{
+  "slug": "better-render-for-arrow-input",
+  "locale": "en",
+  "title": "Better Render for Arrow Input",
+  "type": [
+    "design"
+  ],
+  "media": {
+    "type": "video",
+    "src": "https://file.detail.design/media/better-render-for-arrow-input-4519d1f5.mp4",
+    "alt": "Better Render for Arrow Input - Media 1",
+    "width": 1920,
+    "height": 822,
+    "seenAt": "linear.app",
+    "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABSAMADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAECAwQGBf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAL4eLTmdA+beb0j5szekOcDpDmw6Q5wOkObDpDmw6Nc6mdGc2HRnOGumt5nRUeVRKqxOu6LbskUl7M60ozl6KS5lK0xMsLqAIhJwC63NK4lXOGaWVSmtM8zNDyo1mUNMc6NMsjNiyhOhxEAABKSnmxi43BOEpqxAQjKIhghggAAAAAAAJ21WRVSZ15pqY5TvqMpsKnEbFjItkW5Vqi3MtEc2gthNQGZqYDlBgBUlgbmnSHbhYBfNRDNSBsIhlRiE7XUHPrBBNAAAH//EACAQAAICAgIDAQEAAAAAAAAAAAESAhQAERAgAwQTQDD/2gAIAQEAAQIAPs2rdu3bt27du3btWrVq1atWrVoezH2Jec+exYsWLFixYsWLNmzZs2bNmxYj7EfYlKUtjANa1rWuNaOEszMwnHyEnBkcA0qqq60qmMgeww4eIkSZnZmZhJjKRPUYMOHgYCzO7uzO7mXUYMPI4OH8AwdBmzh/AMB5GDNKiIqquta7A8gRiIfP5/P5oiIpiYkfxjkMj3OHg4cPf//EABkQAQEBAQEBAAAAAAAAAAAAAAABYVEQcP/aAAgBAQADPwDWta1rWta1rWta1rWta1vl6vV6vVVVVVVVVV61er1etb7VVVVVVVVVVVVVVfoP/8QAGxEAAgIDAQAAAAAAAAAAAAAAABIBEQIQMCD/2gAIAQIBAT8AUUUUUUUUUoojEnnEk87J5zqiMBBBBBCitVqDHzJPj//EABwRAAIBBQEAAAAAAAAAAAAAAAABEQIQEhMwIP/aAAgBAwEBPwBPm2Lm0LnAuatI64NhsMzMzJJJJsyryheP/9k="
+  },
+  "publishedAt": "2025-10-22T00:00:00.000Z",
+  "seo": {
+    "keywords": [
+      "better render for arrow input",
+      "text transformation",
+      "arrow rendering",
+      "smart text replacement"
+    ]
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Have you ever tried to type an arrow? You are probably typing “-” then “>”.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"Notion will also do this.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

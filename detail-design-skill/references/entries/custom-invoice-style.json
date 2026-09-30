@@ -1,0 +1,25 @@
+{
+  "slug": "custom-invoice-style",
+  "locale": "en",
+  "title": "Custom Invoice Style",
+  "summary": "Invoice PDF can be not boring.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "image",
+      "src": "https://file.detail.design/custom-invoice-style.jpeg",
+      "alt": "Custom Invoice Style",
+      "width": 3165,
+      "height": 4096,
+      "credit": "https://x.com/kail_designs/status/2034743490715033930",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////2wBDARAQEBAREBIUFBIZGxgbGSUiHx8iJTgoKygrKDhVNT41NT41VUtbSkVKW0uHal5eaoecg3yDnL2pqb3u4u7/////wgARCAB8AGADASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAECBAMFBv/EABgBAQEBAQEAAAAAAAAAAAAAAAACAwEE/9oADAMBAAIQAxAAAAD9xLk1rGioKBLDGs0pC0ABCs0XNKkNJQBKJQgE0JQAAAyooLAAAAA888mY07vT5vX3nRIqDOizOD2udH57PhnL1/R6eLvZdHv5+mmUZd5YGtZ0fBz13LXPb59NTurcYaEWkWH/xAAeEAACAwADAQEBAAAAAAAAAAAAAQIQEQMTIDBAUP/aAAgBAQABPwA032zRMdL2zBL8j8L7b/bczsFyCd6aabfYOZGZCYpDpDpU+U7iEtIsg/DMFTTEnpxaQiQjT8KpcYuM44EIirDDDLaFFEEiPx//xAAaEQACAgMAAAAAAAAAAAAAAAABIAACEBJA/9oACAECAQE/AO7aCyjAQyoX/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECIBIhQP/aAAgBAwEBPwDuwJRroY6JknX/2Q=="
+    }
+  ],
+  "publishedAt": "2026-03-24T00:00:00.000Z",
+  "seo": {
+    "keywords": "custom invoice design, branded invoice PDF, invoice typography, document design, invoice style detail"
+  },
+  "mdxSource": ""
+}

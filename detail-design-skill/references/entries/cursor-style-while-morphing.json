@@ -1,0 +1,26 @@
+{
+  "slug": "cursor-style-while-morphing",
+  "locale": "en",
+  "title": "Cursor Style While Morphing",
+  "summary": "Did you see the difference?",
+  "type": [
+    "motion"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/cursor-style-morphing.mp4",
+      "alt": "Cursor Style While Morphing",
+      "width": 3840,
+      "height": 2160,
+      "seenAt": "https://detail.design",
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABsAMADASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAgABAwQG/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAPuM3idLy6eq5IcIcI6Qjc5cj1Ly9jpCHCHvPR2aXm9PE8e9KzojCzI2yHpRw4ermDvz6G2Rtkagjow5YMHPEbKoyoqjWGRRMqLNwqiRR0YcsGTmUbKoy3CqEiiLIaizYyokUdGHLFE5lZZlRZsZUJhkUQ1FUZbhIo6MOWKw5nobBPAygyjHjCehBjgSgyg7qNZUtUZigygygyg7sZbBlBlBlBlFUf/EABwQAQEBAAMBAQEAAAAAAAAAAAABEQIQMCASQP/aAAgBAQABPwBa/T9Na1rWtatfp+mta1rfiuVXmnNK1rWtatcuT9uPJK1rWtb3XNXFx+dSq5q4p86lRFcovFOKfU65ReKcU+oiKqxn3O7PCIiqvhE6vhERVXwidXwiIqr4ROr4REVV8InV8IiKq+ETq+ERFVfCJ1fCIndjGMYxjEndjGMYxjEifOMYxjGM7xjGMYxjP6//xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/ACn/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAEDAQE/ACn/2Q=="
+    }
+  ],
+  "publishedAt": "2025-12-14T00:00:00.000Z",
+  "draft": false,
+  "seo": {
+    "keywords": "cursor consistency, morph transition, disabled state timing"
+  },
+  "mdxSource": "\"use strict\";\nconst {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];\nfunction _createMdxContent(props) {\n  const _components = {\n    p: \"p\",\n    ...props.components\n  };\n  return _jsxs(_Fragment, {\n    children: [_jsx(_components.p, {\n      children: \"Did you see the difference between these two morph transitions?\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The left one is fixing the cursor style while morphing, so the form elements affect the cursor style.\"\n    }), \"\\n\", _jsx(_components.p, {\n      children: \"The right one will enable the form only after the transition is complete, so the cursor style is consistent while expanding.\"\n    })]\n  });\n}\nfunction MDXContent(props = {}) {\n  const {wrapper: MDXLayout} = props.components || ({});\n  return MDXLayout ? _jsx(MDXLayout, {\n    ...props,\n    children: _jsx(_createMdxContent, {\n      ...props\n    })\n  }) : _createMdxContent(props);\n}\nreturn {\n  default: MDXContent\n};\n"
+}

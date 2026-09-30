@@ -1,0 +1,24 @@
+{
+  "slug": "overflow-tolerant-input",
+  "locale": "en",
+  "title": "Overflow-tolerant input",
+  "summary": "Let people finish their thought.",
+  "type": [
+    "design"
+  ],
+  "media": [
+    {
+      "type": "video",
+      "src": "https://file.detail.design/overflow-tolerant-input.mp4",
+      "alt": "Mailto Link",
+      "width": 1520,
+      "height": 890,
+      "thumbnail": "data:image/jpeg;base64,/9j/2wBDABISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////2wBDARISEhITEhQWFhQcHhseHCkmIiImKT4sMCwwLD5eO0U7O0U7XlNlUk1SZVOWdmhodpatkYqRrdK8vNL/+///////wgARCABwAMADASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAECBAUDBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAD7EQAAAAAAAAAAAAURRFEURRFEURRFEUQCylSGVwGbEZMaWABWMM2NKgqCTLEEPLV9NCvZoDoueOhlzPQ62xzd89PD10iYavidG86nQnPHU2OTvG9cM4SjX1Olicp1By3UHKz6Q1drLIx1tvE5nn1oct1By51RztrYoyAAAAAAAAAAAAAAAAAAAAAAAAD/xAAdEAACAwEBAQEBAAAAAAAAAAAAAQIRExIDECBg/9oACAEBAAE/AP6aiiiv3RRRRX6s6R2jtHaO0do7R19s7R2jtHaO0do6Rf4ZOdEvU3Nzc3Nxe5D0sixsnOiXsbm5ubm5H2IzsT+yPQ9LG2Wy2Wy2RbPNsgSPUm2Wy2Wy2WyDZ5kfrJxsn5GJiYmJiR8SEKIoaJwsl5GJiYmJiR8iEKI/ijhGaM0ZozRmjNHP3k4RmjNGaM0Zo4Rz/R//xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAECAQE/ACn/xAAUEQEAAAAAAAAAAAAAAAAAAABg/9oACAEDAQE/ACn/2Q=="
+    }
+  ],
+  "publishedAt": "2026-06-26T00:00:00.000Z",
+  "seo": {
+    "keywords": "mailto link, copy email to clipboard, email contact link, clickable email address, email UX detail"
+  },
+  "mdxSource": ""
+}
