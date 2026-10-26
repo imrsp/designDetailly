@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import re
 import os
+import ssl
 import subprocess
 import sys
 import tempfile
@@ -20,6 +21,7 @@ BASE = "https://detail.design"
 REPO = Path(__file__).resolve().parents[1]
 ROOT = REPO / "detail-design-skill"
 REFS = ROOT / "references"
+WORK = REPO / "work"
 PAGES = {
     "home": "/",
     "resource": "/resource",
@@ -28,12 +30,29 @@ PAGES = {
 }
 
 
+def create_ssl_context() -> ssl.SSLContext:
+    """Use system roots, falling back to certifi if this Python has none."""
+    context = ssl.create_default_context()
+    if context.cert_store_stats().get("x509_ca", 0):
+        return context
+    try:
+        import certifi
+    except ImportError as exc:
+        raise RuntimeError(
+            "Python has no trusted CA certificates; install certifi or configure SSL_CERT_FILE"
+        ) from exc
+    return ssl.create_default_context(cafile=certifi.where())
+
+
+SSL_CONTEXT = create_ssl_context()
+
+
 def get(url: str) -> bytes:
     error = None
     for attempt in range(5):
         try:
             req = Request(url, headers={"User-Agent": "detail-design-content-archive/1.0"})
-            with urlopen(req, timeout=40) as response:
+            with urlopen(req, timeout=40, context=SSL_CONTEXT) as response:
                 if response.status != 200:
                     raise RuntimeError(f"HTTP {response.status}: {url}")
                 return response.read()
@@ -147,7 +166,8 @@ def main():
     if isinstance(catalog.get("total"), int) and catalog["total"] != len(slugs):
         raise RuntimeError(f"Catalog says total={catalog['total']} but returned {len(slugs)}")
 
-    with tempfile.TemporaryDirectory(prefix="detail-design-update-", dir=REFS) as tmp:
+    WORK.mkdir(parents=True, exist_ok=True)
+    with tempfile.TemporaryDirectory(prefix="detail-design-update-", dir=WORK) as tmp:
         staging = Path(tmp) / "entries"
         staging.mkdir()
         empty_bodies = []
@@ -204,7 +224,7 @@ def main():
                 old_manifest["captured_at"] = today
                 write_json(manifest_path, old_manifest)
             print("Source content is unchanged; archive data was preserved and freshness dates updated.")
-            result = subprocess.run([sys.executable, str(ROOT / "scripts/verify_archive.py")], check=False)
+            result = subprocess.run([sys.executable, str(REPO / "scripts/verify_archive.py")], check=False)
             if result.returncode:
                 raise RuntimeError("Archive verification failed after date refresh")
             push_if_changed()
@@ -242,7 +262,7 @@ def main():
     content = update_skill_references(content, today, len(slugs))
     skill.write_text(content, encoding="utf-8")
 
-    result = subprocess.run([sys.executable, str(ROOT / "scripts/verify_archive.py")], check=False)
+    result = subprocess.run([sys.executable, str(REPO / "scripts/verify_archive.py")], check=False)
     if result.returncode:
         raise RuntimeError("Archive verification failed after refresh")
     print(f"Updated {len(slugs)} entries and {len(site_pages)} pages ({today}); empty source bodies: {len(empty_bodies)}")

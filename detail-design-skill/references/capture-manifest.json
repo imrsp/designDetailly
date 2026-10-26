@@ -1,7 +1,7 @@
 {
   "source": "https://detail.design",
   "locale": "en",
-  "captured_at": "2026-09-30",
+  "captured_at": "2026-10-26",
   "catalog_endpoint": "/api/details?locale=en&page=N",
   "detail_endpoint": "/api/detail-content?slug={slug}&locale=en",
   "catalog_pages_fetched": [
